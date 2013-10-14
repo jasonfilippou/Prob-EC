@@ -1,7 +1,15 @@
----------------------------------
-Contents
-((f) for file, (d) for directory)
----------------------------------
+-------
+Summary
+-------
+
+Prob-EC (Probabilistic Event Calculus) is a version of the original Event Calculus, originally introduced  by Robert Kowalski and Marek Sergot
+in their paper "A Logic-Based Calculus of Events", New Generation Computing 4: 67–95. The relevant paper detailing our system will appear in 
+the Special Issue on Probability, Logic and Learning of the Cambridge University Press journal "Theory and Practice of Logic Programming" in early 2014. 
+A PDF copy of the paper is available at: http://arxiv.org/abs/1204.1851.
+
+------------------------------------------
+Contents ((f) for file, (d) for directory)
+------------------------------------------
 
 prob-EC-code(d)
   |
