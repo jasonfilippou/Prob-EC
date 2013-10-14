@@ -1,0 +1,3227 @@
+
+
+% Frame number: 820
+0.0331::happensAt( walking( id0 ), 32800 ). 0.381::holdsAt( coord( id0 )=( 81, 205 ), 32800 ).
+
+% Frame number: 821
+0.14::happensAt( walking( id0 ), 32840 ). 0.0611::holdsAt( coord( id0 )=( 81, 205 ), 32840 ).
+
+% Frame number: 822
+0.13::happensAt( walking( id0 ), 32880 ). 0.301::holdsAt( coord( id0 )=( 81, 205 ), 32880 ).
+
+% Frame number: 823
+0.0346::happensAt( walking( id0 ), 32920 ). 0.00192::holdsAt( coord( id0 )=( 81, 205 ), 32920 ).
+
+% Frame number: 824
+0.168::happensAt( walking( id0 ), 32960 ). 0.122::holdsAt( coord( id0 )=( 81, 205 ), 32960 ).
+
+% Frame number: 825
+0.561::happensAt( walking( id0 ), 33000 ). 0.132::holdsAt( coord( id0 )=( 81, 205 ), 33000 ).
+
+% Frame number: 826
+0.179::happensAt( walking( id0 ), 33040 ). 0.145::holdsAt( coord( id0 )=( 81, 205 ), 33040 ).
+
+% Frame number: 827
+0.254::happensAt( walking( id0 ), 33080 ). 0.202::holdsAt( coord( id0 )=( 81, 205 ), 33080 ).
+
+% Frame number: 828
+0.477::happensAt( walking( id0 ), 33120 ). 0.015::holdsAt( coord( id0 )=( 81, 205 ), 33120 ).
+
+% Frame number: 829
+0.28::happensAt( walking( id0 ), 33160 ). 0.65::holdsAt( coord( id0 )=( 81, 205 ), 33160 ).
+
+% Frame number: 830
+0.237::happensAt( walking( id0 ), 33200 ). 0.142::holdsAt( coord( id0 )=( 81, 205 ), 33200 ).
+
+% Frame number: 831
+0.286::happensAt( walking( id0 ), 33240 ). 0.134::holdsAt( coord( id0 )=( 80, 203 ), 33240 ).
+
+% Frame number: 832
+0.214::happensAt( walking( id0 ), 33280 ). 0.338::holdsAt( coord( id0 )=( 80, 203 ), 33280 ).
+
+% Frame number: 833
+0.527::happensAt( walking( id0 ), 33320 ). 0.112::holdsAt( coord( id0 )=( 80, 203 ), 33320 ).
+
+% Frame number: 834
+0.043::happensAt( walking( id0 ), 33360 ). 0.232::holdsAt( coord( id0 )=( 80, 203 ), 33360 ).
+
+% Frame number: 835
+0.561::happensAt( walking( id0 ), 33400 ). 0.414::holdsAt( coord( id0 )=( 80, 203 ), 33400 ).
+
+% Frame number: 836
+0.0981::happensAt( walking( id0 ), 33440 ). 0.422::holdsAt( coord( id0 )=( 80, 203 ), 33440 ).
+
+% Frame number: 837
+0.478::happensAt( walking( id0 ), 33480 ). 0.00411::holdsAt( coord( id0 )=( 80, 203 ), 33480 ).
+
+% Frame number: 838
+0.0132::happensAt( walking( id0 ), 33520 ). 0.296::holdsAt( coord( id0 )=( 80, 203 ), 33520 ).
+
+% Frame number: 839
+0.75::happensAt( walking( id0 ), 33560 ). 0.00673::holdsAt( coord( id0 )=( 80, 203 ), 33560 ).
+
+% Frame number: 840
+0.24::happensAt( walking( id0 ), 33600 ). 0.439::holdsAt( coord( id0 )=( 80, 203 ), 33600 ).
+
+% Frame number: 841
+0.435::happensAt( walking( id0 ), 33640 ). 0.055::holdsAt( coord( id0 )=( 80, 203 ), 33640 ).
+
+% Frame number: 842
+0.409::happensAt( walking( id0 ), 33680 ). 0.0548::holdsAt( coord( id0 )=( 79, 199 ), 33680 ).
+
+% Frame number: 843
+0.172::happensAt( walking( id0 ), 33720 ). 0.0433::holdsAt( coord( id0 )=( 79, 199 ), 33720 ).
+
+% Frame number: 844
+0.143::happensAt( walking( id0 ), 33760 ). 0.207::holdsAt( coord( id0 )=( 81, 198 ), 33760 ).
+
+% Frame number: 845
+0.0159::happensAt( walking( id0 ), 33800 ). 0.185::holdsAt( coord( id0 )=( 81, 198 ), 33800 ).
+
+% Frame number: 846
+0.107::happensAt( walking( id0 ), 33840 ). 0.308::holdsAt( coord( id0 )=( 81, 198 ), 33840 ).
+
+% Frame number: 847
+0.0108::happensAt( walking( id0 ), 33880 ). 0.291::holdsAt( coord( id0 )=( 81, 198 ), 33880 ).
+
+% Frame number: 848
+0.442::happensAt( walking( id0 ), 33920 ). 0.116::holdsAt( coord( id0 )=( 81, 198 ), 33920 ).
+
+% Frame number: 849
+0.296::happensAt( walking( id0 ), 33960 ). 0.27::holdsAt( coord( id0 )=( 81, 198 ), 33960 ).
+
+% Frame number: 850
+0.208::happensAt( walking( id0 ), 34000 ). 0.237::holdsAt( coord( id0 )=( 81, 196 ), 34000 ).
+
+% Frame number: 851
+0.145::happensAt( walking( id0 ), 34040 ). 0.0179::holdsAt( coord( id0 )=( 81, 195 ), 34040 ).
+
+% Frame number: 852
+0.249::happensAt( walking( id0 ), 34080 ). 0.0257::holdsAt( coord( id0 )=( 81, 195 ), 34080 ).
+
+% Frame number: 853
+0.124::happensAt( walking( id0 ), 34120 ). 0.422::holdsAt( coord( id0 )=( 81, 194 ), 34120 ).
+
+% Frame number: 854
+0.3::happensAt( walking( id0 ), 34160 ). 0.204::holdsAt( coord( id0 )=( 81, 193 ), 34160 ).
+
+% Frame number: 855
+0.0888::happensAt( walking( id0 ), 34200 ). 0.134::holdsAt( coord( id0 )=( 81, 193 ), 34200 ).
+
+% Frame number: 856
+0.126::happensAt( walking( id0 ), 34240 ). 0.00697::holdsAt( coord( id0 )=( 81, 192 ), 34240 ).
+
+% Frame number: 857
+0.0492::happensAt( walking( id0 ), 34280 ). 0.0174::holdsAt( coord( id0 )=( 81, 192 ), 34280 ).
+
+% Frame number: 858
+0.227::happensAt( walking( id0 ), 34320 ). 0.047::holdsAt( coord( id0 )=( 81, 192 ), 34320 ).
+
+% Frame number: 859
+0.105::happensAt( walking( id0 ), 34360 ). 0.422::holdsAt( coord( id0 )=( 81, 192 ), 34360 ).
+
+% Frame number: 860
+0.0635::happensAt( walking( id0 ), 34400 ). 0.111::holdsAt( coord( id0 )=( 81, 190 ), 34400 ).
+
+% Frame number: 861
+0.0357::happensAt( walking( id0 ), 34440 ). 0.197::holdsAt( coord( id0 )=( 81, 189 ), 34440 ).
+
+% Frame number: 862
+0.284::happensAt( walking( id0 ), 34480 ). 0.22::holdsAt( coord( id0 )=( 81, 189 ), 34480 ).
+
+% Frame number: 863
+0.427::happensAt( walking( id0 ), 34520 ). 0.286::holdsAt( coord( id0 )=( 81, 189 ), 34520 ).
+
+% Frame number: 864
+0.216::happensAt( walking( id0 ), 34560 ). 0.575::holdsAt( coord( id0 )=( 81, 188 ), 34560 ).
+
+% Frame number: 865
+0.187::happensAt( walking( id0 ), 34600 ). 0.0636::holdsAt( coord( id0 )=( 81, 188 ), 34600 ).
+
+% Frame number: 866
+0.178::happensAt( walking( id0 ), 34640 ). 0.621::holdsAt( coord( id0 )=( 81, 188 ), 34640 ).
+
+% Frame number: 867
+0.399::happensAt( walking( id0 ), 34680 ). 0.0801::holdsAt( coord( id0 )=( 81, 188 ), 34680 ).
+
+% Frame number: 868
+0.017::happensAt( walking( id0 ), 34720 ). 0.39::holdsAt( coord( id0 )=( 81, 188 ), 34720 ).
+
+% Frame number: 869
+0.218::happensAt( walking( id0 ), 34760 ). 0.188::holdsAt( coord( id0 )=( 81, 188 ), 34760 ).
+
+% Frame number: 870
+0.124::happensAt( walking( id0 ), 34800 ). 0.249::holdsAt( coord( id0 )=( 81, 184 ), 34800 ).
+
+% Frame number: 871
+0.0363::happensAt( walking( id0 ), 34840 ). 0.485::holdsAt( coord( id0 )=( 81, 183 ), 34840 ).
+
+% Frame number: 872
+0.636::happensAt( walking( id0 ), 34880 ). 0.0105::holdsAt( coord( id0 )=( 81, 182 ), 34880 ).
+
+% Frame number: 873
+0.0558::happensAt( walking( id0 ), 34920 ). 0.326::holdsAt( coord( id0 )=( 81, 181 ), 34920 ).
+
+% Frame number: 874
+0.124::happensAt( walking( id0 ), 34960 ). 0.386::holdsAt( coord( id0 )=( 81, 180 ), 34960 ).
+
+% Frame number: 875
+0.0547::happensAt( walking( id0 ), 35000 ). 0.0099::holdsAt( coord( id0 )=( 81, 178 ), 35000 ).
+
+% Frame number: 876
+0.208::happensAt( walking( id0 ), 35040 ). 0.037::holdsAt( coord( id0 )=( 81, 177 ), 35040 ).
+
+% Frame number: 877
+0.147::happensAt( walking( id0 ), 35080 ). 0.126::holdsAt( coord( id0 )=( 81, 177 ), 35080 ).
+
+% Frame number: 878
+0.206::happensAt( walking( id0 ), 35120 ). 0.365::holdsAt( coord( id0 )=( 82, 176 ), 35120 ).
+
+% Frame number: 879
+0.185::happensAt( walking( id0 ), 35160 ). 0.45::holdsAt( coord( id0 )=( 82, 176 ), 35160 ).
+
+% Frame number: 880
+0.234::happensAt( walking( id0 ), 35200 ). 0.161::holdsAt( coord( id0 )=( 82, 175 ), 35200 ).
+
+% Frame number: 881
+0.363::happensAt( walking( id0 ), 35240 ). 0.235::holdsAt( coord( id0 )=( 83, 175 ), 35240 ).
+
+% Frame number: 882
+0.231::happensAt( walking( id0 ), 35280 ). 0.415::holdsAt( coord( id0 )=( 83, 173 ), 35280 ).
+
+% Frame number: 883
+0.149::happensAt( walking( id0 ), 35320 ). 0.0917::holdsAt( coord( id0 )=( 83, 173 ), 35320 ).
+
+% Frame number: 884
+0.144::happensAt( walking( id0 ), 35360 ). 0.127::holdsAt( coord( id0 )=( 83, 173 ), 35360 ).
+
+% Frame number: 885
+0.213::happensAt( walking( id0 ), 35400 ). 0.0646::holdsAt( coord( id0 )=( 84, 172 ), 35400 ).
+
+% Frame number: 886
+0.0302::happensAt( walking( id0 ), 35440 ). 0.1::holdsAt( coord( id0 )=( 84, 171 ), 35440 ).
+
+% Frame number: 887
+0.129::happensAt( walking( id0 ), 35480 ). 0.374::holdsAt( coord( id0 )=( 85, 170 ), 35480 ).
+
+% Frame number: 888
+0.242::happensAt( walking( id0 ), 35520 ). 0.0328::holdsAt( coord( id0 )=( 85, 170 ), 35520 ).
+
+% Frame number: 889
+0.135::happensAt( walking( id0 ), 35560 ). 0.0966::holdsAt( coord( id0 )=( 85, 169 ), 35560 ).
+
+% Frame number: 890
+0.344::happensAt( walking( id0 ), 35600 ). 0.199::holdsAt( coord( id0 )=( 85, 168 ), 35600 ).
+
+% Frame number: 891
+0.0384::happensAt( walking( id0 ), 35640 ). 0.0834::holdsAt( coord( id0 )=( 85, 167 ), 35640 ).
+
+% Frame number: 892
+0.0899::happensAt( walking( id0 ), 35680 ). 0.369::holdsAt( coord( id0 )=( 85, 166 ), 35680 ).
+
+% Frame number: 893
+0.0353::happensAt( walking( id0 ), 35720 ). 0.32::holdsAt( coord( id0 )=( 85, 165 ), 35720 ).
+
+% Frame number: 894
+0.139::happensAt( walking( id0 ), 35760 ). 0.0685::holdsAt( coord( id0 )=( 85, 164 ), 35760 ).
+
+% Frame number: 895
+0.282::happensAt( walking( id0 ), 35800 ). 0.136::holdsAt( coord( id0 )=( 85, 163 ), 35800 ).
+
+% Frame number: 896
+0.0586::happensAt( walking( id0 ), 35840 ). 0.175::holdsAt( coord( id0 )=( 85, 162 ), 35840 ).
+
+% Frame number: 897
+0.0566::happensAt( walking( id0 ), 35880 ). 0.0638::holdsAt( coord( id0 )=( 85, 162 ), 35880 ).
+
+% Frame number: 898
+0.559::happensAt( walking( id0 ), 35920 ). 0.00744::holdsAt( coord( id0 )=( 85, 161 ), 35920 ).
+
+% Frame number: 899
+0.0417::happensAt( walking( id0 ), 35960 ). 0.328::holdsAt( coord( id0 )=( 85, 161 ), 35960 ).
+
+% Frame number: 900
+0.354::happensAt( walking( id0 ), 36000 ). 0.0524::holdsAt( coord( id0 )=( 85, 161 ), 36000 ).
+
+% Frame number: 901
+0.24::happensAt( walking( id0 ), 36040 ). 0.697::holdsAt( coord( id0 )=( 85, 161 ), 36040 ).
+
+% Frame number: 902
+0.244::happensAt( walking( id0 ), 36080 ). 0.115::holdsAt( coord( id0 )=( 85, 160 ), 36080 ).
+
+% Frame number: 903
+0.577::happensAt( walking( id0 ), 36120 ). 0.0579::holdsAt( coord( id0 )=( 85, 158 ), 36120 ).
+
+% Frame number: 904
+0.141::happensAt( walking( id0 ), 36160 ). 0.158::holdsAt( coord( id0 )=( 86, 158 ), 36160 ).
+
+% Frame number: 905
+0.206::happensAt( walking( id0 ), 36200 ). 0.247::holdsAt( coord( id0 )=( 86, 157 ), 36200 ).
+
+% Frame number: 906
+0.157::happensAt( walking( id0 ), 36240 ). 0.0454::holdsAt( coord( id0 )=( 86, 157 ), 36240 ).
+
+% Frame number: 907
+0.146::happensAt( walking( id0 ), 36280 ). 0.234::holdsAt( coord( id0 )=( 86, 156 ), 36280 ).
+
+% Frame number: 908
+0.0961::happensAt( walking( id0 ), 36320 ). 0.21::holdsAt( coord( id0 )=( 86, 155 ), 36320 ).
+
+% Frame number: 909
+0.863::happensAt( walking( id0 ), 36360 ). 0.155::holdsAt( coord( id0 )=( 86, 154 ), 36360 ).
+
+% Frame number: 910
+0.229::happensAt( walking( id0 ), 36400 ). 0.531::holdsAt( coord( id0 )=( 86, 154 ), 36400 ).
+
+% Frame number: 911
+0.196::happensAt( walking( id0 ), 36440 ). 0.488::holdsAt( coord( id0 )=( 86, 152 ), 36440 ).
+
+% Frame number: 912
+0.326::happensAt( walking( id0 ), 36480 ). 0.456::holdsAt( coord( id0 )=( 86, 150 ), 36480 ).
+
+% Frame number: 913
+0.158::happensAt( walking( id0 ), 36520 ). 0.327::holdsAt( coord( id0 )=( 86, 150 ), 36520 ).
+
+% Frame number: 914
+0.227::happensAt( walking( id0 ), 36560 ). 0.000116::holdsAt( coord( id0 )=( 86, 148 ), 36560 ).
+
+% Frame number: 915
+0.32::happensAt( walking( id0 ), 36600 ). 0.178::holdsAt( coord( id0 )=( 86, 147 ), 36600 ).
+
+% Frame number: 916
+0.189::happensAt( walking( id0 ), 36640 ). 0.0278::holdsAt( coord( id0 )=( 86, 146 ), 36640 ).
+
+% Frame number: 917
+0.367::happensAt( walking( id0 ), 36680 ). 0.0202::holdsAt( coord( id0 )=( 87, 145 ), 36680 ).
+
+% Frame number: 918
+0.127::happensAt( walking( id0 ), 36720 ). 0.346::holdsAt( coord( id0 )=( 87, 144 ), 36720 ).
+
+% Frame number: 919
+0.0381::happensAt( walking( id0 ), 36760 ). 0.0568::holdsAt( coord( id0 )=( 87, 144 ), 36760 ).
+
+% Frame number: 920
+0.094::happensAt( walking( id0 ), 36800 ). 0.265::holdsAt( coord( id0 )=( 87, 144 ), 36800 ).
+
+% Frame number: 921
+0.101::happensAt( walking( id0 ), 36840 ). 0.314::holdsAt( coord( id0 )=( 87, 143 ), 36840 ).
+
+% Frame number: 922
+0.00701::happensAt( walking( id0 ), 36880 ). 0.000939::holdsAt( coord( id0 )=( 87, 143 ), 36880 ).
+
+% Frame number: 923
+0.129::happensAt( walking( id0 ), 36920 ). 0.0603::holdsAt( coord( id0 )=( 87, 143 ), 36920 ).
+
+% Frame number: 924
+0.482::happensAt( walking( id0 ), 36960 ). 0.172::holdsAt( coord( id0 )=( 87, 143 ), 36960 ).
+
+% Frame number: 925
+0.11::happensAt( walking( id0 ), 37000 ). 0.104::holdsAt( coord( id0 )=( 87, 143 ), 37000 ).
+
+% Frame number: 926
+0.00474::happensAt( walking( id0 ), 37040 ). 0.125::holdsAt( coord( id0 )=( 87, 142 ), 37040 ).
+
+% Frame number: 927
+0.0742::happensAt( walking( id0 ), 37080 ). 0.434::holdsAt( coord( id0 )=( 87, 142 ), 37080 ).
+
+% Frame number: 928
+0.241::happensAt( walking( id0 ), 37120 ). 0.0958::holdsAt( coord( id0 )=( 87, 141 ), 37120 ).
+
+% Frame number: 929
+0.0608::happensAt( walking( id0 ), 37160 ). 0.376::holdsAt( coord( id0 )=( 87, 141 ), 37160 ).
+
+% Frame number: 930
+0.0487::happensAt( walking( id0 ), 37200 ). 0.358::holdsAt( coord( id0 )=( 88, 141 ), 37200 ).
+
+% Frame number: 931
+0.0337::happensAt( walking( id0 ), 37240 ). 0.248::holdsAt( coord( id0 )=( 88, 140 ), 37240 ).
+
+% Frame number: 932
+0.0784::happensAt( walking( id0 ), 37280 ). 0.181::holdsAt( coord( id0 )=( 88, 140 ), 37280 ).
+
+% Frame number: 933
+0.099::happensAt( walking( id0 ), 37320 ). 0.312::holdsAt( coord( id0 )=( 88, 138 ), 37320 ).
+
+% Frame number: 934
+0.0365::happensAt( walking( id0 ), 37360 ). 0.0981::holdsAt( coord( id0 )=( 88, 138 ), 37360 ).
+
+% Frame number: 935
+0.00138::happensAt( walking( id0 ), 37400 ). 0.0294::holdsAt( coord( id0 )=( 88, 136 ), 37400 ).
+
+% Frame number: 936
+0.164::happensAt( walking( id0 ), 37440 ). 0.069::holdsAt( coord( id0 )=( 88, 135 ), 37440 ).
+
+% Frame number: 937
+0.119::happensAt( walking( id0 ), 37480 ). 0.112::holdsAt( coord( id0 )=( 88, 135 ), 37480 ).
+
+% Frame number: 938
+0.202::happensAt( walking( id0 ), 37520 ). 0.275::holdsAt( coord( id0 )=( 88, 133 ), 37520 ).
+
+% Frame number: 939
+0.312::happensAt( walking( id0 ), 37560 ). 0.372::holdsAt( coord( id0 )=( 88, 132 ), 37560 ).
+
+% Frame number: 940
+0.0485::happensAt( walking( id0 ), 37600 ). 0.558::holdsAt( coord( id0 )=( 88, 132 ), 37600 ).
+
+% Frame number: 941
+0.128::happensAt( walking( id0 ), 37640 ). 0.108::holdsAt( coord( id0 )=( 88, 131 ), 37640 ).
+
+% Frame number: 942
+0.35::happensAt( walking( id0 ), 37680 ). 0.0288::holdsAt( coord( id0 )=( 88, 130 ), 37680 ).
+
+% Frame number: 943
+0.525::happensAt( walking( id0 ), 37720 ). 0.328::holdsAt( coord( id0 )=( 88, 129 ), 37720 ).
+
+% Frame number: 944
+0.141::happensAt( walking( id0 ), 37760 ). 0.129::holdsAt( coord( id0 )=( 88, 129 ), 37760 ).
+
+% Frame number: 945
+0.182::happensAt( walking( id0 ), 37800 ). 0.0071::holdsAt( coord( id0 )=( 88, 129 ), 37800 ).
+
+% Frame number: 946
+0.095::happensAt( walking( id0 ), 37840 ). 0.23::holdsAt( coord( id0 )=( 88, 129 ), 37840 ).
+
+% Frame number: 947
+0.193::happensAt( walking( id0 ), 37880 ). 0.247::holdsAt( coord( id0 )=( 88, 129 ), 37880 ).
+
+% Frame number: 948
+0.398::happensAt( walking( id0 ), 37920 ). 0.134::holdsAt( coord( id0 )=( 88, 129 ), 37920 ).
+
+% Frame number: 949
+0.161::happensAt( walking( id0 ), 37960 ). 0.0531::holdsAt( coord( id0 )=( 88, 129 ), 37960 ).
+
+% Frame number: 950
+0.0114::happensAt( walking( id0 ), 38000 ). 0.0519::holdsAt( coord( id0 )=( 88, 129 ), 38000 ).
+
+% Frame number: 951
+0.114::happensAt( walking( id0 ), 38040 ). 0.252::holdsAt( coord( id0 )=( 88, 129 ), 38040 ).
+
+% Frame number: 952
+0.529::happensAt( walking( id0 ), 38080 ). 0.0245::holdsAt( coord( id0 )=( 88, 128 ), 38080 ).
+
+% Frame number: 953
+0.435::happensAt( walking( id0 ), 38120 ). 0.0879::holdsAt( coord( id0 )=( 88, 127 ), 38120 ).
+
+% Frame number: 954
+0.664::happensAt( walking( id0 ), 38160 ). 0.295::holdsAt( coord( id0 )=( 88, 126 ), 38160 ).
+
+% Frame number: 955
+0.513::happensAt( walking( id0 ), 38200 ). 0.155::holdsAt( coord( id0 )=( 88, 126 ), 38200 ).
+
+% Frame number: 956
+0.182::happensAt( walking( id0 ), 38240 ). 0.193::holdsAt( coord( id0 )=( 88, 125 ), 38240 ).
+
+% Frame number: 957
+0.145::happensAt( walking( id0 ), 38280 ). 0.185::holdsAt( coord( id0 )=( 88, 125 ), 38280 ).
+
+% Frame number: 958
+0.259::happensAt( walking( id0 ), 38320 ). 0.227::holdsAt( coord( id0 )=( 88, 125 ), 38320 ).
+
+% Frame number: 959
+0.0446::happensAt( walking( id0 ), 38360 ). 0.00945::holdsAt( coord( id0 )=( 88, 124 ), 38360 ).
+
+% Frame number: 960
+0.0481::happensAt( walking( id0 ), 38400 ). 0.0629::holdsAt( coord( id0 )=( 88, 124 ), 38400 ).
+
+% Frame number: 961
+0.33::happensAt( walking( id0 ), 38440 ). 0.253::holdsAt( coord( id0 )=( 88, 123 ), 38440 ).
+
+% Frame number: 962
+0.53::happensAt( walking( id0 ), 38480 ). 0.00406::holdsAt( coord( id0 )=( 88, 123 ), 38480 ).
+
+% Frame number: 963
+0.54::happensAt( walking( id0 ), 38520 ). 0.232::holdsAt( coord( id0 )=( 88, 123 ), 38520 ).
+
+% Frame number: 964
+0.683::happensAt( walking( id0 ), 38560 ). 0.162::holdsAt( coord( id0 )=( 88, 123 ), 38560 ).
+
+% Frame number: 965
+0.153::happensAt( walking( id0 ), 38600 ). 0.131::holdsAt( coord( id0 )=( 88, 123 ), 38600 ).
+
+% Frame number: 966
+0.308::happensAt( walking( id0 ), 38640 ). 0.312::holdsAt( coord( id0 )=( 88, 122 ), 38640 ).
+
+% Frame number: 967
+0.441::happensAt( walking( id0 ), 38680 ). 0.32::holdsAt( coord( id0 )=( 88, 121 ), 38680 ).
+
+% Frame number: 968
+0.0976::happensAt( walking( id0 ), 38720 ). 0.0725::holdsAt( coord( id0 )=( 88, 121 ), 38720 ).
+
+% Frame number: 969
+0.15::happensAt( walking( id0 ), 38760 ). 0.164::holdsAt( coord( id0 )=( 88, 121 ), 38760 ).
+
+% Frame number: 970
+0.028::happensAt( walking( id0 ), 38800 ). 0.528::holdsAt( coord( id0 )=( 88, 120 ), 38800 ).
+
+% Frame number: 971
+0.155::happensAt( walking( id0 ), 38840 ). 0.0234::holdsAt( coord( id0 )=( 88, 120 ), 38840 ).
+
+% Frame number: 972
+0.0665::happensAt( walking( id0 ), 38880 ). 0.145::holdsAt( coord( id0 )=( 88, 120 ), 38880 ).
+
+% Frame number: 973
+0.254::happensAt( walking( id0 ), 38920 ). 0.112::holdsAt( coord( id0 )=( 88, 120 ), 38920 ).
+
+% Frame number: 974
+0.0417::happensAt( walking( id0 ), 38960 ). 0.438::holdsAt( coord( id0 )=( 88, 120 ), 38960 ).
+
+% Frame number: 975
+0.438::happensAt( walking( id0 ), 39000 ). 0.415::holdsAt( coord( id0 )=( 88, 120 ), 39000 ).
+
+% Frame number: 976
+0.394::happensAt( walking( id0 ), 39040 ). 0.0126::holdsAt( coord( id0 )=( 88, 120 ), 39040 ).
+
+% Frame number: 977
+0.363::happensAt( walking( id0 ), 39080 ). 0.169::holdsAt( coord( id0 )=( 89, 120 ), 39080 ).
+
+% Frame number: 978
+0.0505::happensAt( walking( id0 ), 39120 ). 0.189::holdsAt( coord( id0 )=( 89, 120 ), 39120 ).
+
+% Frame number: 979
+0.104::happensAt( walking( id0 ), 39160 ). 0.0717::holdsAt( coord( id0 )=( 89, 120 ), 39160 ).
+
+% Frame number: 980
+0.242::happensAt( walking( id0 ), 39200 ). 0.598::holdsAt( coord( id0 )=( 89, 119 ), 39200 ).
+
+% Frame number: 981
+0.288::happensAt( walking( id0 ), 39240 ). 0.00229::holdsAt( coord( id0 )=( 89, 119 ), 39240 ).
+
+% Frame number: 982
+0.187::happensAt( walking( id0 ), 39280 ). 0.247::holdsAt( coord( id0 )=( 89, 119 ), 39280 ).
+
+% Frame number: 983
+0.358::happensAt( walking( id0 ), 39320 ). 0.523::holdsAt( coord( id0 )=( 89, 119 ), 39320 ).
+
+% Frame number: 984
+0.362::happensAt( walking( id0 ), 39360 ). 0.164::holdsAt( coord( id0 )=( 89, 119 ), 39360 ).
+
+% Frame number: 985
+0.119::happensAt( walking( id0 ), 39400 ). 0.00637::holdsAt( coord( id0 )=( 89, 118 ), 39400 ).
+
+% Frame number: 986
+0.195::happensAt( walking( id0 ), 39440 ). 0.333::holdsAt( coord( id0 )=( 89, 118 ), 39440 ).
+
+% Frame number: 987
+0.178::happensAt( walking( id0 ), 39480 ). 0.296::holdsAt( coord( id0 )=( 89, 117 ), 39480 ).
+
+% Frame number: 988
+0.222::happensAt( walking( id0 ), 39520 ). 0.308::holdsAt( coord( id0 )=( 89, 117 ), 39520 ).
+
+% Frame number: 989
+0.443::happensAt( walking( id0 ), 39560 ). 0.00499::holdsAt( coord( id0 )=( 89, 117 ), 39560 ).
+
+% Frame number: 990
+0.364::happensAt( walking( id0 ), 39600 ). 0.4::holdsAt( coord( id0 )=( 89, 117 ), 39600 ).
+
+% Frame number: 991
+0.039::happensAt( walking( id0 ), 39640 ). 0.401::holdsAt( coord( id0 )=( 89, 117 ), 39640 ).
+
+% Frame number: 992
+0.0783::happensAt( walking( id0 ), 39680 ). 0.349::holdsAt( coord( id0 )=( 89, 117 ), 39680 ).
+
+% Frame number: 993
+0.435::happensAt( walking( id0 ), 39720 ). 0.33::holdsAt( coord( id0 )=( 89, 117 ), 39720 ).
+
+% Frame number: 994
+0.0848::happensAt( walking( id0 ), 39760 ). 0.245::holdsAt( coord( id0 )=( 89, 116 ), 39760 ).
+
+% Frame number: 995
+0.365::happensAt( walking( id0 ), 39800 ). 0.388::holdsAt( coord( id0 )=( 89, 116 ), 39800 ).
+
+% Frame number: 996
+0.181::happensAt( inactive( id0 ), 39840 ). 0.348::holdsAt( coord( id0 )=( 89, 116 ), 39840 ).
+
+% Frame number: 997
+0.00525::happensAt( inactive( id0 ), 39880 ). 0.0116::holdsAt( coord( id0 )=( 89, 116 ), 39880 ).
+
+% Frame number: 998
+0.213::happensAt( inactive( id0 ), 39920 ). 0.159::holdsAt( coord( id0 )=( 89, 116 ), 39920 ).
+
+% Frame number: 999
+0.0324::happensAt( inactive( id0 ), 39960 ). 0.542::holdsAt( coord( id0 )=( 89, 116 ), 39960 ).
+
+% Frame number: 1000
+0.0647::happensAt( inactive( id0 ), 40000 ). 0.0155::holdsAt( coord( id0 )=( 89, 116 ), 40000 ).
+
+% Frame number: 1001
+0.131::happensAt( inactive( id0 ), 40040 ). 0.451::holdsAt( coord( id0 )=( 89, 116 ), 40040 ).
+
+% Frame number: 1002
+0.537::happensAt( inactive( id0 ), 40080 ). 0.141::holdsAt( coord( id0 )=( 89, 116 ), 40080 ).
+
+% Frame number: 1003
+0.42::happensAt( inactive( id0 ), 40120 ). 0.348::holdsAt( coord( id0 )=( 89, 116 ), 40120 ).
+
+% Frame number: 1004
+0.0673::happensAt( inactive( id0 ), 40160 ). 0.378::holdsAt( coord( id0 )=( 89, 116 ), 40160 ).
+
+% Frame number: 1005
+0.25::happensAt( inactive( id0 ), 40200 ). 0.16::holdsAt( coord( id0 )=( 89, 116 ), 40200 ).
+
+% Frame number: 1006
+0.123::happensAt( inactive( id0 ), 40240 ). 0.068::holdsAt( coord( id0 )=( 89, 116 ), 40240 ).
+
+% Frame number: 1007
+0.00224::happensAt( inactive( id0 ), 40280 ). 0.00456::holdsAt( coord( id0 )=( 89, 116 ), 40280 ).
+
+% Frame number: 1008
+0.4::happensAt( inactive( id0 ), 40320 ). 0.072::holdsAt( coord( id0 )=( 89, 116 ), 40320 ).
+
+% Frame number: 1009
+0.543::happensAt( inactive( id0 ), 40360 ). 0.0738::holdsAt( coord( id0 )=( 89, 116 ), 40360 ).
+
+% Frame number: 1010
+0.239::happensAt( inactive( id0 ), 40400 ). 0.0902::holdsAt( coord( id0 )=( 89, 116 ), 40400 ).
+
+% Frame number: 1011
+0.685::happensAt( inactive( id0 ), 40440 ). 0.295::holdsAt( coord( id0 )=( 89, 116 ), 40440 ).
+
+% Frame number: 1012
+0.306::happensAt( inactive( id0 ), 40480 ). 0.0961::holdsAt( coord( id0 )=( 89, 116 ), 40480 ).
+
+% Frame number: 1013
+0.0458::happensAt( inactive( id0 ), 40520 ). 0.0393::holdsAt( coord( id0 )=( 89, 116 ), 40520 ).
+
+% Frame number: 1014
+0.23::happensAt( inactive( id0 ), 40560 ). 0.038::holdsAt( coord( id0 )=( 89, 116 ), 40560 ).
+
+% Frame number: 1015
+0.457::happensAt( inactive( id0 ), 40600 ). 0.224::holdsAt( coord( id0 )=( 89, 116 ), 40600 ).
+
+% Frame number: 1016
+0.0443::happensAt( inactive( id0 ), 40640 ). 0.136::holdsAt( coord( id0 )=( 89, 116 ), 40640 ).
+
+% Frame number: 1017
+0.592::happensAt( inactive( id0 ), 40680 ). 0.0867::holdsAt( coord( id0 )=( 89, 116 ), 40680 ).
+
+% Frame number: 1018
+0.0645::happensAt( inactive( id0 ), 40720 ). 0.432::holdsAt( coord( id0 )=( 89, 116 ), 40720 ).
+
+% Frame number: 1019
+0.317::happensAt( inactive( id0 ), 40760 ). 0.422::holdsAt( coord( id0 )=( 89, 116 ), 40760 ).
+
+% Frame number: 1020
+0.158::happensAt( inactive( id0 ), 40800 ). 0.303::holdsAt( coord( id0 )=( 89, 116 ), 40800 ).
+
+% Frame number: 1021
+0.0579::happensAt( inactive( id0 ), 40840 ). 0.116::holdsAt( coord( id0 )=( 89, 116 ), 40840 ).
+
+% Frame number: 1022
+0.057::happensAt( inactive( id0 ), 40880 ). 0.169::holdsAt( coord( id0 )=( 89, 116 ), 40880 ).
+
+% Frame number: 1023
+0.113::happensAt( inactive( id0 ), 40920 ). 0.0866::holdsAt( coord( id0 )=( 89, 116 ), 40920 ).
+
+% Frame number: 1024
+0.699::happensAt( inactive( id0 ), 40960 ). 0.16::holdsAt( coord( id0 )=( 89, 116 ), 40960 ).
+
+% Frame number: 1025
+0.0385::happensAt( inactive( id0 ), 41000 ). 0.501::holdsAt( coord( id0 )=( 89, 116 ), 41000 ).
+
+% Frame number: 1026
+0.0793::happensAt( inactive( id0 ), 41040 ). 0.11::holdsAt( coord( id0 )=( 89, 116 ), 41040 ).
+
+% Frame number: 1027
+0.144::happensAt( inactive( id0 ), 41080 ). 0.121::holdsAt( coord( id0 )=( 89, 116 ), 41080 ).
+
+% Frame number: 1028
+0.0726::happensAt( inactive( id0 ), 41120 ). 0.281::holdsAt( coord( id0 )=( 89, 116 ), 41120 ).
+
+% Frame number: 1029
+0.293::happensAt( inactive( id0 ), 41160 ). 0.134::holdsAt( coord( id0 )=( 89, 116 ), 41160 ).
+
+% Frame number: 1030
+0.217::happensAt( inactive( id0 ), 41200 ). 0.184::holdsAt( coord( id0 )=( 89, 116 ), 41200 ).
+
+% Frame number: 1031
+0.0557::happensAt( inactive( id0 ), 41240 ). 0.372::holdsAt( coord( id0 )=( 89, 116 ), 41240 ).
+
+% Frame number: 1032
+0.161::happensAt( inactive( id0 ), 41280 ). 0.0486::holdsAt( coord( id0 )=( 89, 116 ), 41280 ).
+
+% Frame number: 1033
+0.17::happensAt( inactive( id0 ), 41320 ). 0.143::holdsAt( coord( id0 )=( 89, 116 ), 41320 ).
+
+% Frame number: 1034
+0.138::happensAt( inactive( id0 ), 41360 ). 0.122::holdsAt( coord( id0 )=( 89, 116 ), 41360 ).
+
+% Frame number: 1035
+0.00716::happensAt( inactive( id0 ), 41400 ). 0.243::holdsAt( coord( id0 )=( 89, 116 ), 41400 ).
+
+% Frame number: 1036
+0.523::happensAt( inactive( id0 ), 41440 ). 0.347::holdsAt( coord( id0 )=( 89, 116 ), 41440 ).
+
+% Frame number: 1037
+0.145::happensAt( inactive( id0 ), 41480 ). 0.357::holdsAt( coord( id0 )=( 89, 116 ), 41480 ).
+
+% Frame number: 1038
+0.0746::happensAt( inactive( id0 ), 41520 ). 0.169::holdsAt( coord( id0 )=( 89, 116 ), 41520 ).
+
+% Frame number: 1039
+0.111::happensAt( inactive( id0 ), 41560 ). 0.0238::holdsAt( coord( id0 )=( 89, 116 ), 41560 ).
+
+% Frame number: 1040
+0.156::happensAt( inactive( id0 ), 41600 ). 0.0752::holdsAt( coord( id0 )=( 89, 116 ), 41600 ).
+
+% Frame number: 1041
+0.761::happensAt( inactive( id0 ), 41640 ). 0.187::holdsAt( coord( id0 )=( 89, 116 ), 41640 ).
+
+% Frame number: 1042
+0.152::happensAt( inactive( id0 ), 41680 ). 0.175::holdsAt( coord( id0 )=( 89, 116 ), 41680 ).
+
+% Frame number: 1043
+0.264::happensAt( inactive( id0 ), 41720 ). 0.178::holdsAt( coord( id0 )=( 89, 116 ), 41720 ).
+
+% Frame number: 1044
+0.0867::happensAt( inactive( id0 ), 41760 ). 0.355::holdsAt( coord( id0 )=( 89, 116 ), 41760 ).
+
+% Frame number: 1045
+0.146::happensAt( inactive( id0 ), 41800 ). 0.0566::holdsAt( coord( id0 )=( 89, 116 ), 41800 ).
+
+% Frame number: 1046
+0.23::happensAt( inactive( id0 ), 41840 ). 0.0928::holdsAt( coord( id0 )=( 89, 116 ), 41840 ).
+
+% Frame number: 1047
+0.145::happensAt( inactive( id0 ), 41880 ). 0.0371::holdsAt( coord( id0 )=( 89, 116 ), 41880 ).
+
+% Frame number: 1048
+0.0781::happensAt( inactive( id0 ), 41920 ). 0.00531::holdsAt( coord( id0 )=( 89, 116 ), 41920 ).
+
+% Frame number: 1049
+0.0473::happensAt( inactive( id0 ), 41960 ). 0.0995::holdsAt( coord( id0 )=( 89, 116 ), 41960 ).
+
+% Frame number: 1050
+0.356::happensAt( inactive( id0 ), 42000 ). 0.231::holdsAt( coord( id0 )=( 89, 116 ), 42000 ).
+
+% Frame number: 1051
+0.21::happensAt( inactive( id0 ), 42040 ). 0.121::holdsAt( coord( id0 )=( 89, 116 ), 42040 ).
+
+% Frame number: 1052
+0.598::happensAt( inactive( id0 ), 42080 ). 0.0164::holdsAt( coord( id0 )=( 89, 116 ), 42080 ).
+
+% Frame number: 1053
+0.264::happensAt( inactive( id0 ), 42120 ). 0.073::holdsAt( coord( id0 )=( 89, 116 ), 42120 ).
+
+% Frame number: 1054
+0.0824::happensAt( inactive( id0 ), 42160 ). 0.378::holdsAt( coord( id0 )=( 89, 116 ), 42160 ).
+
+% Frame number: 1055
+0.412::happensAt( inactive( id0 ), 42200 ). 0.41::holdsAt( coord( id0 )=( 89, 118 ), 42200 ).
+
+% Frame number: 1056
+0.134::happensAt( inactive( id0 ), 42240 ). 0.0727::holdsAt( coord( id0 )=( 89, 118 ), 42240 ).
+
+% Frame number: 1057
+0.0216::happensAt( inactive( id0 ), 42280 ). 0.107::holdsAt( coord( id0 )=( 89, 118 ), 42280 ).
+
+% Frame number: 1058
+0.419::happensAt( inactive( id0 ), 42320 ). 0.248::holdsAt( coord( id0 )=( 88, 119 ), 42320 ).
+
+% Frame number: 1059
+0.0185::happensAt( inactive( id0 ), 42360 ). 0.075::holdsAt( coord( id0 )=( 88, 119 ), 42360 ).
+
+% Frame number: 1060
+0.146::happensAt( inactive( id0 ), 42400 ). 0.113::holdsAt( coord( id0 )=( 88, 119 ), 42400 ).
+
+% Frame number: 1061
+0.169::happensAt( active( id0 ), 42440 ). 0.216::holdsAt( coord( id0 )=( 88, 119 ), 42440 ).
+
+% Frame number: 1062
+0.0117::happensAt( active( id0 ), 42480 ). 0.115::holdsAt( coord( id0 )=( 88, 119 ), 42480 ).
+
+% Frame number: 1063
+0.0491::happensAt( active( id0 ), 42520 ). 0.154::holdsAt( coord( id0 )=( 88, 119 ), 42520 ).
+
+% Frame number: 1064
+0.414::happensAt( active( id0 ), 42560 ). 0.149::holdsAt( coord( id0 )=( 88, 119 ), 42560 ).
+
+% Frame number: 1065
+0.393::happensAt( active( id0 ), 42600 ). 0.199::holdsAt( coord( id0 )=( 88, 119 ), 42600 ).
+
+% Frame number: 1066
+0.113::happensAt( active( id0 ), 42640 ). 0.112::holdsAt( coord( id0 )=( 88, 119 ), 42640 ).
+
+% Frame number: 1067
+0.157::happensAt( active( id0 ), 42680 ). 0.184::holdsAt( coord( id0 )=( 87, 119 ), 42680 ).
+
+% Frame number: 1068
+0.354::happensAt( active( id0 ), 42720 ). 0.0808::holdsAt( coord( id0 )=( 87, 119 ), 42720 ).
+
+% Frame number: 1069
+0.176::happensAt( active( id0 ), 42760 ). 0.241::holdsAt( coord( id0 )=( 87, 119 ), 42760 ).
+
+% Frame number: 1070
+0.034::happensAt( active( id0 ), 42800 ). 0.181::holdsAt( coord( id0 )=( 87, 119 ), 42800 ).
+
+% Frame number: 1071
+0.309::happensAt( active( id0 ), 42840 ). 0.16::holdsAt( coord( id0 )=( 87, 119 ), 42840 ).
+
+% Frame number: 1072
+0.477::happensAt( active( id0 ), 42880 ). 0.0447::holdsAt( coord( id0 )=( 87, 119 ), 42880 ).
+
+% Frame number: 1073
+0.0623::happensAt( active( id0 ), 42920 ). 0.657::holdsAt( coord( id0 )=( 87, 119 ), 42920 ).
+
+% Frame number: 1074
+0.507::happensAt( active( id0 ), 42960 ). 0.157::holdsAt( coord( id0 )=( 87, 119 ), 42960 ).
+
+% Frame number: 1075
+0.114::happensAt( active( id0 ), 43000 ). 0.489::holdsAt( coord( id0 )=( 87, 119 ), 43000 ).
+
+% Frame number: 1076
+0.315::happensAt( active( id0 ), 43040 ). 0.285::holdsAt( coord( id0 )=( 87, 119 ), 43040 ).
+
+% Frame number: 1077
+0.0291::happensAt( active( id0 ), 43080 ). 0.235::holdsAt( coord( id0 )=( 87, 119 ), 43080 ).
+
+% Frame number: 1078
+0.461::happensAt( active( id0 ), 43120 ). 0.517::holdsAt( coord( id0 )=( 87, 119 ), 43120 ).
+
+% Frame number: 1079
+0.122::happensAt( active( id0 ), 43160 ). 0.275::holdsAt( coord( id0 )=( 87, 119 ), 43160 ).
+
+% Frame number: 1080
+0.138::happensAt( active( id0 ), 43200 ). 0.239::holdsAt( coord( id0 )=( 87, 119 ), 43200 ).
+
+% Frame number: 1081
+0.0465::happensAt( inactive( id0 ), 43240 ). 0.282::holdsAt( coord( id0 )=( 87, 119 ), 43240 ).
+
+% Frame number: 1082
+0.0607::happensAt( inactive( id0 ), 43280 ). 0.405::holdsAt( coord( id0 )=( 87, 119 ), 43280 ).
+
+% Frame number: 1083
+0.186::happensAt( inactive( id0 ), 43320 ). 0.0237::holdsAt( coord( id0 )=( 87, 119 ), 43320 ).
+
+% Frame number: 1084
+0.639::happensAt( inactive( id0 ), 43360 ). 0.122::holdsAt( coord( id0 )=( 87, 119 ), 43360 ).
+
+% Frame number: 1085
+0.388::happensAt( inactive( id0 ), 43400 ). 0.324::holdsAt( coord( id0 )=( 87, 119 ), 43400 ).
+
+% Frame number: 1086
+0.373::happensAt( inactive( id0 ), 43440 ). 0.264::holdsAt( coord( id0 )=( 87, 119 ), 43440 ).
+
+% Frame number: 1087
+0.105::happensAt( inactive( id0 ), 43480 ). 0.475::holdsAt( coord( id0 )=( 86, 119 ), 43480 ).
+
+% Frame number: 1088
+0.521::happensAt( inactive( id0 ), 43520 ). 0.0992::holdsAt( coord( id0 )=( 86, 119 ), 43520 ).
+
+% Frame number: 1089
+0.118::happensAt( inactive( id0 ), 43560 ). 0.364::holdsAt( coord( id0 )=( 86, 119 ), 43560 ).
+
+% Frame number: 1090
+0.196::happensAt( inactive( id0 ), 43600 ). 0.0856::holdsAt( coord( id0 )=( 86, 119 ), 43600 ).
+
+% Frame number: 1091
+0.0515::happensAt( inactive( id0 ), 43640 ). 0.0117::holdsAt( coord( id0 )=( 86, 119 ), 43640 ).
+
+% Frame number: 1092
+0.586::happensAt( inactive( id0 ), 43680 ). 0.248::holdsAt( coord( id0 )=( 86, 119 ), 43680 ).
+
+% Frame number: 1093
+0.152::happensAt( inactive( id0 ), 43720 ). 0.226::holdsAt( coord( id0 )=( 86, 119 ), 43720 ).
+
+% Frame number: 1094
+0.0349::happensAt( inactive( id0 ), 43760 ). 0.086::holdsAt( coord( id0 )=( 86, 119 ), 43760 ).
+
+% Frame number: 1095
+0.0527::happensAt( inactive( id0 ), 43800 ). 0.0142::holdsAt( coord( id0 )=( 86, 119 ), 43800 ).
+
+% Frame number: 1096
+0.075::happensAt( inactive( id0 ), 43840 ). 0.314::holdsAt( coord( id0 )=( 86, 119 ), 43840 ).
+
+% Frame number: 1097
+0.515::happensAt( inactive( id0 ), 43880 ). 0.294::holdsAt( coord( id0 )=( 86, 119 ), 43880 ).
+
+% Frame number: 1098
+0.216::happensAt( inactive( id0 ), 43920 ). 0.326::holdsAt( coord( id0 )=( 86, 119 ), 43920 ).
+
+% Frame number: 1099
+0.0647::happensAt( inactive( id0 ), 43960 ). 0.039::holdsAt( coord( id0 )=( 86, 119 ), 43960 ).
+
+% Frame number: 1100
+0.233::happensAt( inactive( id0 ), 44000 ). 0.3::holdsAt( coord( id0 )=( 86, 119 ), 44000 ).
+
+% Frame number: 1101
+0.247::happensAt( inactive( id0 ), 44040 ). 0.0546::holdsAt( coord( id0 )=( 86, 119 ), 44040 ).
+
+% Frame number: 1102
+0.325::happensAt( inactive( id0 ), 44080 ). 0.0772::holdsAt( coord( id0 )=( 86, 119 ), 44080 ).
+
+% Frame number: 1103
+0.423::happensAt( inactive( id0 ), 44120 ). 0.288::holdsAt( coord( id0 )=( 86, 119 ), 44120 ).
+
+% Frame number: 1104
+0.124::happensAt( inactive( id0 ), 44160 ). 0.0419::holdsAt( coord( id0 )=( 86, 119 ), 44160 ).
+
+% Frame number: 1105
+0.189::happensAt( inactive( id0 ), 44200 ). 0.433::holdsAt( coord( id0 )=( 86, 119 ), 44200 ).
+
+% Frame number: 1106
+0.124::happensAt( inactive( id0 ), 44240 ). 0.31::holdsAt( coord( id0 )=( 86, 119 ), 44240 ).
+
+% Frame number: 1107
+0.19::happensAt( inactive( id0 ), 44280 ). 0.349::holdsAt( coord( id0 )=( 86, 119 ), 44280 ).
+
+% Frame number: 1108
+0.126::happensAt( inactive( id0 ), 44320 ). 0.0861::holdsAt( coord( id0 )=( 86, 119 ), 44320 ).
+
+% Frame number: 1109
+0.429::happensAt( inactive( id0 ), 44360 ). 0.361::holdsAt( coord( id0 )=( 86, 119 ), 44360 ).
+
+% Frame number: 1110
+0.00302::happensAt( inactive( id0 ), 44400 ). 0.261::holdsAt( coord( id0 )=( 86, 119 ), 44400 ).
+
+% Frame number: 1111
+0.322::happensAt( inactive( id0 ), 44440 ). 0.0865::holdsAt( coord( id0 )=( 86, 119 ), 44440 ).
+
+% Frame number: 1112
+0.0833::happensAt( inactive( id0 ), 44480 ). 0.433::holdsAt( coord( id0 )=( 86, 119 ), 44480 ).
+
+% Frame number: 1113
+0.12::happensAt( inactive( id0 ), 44520 ). 0.591::holdsAt( coord( id0 )=( 86, 119 ), 44520 ).
+
+% Frame number: 1114
+0.00301::happensAt( inactive( id0 ), 44560 ). 0.175::holdsAt( coord( id0 )=( 86, 119 ), 44560 ).
+
+% Frame number: 1115
+0.522::happensAt( inactive( id0 ), 44600 ). 0.0673::holdsAt( coord( id0 )=( 86, 119 ), 44600 ).
+
+% Frame number: 1116
+0.206::happensAt( inactive( id0 ), 44640 ). 0.227::holdsAt( coord( id0 )=( 86, 119 ), 44640 ).
+
+% Frame number: 1117
+0.32::happensAt( inactive( id0 ), 44680 ). 0.413::holdsAt( coord( id0 )=( 86, 119 ), 44680 ).
+
+% Frame number: 1118
+0.115::happensAt( inactive( id0 ), 44720 ). 0.108::holdsAt( coord( id0 )=( 86, 119 ), 44720 ).
+
+% Frame number: 1119
+0.0218::happensAt( inactive( id0 ), 44760 ). 0.0443::holdsAt( coord( id0 )=( 86, 119 ), 44760 ).
+
+% Frame number: 1120
+0.426::happensAt( inactive( id0 ), 44800 ). 0.164::holdsAt( coord( id0 )=( 86, 119 ), 44800 ).
+
+% Frame number: 1121
+0.0685::happensAt( inactive( id0 ), 44840 ). 0.048::holdsAt( coord( id0 )=( 86, 119 ), 44840 ).
+
+% Frame number: 1122
+0.205::happensAt( inactive( id0 ), 44880 ). 0.075::holdsAt( coord( id0 )=( 86, 119 ), 44880 ).
+
+% Frame number: 1123
+0.548::happensAt( inactive( id0 ), 44920 ). 0.0712::holdsAt( coord( id0 )=( 86, 119 ), 44920 ).
+
+% Frame number: 1124
+0.52::happensAt( inactive( id0 ), 44960 ). 0.204::holdsAt( coord( id0 )=( 86, 119 ), 44960 ).
+
+% Frame number: 1125
+0.206::happensAt( inactive( id0 ), 45000 ). 0.22::holdsAt( coord( id0 )=( 86, 119 ), 45000 ).
+
+% Frame number: 1126
+0.549::happensAt( inactive( id0 ), 45040 ). 0.291::holdsAt( coord( id0 )=( 86, 119 ), 45040 ).
+
+% Frame number: 1127
+0.266::happensAt( inactive( id0 ), 45080 ). 0.159::holdsAt( coord( id0 )=( 86, 119 ), 45080 ).
+
+% Frame number: 1128
+0.676::happensAt( inactive( id0 ), 45120 ). 0.118::holdsAt( coord( id0 )=( 86, 119 ), 45120 ).
+
+% Frame number: 1129
+0.203::happensAt( inactive( id0 ), 45160 ). 0.226::holdsAt( coord( id0 )=( 86, 119 ), 45160 ).
+
+% Frame number: 1130
+0.279::happensAt( inactive( id0 ), 45200 ). 7.22e-05::holdsAt( coord( id0 )=( 86, 119 ), 45200 ).
+
+% Frame number: 1131
+0.279::happensAt( inactive( id0 ), 45240 ). 0.124::holdsAt( coord( id0 )=( 86, 119 ), 45240 ).
+
+% Frame number: 1132
+0.0399::happensAt( inactive( id0 ), 45280 ). 0.427::holdsAt( coord( id0 )=( 86, 119 ), 45280 ).
+
+% Frame number: 1133
+0.0788::happensAt( inactive( id0 ), 45320 ). 0.0918::holdsAt( coord( id0 )=( 86, 119 ), 45320 ).
+
+% Frame number: 1134
+0.183::happensAt( inactive( id0 ), 45360 ). 0.131::holdsAt( coord( id0 )=( 86, 119 ), 45360 ).
+
+% Frame number: 1135
+0.216::happensAt( inactive( id0 ), 45400 ). 0.508::holdsAt( coord( id0 )=( 86, 119 ), 45400 ).
+
+% Frame number: 1136
+0.779::happensAt( inactive( id0 ), 45440 ). 0.0503::holdsAt( coord( id0 )=( 86, 119 ), 45440 ).
+
+% Frame number: 1137
+0.00475::happensAt( inactive( id0 ), 45480 ). 0.185::holdsAt( coord( id0 )=( 86, 119 ), 45480 ).
+
+% Frame number: 1138
+0.21::happensAt( inactive( id0 ), 45520 ). 0.052::holdsAt( coord( id0 )=( 86, 119 ), 45520 ).
+
+% Frame number: 1139
+0.424::happensAt( inactive( id0 ), 45560 ). 0.0529::holdsAt( coord( id0 )=( 86, 119 ), 45560 ).
+
+% Frame number: 1140
+0.0727::happensAt( inactive( id0 ), 45600 ). 0.0757::holdsAt( coord( id0 )=( 86, 119 ), 45600 ).
+
+% Frame number: 1141
+0.256::happensAt( inactive( id0 ), 45640 ). 0.415::holdsAt( coord( id0 )=( 86, 119 ), 45640 ).
+
+% Frame number: 1142
+0.0226::happensAt( inactive( id0 ), 45680 ). 0.296::holdsAt( coord( id0 )=( 86, 119 ), 45680 ).
+
+% Frame number: 1143
+0.416::happensAt( inactive( id0 ), 45720 ). 0.179::holdsAt( coord( id0 )=( 86, 119 ), 45720 ).
+
+% Frame number: 1144
+0.0611::happensAt( inactive( id0 ), 45760 ). 0.107::holdsAt( coord( id0 )=( 86, 119 ), 45760 ).
+
+% Frame number: 1145
+0.0845::happensAt( inactive( id0 ), 45800 ). 0.121::holdsAt( coord( id0 )=( 86, 119 ), 45800 ).
+
+% Frame number: 1146
+0.362::happensAt( inactive( id0 ), 45840 ). 0.0192::holdsAt( coord( id0 )=( 86, 119 ), 45840 ).
+
+% Frame number: 1147
+0.0739::happensAt( inactive( id0 ), 45880 ). 0.121::holdsAt( coord( id0 )=( 86, 119 ), 45880 ).
+
+% Frame number: 1148
+0.0335::happensAt( inactive( id0 ), 45920 ). 0.026::holdsAt( coord( id0 )=( 86, 119 ), 45920 ).
+
+% Frame number: 1149
+0.295::happensAt( inactive( id0 ), 45960 ). 0.524::holdsAt( coord( id0 )=( 86, 119 ), 45960 ).
+
+% Frame number: 1150
+0.0549::happensAt( inactive( id0 ), 46000 ). 0.266::holdsAt( coord( id0 )=( 86, 119 ), 46000 ).
+
+% Frame number: 1151
+0.337::happensAt( inactive( id0 ), 46040 ). 0.357::holdsAt( coord( id0 )=( 86, 119 ), 46040 ).
+
+% Frame number: 1152
+0.0637::happensAt( inactive( id0 ), 46080 ). 0.464::holdsAt( coord( id0 )=( 86, 119 ), 46080 ).
+
+% Frame number: 1153
+0.0824::happensAt( inactive( id0 ), 46120 ). 0.0423::holdsAt( coord( id0 )=( 86, 119 ), 46120 ).
+
+% Frame number: 1154
+0.11::happensAt( inactive( id0 ), 46160 ). 0.232::holdsAt( coord( id0 )=( 86, 119 ), 46160 ).
+
+% Frame number: 1155
+0.569::happensAt( inactive( id0 ), 46200 ). 0.0143::holdsAt( coord( id0 )=( 86, 119 ), 46200 ).
+
+% Frame number: 1156
+0.337::happensAt( inactive( id0 ), 46240 ). 0.159::holdsAt( coord( id0 )=( 86, 119 ), 46240 ).
+
+% Frame number: 1157
+0.103::happensAt( inactive( id0 ), 46280 ). 0.167::holdsAt( coord( id0 )=( 86, 119 ), 46280 ).
+
+% Frame number: 1158
+0.108::happensAt( inactive( id0 ), 46320 ). 0.0496::holdsAt( coord( id0 )=( 86, 119 ), 46320 ).
+
+% Frame number: 1159
+0.153::happensAt( inactive( id0 ), 46360 ). 0.283::holdsAt( coord( id0 )=( 86, 119 ), 46360 ).
+
+% Frame number: 1160
+0.116::happensAt( inactive( id0 ), 46400 ). 0.237::holdsAt( coord( id0 )=( 86, 119 ), 46400 ).
+
+% Frame number: 1161
+0.0498::happensAt( inactive( id0 ), 46440 ). 0.0831::holdsAt( coord( id0 )=( 86, 119 ), 46440 ).
+
+% Frame number: 1162
+0.391::happensAt( inactive( id0 ), 46480 ). 0.212::holdsAt( coord( id0 )=( 86, 119 ), 46480 ).
+
+% Frame number: 1163
+0.149::happensAt( inactive( id0 ), 46520 ). 0.131::holdsAt( coord( id0 )=( 86, 119 ), 46520 ).
+
+% Frame number: 1164
+0.258::happensAt( inactive( id0 ), 46560 ). 0.0901::holdsAt( coord( id0 )=( 86, 119 ), 46560 ).
+
+% Frame number: 1165
+0.444::happensAt( inactive( id0 ), 46600 ). 0.0264::holdsAt( coord( id0 )=( 86, 119 ), 46600 ).
+
+% Frame number: 1166
+0.0072::happensAt( inactive( id0 ), 46640 ). 0.138::holdsAt( coord( id0 )=( 86, 119 ), 46640 ).
+
+% Frame number: 1167
+0.222::happensAt( inactive( id0 ), 46680 ). 0.0153::holdsAt( coord( id0 )=( 86, 119 ), 46680 ).
+
+% Frame number: 1168
+0.118::happensAt( inactive( id0 ), 46720 ). 0.29::holdsAt( coord( id0 )=( 86, 119 ), 46720 ).
+
+% Frame number: 1169
+0.0136::happensAt( inactive( id0 ), 46760 ). 0.5::holdsAt( coord( id0 )=( 86, 119 ), 46760 ).
+
+% Frame number: 1170
+0.109::happensAt( inactive( id0 ), 46800 ). 0.0929::holdsAt( coord( id0 )=( 86, 119 ), 46800 ).
+
+% Frame number: 1171
+0.0103::happensAt( inactive( id0 ), 46840 ). 0.196::holdsAt( coord( id0 )=( 86, 119 ), 46840 ).
+
+% Frame number: 1172
+0.585::happensAt( inactive( id0 ), 46880 ). 0.013::holdsAt( coord( id0 )=( 86, 119 ), 46880 ).
+
+% Frame number: 1173
+0.0531::happensAt( inactive( id0 ), 46920 ). 0.0332::holdsAt( coord( id0 )=( 86, 119 ), 46920 ).
+
+% Frame number: 1174
+0.393::happensAt( inactive( id0 ), 46960 ). 0.0129::holdsAt( coord( id0 )=( 86, 119 ), 46960 ).
+
+% Frame number: 1175
+0.305::happensAt( inactive( id0 ), 47000 ). 0.109::holdsAt( coord( id0 )=( 86, 119 ), 47000 ).
+
+% Frame number: 1176
+0.23::happensAt( walking( id0 ), 47040 ). 0.507::holdsAt( coord( id0 )=( 86, 119 ), 47040 ).
+
+% Frame number: 1177
+0.195::happensAt( walking( id0 ), 47080 ). 0.00592::holdsAt( coord( id0 )=( 86, 119 ), 47080 ).
+
+% Frame number: 1178
+0.0169::happensAt( walking( id0 ), 47120 ). 0.106::holdsAt( coord( id0 )=( 86, 119 ), 47120 ).
+
+% Frame number: 1179
+0.145::happensAt( walking( id0 ), 47160 ). 0.0145::holdsAt( coord( id0 )=( 86, 119 ), 47160 ).
+
+% Frame number: 1180
+0.147::happensAt( walking( id0 ), 47200 ). 0.252::holdsAt( coord( id0 )=( 86, 119 ), 47200 ).
+
+% Frame number: 1181
+0.137::happensAt( walking( id0 ), 47240 ). 0.483::holdsAt( coord( id0 )=( 86, 119 ), 47240 ).
+
+% Frame number: 1182
+0.139::happensAt( walking( id0 ), 47280 ). 0.452::holdsAt( coord( id0 )=( 86, 119 ), 47280 ).
+
+% Frame number: 1183
+0.124::happensAt( walking( id0 ), 47320 ). 0.281::holdsAt( coord( id0 )=( 86, 119 ), 47320 ).
+
+% Frame number: 1184
+0.0344::happensAt( walking( id0 ), 47360 ). 0.164::holdsAt( coord( id0 )=( 86, 119 ), 47360 ).
+
+% Frame number: 1185
+0.00457::happensAt( walking( id0 ), 47400 ). 0.444::holdsAt( coord( id0 )=( 86, 119 ), 47400 ).
+
+% Frame number: 1186
+0.0573::happensAt( walking( id0 ), 47440 ). 0.114::holdsAt( coord( id0 )=( 86, 119 ), 47440 ).
+
+% Frame number: 1187
+0.262::happensAt( walking( id0 ), 47480 ). 0.652::holdsAt( coord( id0 )=( 86, 119 ), 47480 ).
+
+% Frame number: 1188
+0.429::happensAt( walking( id0 ), 47520 ). 0.228::holdsAt( coord( id0 )=( 86, 119 ), 47520 ).
+
+% Frame number: 1189
+0.376::happensAt( walking( id0 ), 47560 ). 0.201::holdsAt( coord( id0 )=( 87, 117 ), 47560 ).
+
+% Frame number: 1190
+0.846::happensAt( walking( id0 ), 47600 ). 0.384::holdsAt( coord( id0 )=( 87, 117 ), 47600 ).
+
+% Frame number: 1191
+0.0108::happensAt( walking( id0 ), 47640 ). 0.712::holdsAt( coord( id0 )=( 87, 117 ), 47640 ).
+
+% Frame number: 1192
+0.125::happensAt( walking( id0 ), 47680 ). 0.0727::holdsAt( coord( id0 )=( 87, 117 ), 47680 ).
+
+% Frame number: 1193
+0.126::happensAt( walking( id0 ), 47720 ). 0.103::holdsAt( coord( id0 )=( 87, 117 ), 47720 ).
+
+% Frame number: 1194
+0.198::happensAt( walking( id0 ), 47760 ). 0.495::holdsAt( coord( id0 )=( 87, 117 ), 47760 ).
+
+% Frame number: 1195
+0.215::happensAt( walking( id0 ), 47800 ). 0.102::holdsAt( coord( id0 )=( 87, 117 ), 47800 ).
+
+% Frame number: 1196
+0.267::happensAt( walking( id0 ), 47840 ). 0.0518::holdsAt( coord( id0 )=( 87, 117 ), 47840 ).
+
+% Frame number: 1197
+0.355::happensAt( walking( id0 ), 47880 ). 0.678::holdsAt( coord( id0 )=( 87, 117 ), 47880 ).
+
+% Frame number: 1198
+0.00755::happensAt( walking( id0 ), 47920 ). 0.129::holdsAt( coord( id0 )=( 87, 117 ), 47920 ).
+
+% Frame number: 1199
+0.017::happensAt( walking( id0 ), 47960 ). 0.147::holdsAt( coord( id0 )=( 87, 117 ), 47960 ).
+
+% Frame number: 1200
+0.263::happensAt( walking( id0 ), 48000 ). 0.0428::holdsAt( coord( id0 )=( 87, 117 ), 48000 ).
+
+% Frame number: 1201
+0.16::happensAt( walking( id0 ), 48040 ). 0.126::holdsAt( coord( id0 )=( 87, 117 ), 48040 ).
+
+% Frame number: 1202
+0.152::happensAt( walking( id0 ), 48080 ). 0.157::holdsAt( coord( id0 )=( 87, 118 ), 48080 ).
+
+% Frame number: 1203
+0.787::happensAt( walking( id0 ), 48120 ). 0.136::holdsAt( coord( id0 )=( 87, 118 ), 48120 ).
+
+% Frame number: 1204
+0.0565::happensAt( walking( id0 ), 48160 ). 0.572::holdsAt( coord( id0 )=( 87, 118 ), 48160 ).
+
+% Frame number: 1205
+0.177::happensAt( walking( id0 ), 48200 ). 0.149::holdsAt( coord( id0 )=( 87, 118 ), 48200 ).
+
+% Frame number: 1206
+0.109::happensAt( walking( id0 ), 48240 ). 0.365::holdsAt( coord( id0 )=( 87, 118 ), 48240 ).
+
+% Frame number: 1207
+0.639::happensAt( walking( id0 ), 48280 ). 0.0258::holdsAt( coord( id0 )=( 87, 118 ), 48280 ).
+
+% Frame number: 1208
+0.208::happensAt( walking( id0 ), 48320 ). 0.0448::holdsAt( coord( id0 )=( 87, 118 ), 48320 ).
+
+% Frame number: 1209
+0.0485::happensAt( walking( id0 ), 48360 ). 0.568::holdsAt( coord( id0 )=( 87, 118 ), 48360 ).
+
+% Frame number: 1210
+0.153::happensAt( walking( id0 ), 48400 ). 0.127::holdsAt( coord( id0 )=( 89, 118 ), 48400 ).
+
+% Frame number: 1211
+0.0849::happensAt( walking( id0 ), 48440 ). 0.298::holdsAt( coord( id0 )=( 87, 118 ), 48440 ).
+
+% Frame number: 1212
+0.204::happensAt( walking( id0 ), 48480 ). 0.443::holdsAt( coord( id0 )=( 92, 118 ), 48480 ).
+
+% Frame number: 1213
+0.131::happensAt( walking( id0 ), 48520 ). 0.146::holdsAt( coord( id0 )=( 87, 118 ), 48520 ).
+
+% Frame number: 1214
+0.296::happensAt( walking( id0 ), 48560 ). 0.685::holdsAt( coord( id0 )=( 93, 118 ), 48560 ).
+
+% Frame number: 1215
+0.401::happensAt( walking( id0 ), 48600 ). 0.0368::holdsAt( coord( id0 )=( 94, 118 ), 48600 ).
+
+% Frame number: 1216
+0.219::happensAt( walking( id0 ), 48640 ). 0.163::holdsAt( coord( id0 )=( 94, 118 ), 48640 ).
+
+% Frame number: 1217
+0.263::happensAt( walking( id0 ), 48680 ). 0.394::holdsAt( coord( id0 )=( 94, 118 ), 48680 ).
+
+% Frame number: 1218
+0.289::happensAt( walking( id0 ), 48720 ). 0.329::holdsAt( coord( id0 )=( 94, 118 ), 48720 ).
+
+% Frame number: 1219
+0.178::happensAt( walking( id0 ), 48760 ). 0.16::holdsAt( coord( id0 )=( 94, 118 ), 48760 ).
+
+% Frame number: 1220
+0.187::happensAt( walking( id0 ), 48800 ). 0.0192::holdsAt( coord( id0 )=( 94, 118 ), 48800 ).
+
+% Frame number: 1221
+0.0712::happensAt( walking( id0 ), 48840 ). 0.386::holdsAt( coord( id0 )=( 94, 118 ), 48840 ).
+
+% Frame number: 1222
+0.0639::happensAt( walking( id0 ), 48880 ). 0.142::holdsAt( coord( id0 )=( 94, 118 ), 48880 ).
+
+% Frame number: 1223
+0.171::happensAt( walking( id0 ), 48920 ). 0.237::holdsAt( coord( id0 )=( 94, 119 ), 48920 ).
+
+% Frame number: 1224
+0.339::happensAt( walking( id0 ), 48960 ). 0.506::holdsAt( coord( id0 )=( 94, 119 ), 48960 ).
+
+% Frame number: 1225
+0.0676::happensAt( walking( id0 ), 49000 ). 0.0485::holdsAt( coord( id0 )=( 94, 119 ), 49000 ).
+
+% Frame number: 1226
+0.14::happensAt( walking( id0 ), 49040 ). 0.538::holdsAt( coord( id0 )=( 94, 119 ), 49040 ).
+
+% Frame number: 1227
+0.331::happensAt( walking( id0 ), 49080 ). 0.388::holdsAt( coord( id0 )=( 94, 119 ), 49080 ).
+
+% Frame number: 1228
+0.0101::happensAt( walking( id0 ), 49120 ). 0.0922::holdsAt( coord( id0 )=( 95, 119 ), 49120 ).
+
+% Frame number: 1229
+0.101::happensAt( walking( id0 ), 49160 ). 0.811::holdsAt( coord( id0 )=( 95, 119 ), 49160 ).
+
+% Frame number: 1230
+0.255::happensAt( walking( id0 ), 49200 ). 0.222::holdsAt( coord( id0 )=( 96, 119 ), 49200 ).
+
+% Frame number: 1231
+0.0382::happensAt( walking( id0 ), 49240 ). 0.151::holdsAt( coord( id0 )=( 96, 119 ), 49240 ).
+
+% Frame number: 1232
+0.148::happensAt( walking( id0 ), 49280 ). 0.311::holdsAt( coord( id0 )=( 97, 119 ), 49280 ).
+
+% Frame number: 1233
+0.349::happensAt( walking( id0 ), 49320 ). 0.342::holdsAt( coord( id0 )=( 98, 119 ), 49320 ).
+
+% Frame number: 1234
+0.712::happensAt( walking( id0 ), 49360 ). 0.45::holdsAt( coord( id0 )=( 98, 119 ), 49360 ).
+
+% Frame number: 1235
+0.19::happensAt( walking( id0 ), 49400 ). 0.275::holdsAt( coord( id0 )=( 99, 118 ), 49400 ).
+
+% Frame number: 1236
+0.0514::happensAt( walking( id0 ), 49440 ). 0.108::holdsAt( coord( id0 )=( 99, 118 ), 49440 ).
+
+% Frame number: 1237
+0.19::happensAt( walking( id0 ), 49480 ). 0.336::holdsAt( coord( id0 )=( 99, 118 ), 49480 ).
+
+% Frame number: 1238
+0.115::happensAt( walking( id0 ), 49520 ). 0.0867::holdsAt( coord( id0 )=( 99, 118 ), 49520 ).
+
+% Frame number: 1239
+0.321::happensAt( walking( id0 ), 49560 ). 0.325::holdsAt( coord( id0 )=( 99, 118 ), 49560 ).
+
+% Frame number: 1240
+0.0928::happensAt( walking( id0 ), 49600 ). 0.283::holdsAt( coord( id0 )=( 99, 118 ), 49600 ).
+
+% Frame number: 1241
+0.279::happensAt( walking( id0 ), 49640 ). 0.0786::holdsAt( coord( id0 )=( 100, 117 ), 49640 ).
+
+% Frame number: 1242
+0.000711::happensAt( walking( id0 ), 49680 ). 0.16::holdsAt( coord( id0 )=( 100, 117 ), 49680 ).
+
+% Frame number: 1243
+0.633::happensAt( walking( id0 ), 49720 ). 0.147::holdsAt( coord( id0 )=( 100, 117 ), 49720 ).
+
+% Frame number: 1244
+0.494::happensAt( walking( id0 ), 49760 ). 0.527::holdsAt( coord( id0 )=( 100, 117 ), 49760 ).
+
+% Frame number: 1245
+0.000602::happensAt( walking( id0 ), 49800 ). 0.141::holdsAt( coord( id0 )=( 100, 116 ), 49800 ).
+
+% Frame number: 1246
+0.144::happensAt( walking( id0 ), 49840 ). 0.00937::holdsAt( coord( id0 )=( 100, 116 ), 49840 ).
+
+% Frame number: 1247
+0.233::happensAt( walking( id0 ), 49880 ). 0.198::holdsAt( coord( id0 )=( 100, 116 ), 49880 ).
+
+% Frame number: 1248
+0.329::happensAt( walking( id0 ), 49920 ). 0.22::holdsAt( coord( id0 )=( 100, 116 ), 49920 ).
+
+% Frame number: 1249
+0.0136::happensAt( walking( id0 ), 49960 ). 0.0337::holdsAt( coord( id0 )=( 101, 116 ), 49960 ).
+
+% Frame number: 1250
+0.546::happensAt( walking( id0 ), 50000 ). 0.633::holdsAt( coord( id0 )=( 101, 116 ), 50000 ).
+
+% Frame number: 1251
+0.236::happensAt( walking( id0 ), 50040 ). 0.207::holdsAt( coord( id0 )=( 101, 116 ), 50040 ).
+
+% Frame number: 1252
+0.13::happensAt( walking( id0 ), 50080 ). 0.171::holdsAt( coord( id0 )=( 101, 116 ), 50080 ).
+
+% Frame number: 1253
+0.144::happensAt( walking( id0 ), 50120 ). 0.186::holdsAt( coord( id0 )=( 102, 116 ), 50120 ).
+
+% Frame number: 1254
+0.0295::happensAt( walking( id0 ), 50160 ). 0.156::holdsAt( coord( id0 )=( 102, 116 ), 50160 ).
+
+% Frame number: 1255
+0.596::happensAt( walking( id0 ), 50200 ). 0.265::holdsAt( coord( id0 )=( 103, 114 ), 50200 ).
+
+% Frame number: 1256
+0.0487::happensAt( walking( id0 ), 50240 ). 0.111::holdsAt( coord( id0 )=( 104, 113 ), 50240 ).
+
+% Frame number: 1257
+0.681::happensAt( walking( id0 ), 50280 ). 0.0451::holdsAt( coord( id0 )=( 105, 113 ), 50280 ).
+
+% Frame number: 1258
+0.178::happensAt( walking( id0 ), 50320 ). 0.133::holdsAt( coord( id0 )=( 106, 112 ), 50320 ).
+
+% Frame number: 1259
+0.187::happensAt( walking( id0 ), 50360 ). 0.18::holdsAt( coord( id0 )=( 106, 112 ), 50360 ).
+
+% Frame number: 1260
+0.447::happensAt( walking( id0 ), 50400 ). 0.134::holdsAt( coord( id0 )=( 106, 112 ), 50400 ).
+
+% Frame number: 1261
+0.0332::happensAt( walking( id0 ), 50440 ). 0.388::holdsAt( coord( id0 )=( 108, 111 ), 50440 ).
+
+% Frame number: 1262
+0.291::happensAt( walking( id0 ), 50480 ). 0.0317::holdsAt( coord( id0 )=( 108, 111 ), 50480 ).
+
+% Frame number: 1263
+0.223::happensAt( walking( id0 ), 50520 ). 0.0511::holdsAt( coord( id0 )=( 108, 111 ), 50520 ).
+
+% Frame number: 1264
+0.558::happensAt( walking( id0 ), 50560 ). 0.115::holdsAt( coord( id0 )=( 108, 111 ), 50560 ).
+
+% Frame number: 1265
+0.189::happensAt( walking( id0 ), 50600 ). 0.365::holdsAt( coord( id0 )=( 110, 112 ), 50600 ).
+
+% Frame number: 1266
+0.286::happensAt( walking( id0 ), 50640 ). 0.0593::holdsAt( coord( id0 )=( 110, 111 ), 50640 ).
+
+% Frame number: 1267
+0.161::happensAt( walking( id0 ), 50680 ). 0.13::holdsAt( coord( id0 )=( 110, 111 ), 50680 ).
+
+% Frame number: 1268
+0.449::happensAt( walking( id0 ), 50720 ). 0.35::holdsAt( coord( id0 )=( 110, 111 ), 50720 ).
+
+% Frame number: 1269
+0.162::happensAt( walking( id0 ), 50760 ). 0.397::holdsAt( coord( id0 )=( 110, 111 ), 50760 ).
+
+% Frame number: 1270
+0.213::happensAt( walking( id0 ), 50800 ). 0.0837::holdsAt( coord( id0 )=( 110, 111 ), 50800 ).
+
+% Frame number: 1271
+0.144::happensAt( walking( id0 ), 50840 ). 0.0223::holdsAt( coord( id0 )=( 110, 111 ), 50840 ).
+
+% Frame number: 1272
+0.124::happensAt( walking( id0 ), 50880 ). 0.174::holdsAt( coord( id0 )=( 110, 110 ), 50880 ).
+
+% Frame number: 1273
+0.104::happensAt( walking( id0 ), 50920 ). 0.0385::holdsAt( coord( id0 )=( 110, 110 ), 50920 ).
+
+% Frame number: 1274
+0.0941::happensAt( walking( id0 ), 50960 ). 0.353::holdsAt( coord( id0 )=( 112, 110 ), 50960 ).
+
+% Frame number: 1275
+0.4::happensAt( walking( id0 ), 51000 ). 0.266::holdsAt( coord( id0 )=( 112, 110 ), 51000 ).
+
+% Frame number: 1276
+0.115::happensAt( walking( id0 ), 51040 ). 0.0598::holdsAt( coord( id0 )=( 115, 109 ), 51040 ).
+
+% Frame number: 1277
+0.312::happensAt( walking( id0 ), 51080 ). 0.358::holdsAt( coord( id0 )=( 115, 108 ), 51080 ).
+
+% Frame number: 1278
+0.0321::happensAt( walking( id0 ), 51120 ). 0.0245::holdsAt( coord( id0 )=( 115, 108 ), 51120 ).
+
+% Frame number: 1279
+0.153::happensAt( walking( id0 ), 51160 ). 0.151::holdsAt( coord( id0 )=( 117, 108 ), 51160 ).
+
+% Frame number: 1280
+0.197::happensAt( walking( id0 ), 51200 ). 0.113::holdsAt( coord( id0 )=( 117, 107 ), 51200 ).
+
+% Frame number: 1281
+0.0706::happensAt( walking( id0 ), 51240 ). 0.163::holdsAt( coord( id0 )=( 118, 107 ), 51240 ).
+
+% Frame number: 1282
+0.272::happensAt( walking( id0 ), 51280 ). 0.222::holdsAt( coord( id0 )=( 120, 107 ), 51280 ).
+
+% Frame number: 1283
+0.189::happensAt( walking( id0 ), 51320 ). 0.251::holdsAt( coord( id0 )=( 121, 107 ), 51320 ).
+
+% Frame number: 1284
+0.0848::happensAt( walking( id0 ), 51360 ). 0.00758::holdsAt( coord( id0 )=( 121, 106 ), 51360 ).
+
+% Frame number: 1285
+0.109::happensAt( walking( id0 ), 51400 ). 0.119::holdsAt( coord( id0 )=( 121, 106 ), 51400 ).
+
+% Frame number: 1286
+0.662::happensAt( walking( id0 ), 51440 ). 0.0319::holdsAt( coord( id0 )=( 121, 105 ), 51440 ).
+
+% Frame number: 1287
+0.141::happensAt( walking( id0 ), 51480 ). 0.316::holdsAt( coord( id0 )=( 121, 105 ), 51480 ).
+
+% Frame number: 1288
+0.679::happensAt( walking( id0 ), 51520 ). 0.00193::holdsAt( coord( id0 )=( 121, 104 ), 51520 ).
+
+% Frame number: 1289
+0.0916::happensAt( walking( id0 ), 51560 ). 0.465::holdsAt( coord( id0 )=( 122, 104 ), 51560 ).
+
+% Frame number: 1290
+0.123::happensAt( walking( id0 ), 51600 ). 0.499::holdsAt( coord( id0 )=( 122, 104 ), 51600 ).
+
+% Frame number: 1291
+0.0407::happensAt( walking( id0 ), 51640 ). 0.0514::holdsAt( coord( id0 )=( 122, 104 ), 51640 ).
+
+% Frame number: 1292
+0.216::happensAt( walking( id0 ), 51680 ). 0.269::holdsAt( coord( id0 )=( 122, 103 ), 51680 ).
+
+% Frame number: 1293
+0.245::happensAt( walking( id0 ), 51720 ). 0.0821::holdsAt( coord( id0 )=( 122, 100 ), 51720 ).
+
+% Frame number: 1294
+0.644::happensAt( walking( id0 ), 51760 ). 0.367::holdsAt( coord( id0 )=( 124, 99 ), 51760 ).
+
+% Frame number: 1295
+0.145::happensAt( walking( id0 ), 51800 ). 0.15::holdsAt( coord( id0 )=( 125, 99 ), 51800 ).
+
+% Frame number: 1296
+0.0702::happensAt( walking( id0 ), 51840 ). 0.114::holdsAt( coord( id0 )=( 127, 99 ), 51840 ).
+
+% Frame number: 1297
+0.21::happensAt( walking( id0 ), 51880 ). 0.608::holdsAt( coord( id0 )=( 129, 99 ), 51880 ).
+
+% Frame number: 1298
+0.118::happensAt( walking( id0 ), 51920 ). 0.0277::holdsAt( coord( id0 )=( 130, 98 ), 51920 ).
+
+% Frame number: 1299
+0.526::happensAt( walking( id0 ), 51960 ). 0.233::holdsAt( coord( id0 )=( 131, 97 ), 51960 ).
+
+% Frame number: 1300
+0.313::happensAt( walking( id0 ), 52000 ). 0.144::holdsAt( coord( id0 )=( 132, 97 ), 52000 ).
+
+% Frame number: 1301
+0.189::happensAt( walking( id0 ), 52040 ). 0.141::holdsAt( coord( id0 )=( 132, 97 ), 52040 ).
+
+% Frame number: 1302
+0.188::happensAt( walking( id0 ), 52080 ). 0.133::holdsAt( coord( id0 )=( 132, 96 ), 52080 ).
+
+% Frame number: 1303
+0.211::happensAt( walking( id0 ), 52120 ). 0.29::holdsAt( coord( id0 )=( 133, 96 ), 52120 ).
+
+% Frame number: 1304
+0.155::happensAt( walking( id0 ), 52160 ). 0.178::holdsAt( coord( id0 )=( 133, 96 ), 52160 ).
+
+% Frame number: 1305
+0.688::happensAt( walking( id0 ), 52200 ). 0.286::holdsAt( coord( id0 )=( 134, 96 ), 52200 ).
+
+% Frame number: 1306
+0.405::happensAt( walking( id0 ), 52240 ). 0.268::holdsAt( coord( id0 )=( 134, 96 ), 52240 ).
+
+% Frame number: 1307
+0.149::happensAt( walking( id0 ), 52280 ). 0.00594::holdsAt( coord( id0 )=( 134, 94 ), 52280 ).
+
+% Frame number: 1308
+0.238::happensAt( walking( id0 ), 52320 ). 0.493::holdsAt( coord( id0 )=( 134, 94 ), 52320 ).
+
+% Frame number: 1309
+0.0535::happensAt( walking( id0 ), 52360 ). 0.132::holdsAt( coord( id0 )=( 135, 94 ), 52360 ).
+
+% Frame number: 1310
+0.297::happensAt( walking( id0 ), 52400 ). 0.0767::holdsAt( coord( id0 )=( 136, 94 ), 52400 ).
+
+% Frame number: 1311
+0.22::happensAt( walking( id0 ), 52440 ). 0.557::holdsAt( coord( id0 )=( 136, 92 ), 52440 ).
+
+% Frame number: 1312
+0.648::happensAt( walking( id0 ), 52480 ). 0.587::holdsAt( coord( id0 )=( 136, 92 ), 52480 ).
+
+% Frame number: 1313
+0.455::happensAt( walking( id0 ), 52520 ). 0.0352::holdsAt( coord( id0 )=( 136, 92 ), 52520 ).
+
+% Frame number: 1314
+0.164::happensAt( walking( id0 ), 52560 ). 0.045::holdsAt( coord( id0 )=( 138, 91 ), 52560 ).
+
+% Frame number: 1315
+0.509::happensAt( walking( id0 ), 52600 ). 0.014::holdsAt( coord( id0 )=( 139, 91 ), 52600 ).
+
+% Frame number: 1316
+0.0935::happensAt( walking( id0 ), 52640 ). 0.00959::holdsAt( coord( id0 )=( 140, 91 ), 52640 ).
+
+% Frame number: 1317
+0.128::happensAt( walking( id0 ), 52680 ). 0.0669::holdsAt( coord( id0 )=( 140, 91 ), 52680 ).
+
+% Frame number: 1318
+0.186::happensAt( walking( id0 ), 52720 ). 0.0784::holdsAt( coord( id0 )=( 142, 90 ), 52720 ).
+
+% Frame number: 1319
+0.436::happensAt( walking( id0 ), 52760 ). 0.196::holdsAt( coord( id0 )=( 142, 90 ), 52760 ).
+
+% Frame number: 1320
+0.188::happensAt( walking( id0 ), 52800 ). 0.276::holdsAt( coord( id0 )=( 143, 90 ), 52800 ).
+
+% Frame number: 1321
+0.395::happensAt( walking( id0 ), 52840 ). 0.0337::holdsAt( coord( id0 )=( 145, 89 ), 52840 ).
+
+% Frame number: 1322
+0.00538::happensAt( walking( id0 ), 52880 ). 0.147::holdsAt( coord( id0 )=( 145, 88 ), 52880 ).
+
+% Frame number: 1323
+0.138::happensAt( walking( id0 ), 52920 ). 0.0266::holdsAt( coord( id0 )=( 145, 88 ), 52920 ).
+
+% Frame number: 1324
+0.0997::happensAt( walking( id0 ), 52960 ). 0.283::holdsAt( coord( id0 )=( 145, 88 ), 52960 ).
+
+% Frame number: 1325
+0.273::happensAt( walking( id0 ), 53000 ). 0.267::holdsAt( coord( id0 )=( 145, 87 ), 53000 ).
+
+% Frame number: 1326
+0.373::happensAt( walking( id0 ), 53040 ). 0.204::holdsAt( coord( id0 )=( 145, 87 ), 53040 ).
+
+% Frame number: 1327
+0.161::happensAt( walking( id0 ), 53080 ). 0.156::holdsAt( coord( id0 )=( 145, 85 ), 53080 ).
+
+% Frame number: 1328
+0.493::happensAt( walking( id0 ), 53120 ). 0.0499::holdsAt( coord( id0 )=( 146, 84 ), 53120 ).
+
+% Frame number: 1329
+0.0747::happensAt( walking( id0 ), 53160 ). 0.238::holdsAt( coord( id0 )=( 146, 84 ), 53160 ).
+
+% Frame number: 1330
+0.103::happensAt( walking( id0 ), 53200 ). 0.0641::holdsAt( coord( id0 )=( 146, 82 ), 53200 ).
+
+% Frame number: 1331
+0.481::happensAt( walking( id0 ), 53240 ). 0.0904::holdsAt( coord( id0 )=( 147, 82 ), 53240 ).
+
+% Frame number: 1332
+0.0855::happensAt( walking( id0 ), 53280 ). 0.0375::holdsAt( coord( id0 )=( 148, 82 ), 53280 ).
+
+% Frame number: 1333
+0.0228::happensAt( walking( id0 ), 53320 ). 0.155::holdsAt( coord( id0 )=( 150, 80 ), 53320 ).
+
+% Frame number: 1334
+0.416::happensAt( walking( id0 ), 53360 ). 0.36::holdsAt( coord( id0 )=( 150, 79 ), 53360 ).
+
+% Frame number: 1335
+0.023::happensAt( walking( id0 ), 53400 ). 0.0547::holdsAt( coord( id0 )=( 152, 78 ), 53400 ).
+
+% Frame number: 1336
+0.0901::happensAt( walking( id0 ), 53440 ). 0.0858::holdsAt( coord( id0 )=( 153, 78 ), 53440 ).
+
+% Frame number: 1337
+0.427::happensAt( walking( id0 ), 53480 ). 0.0175::holdsAt( coord( id0 )=( 154, 77 ), 53480 ).
+
+% Frame number: 1338
+0.176::happensAt( walking( id0 ), 53520 ). 0.329::holdsAt( coord( id0 )=( 155, 77 ), 53520 ).
+
+% Frame number: 1339
+0.186::happensAt( walking( id0 ), 53560 ). 0.182::holdsAt( coord( id0 )=( 156, 77 ), 53560 ).
+
+% Frame number: 1340
+0.114::happensAt( walking( id0 ), 53600 ). 0.22::holdsAt( coord( id0 )=( 156, 77 ), 53600 ).
+
+% Frame number: 1341
+0.0692::happensAt( walking( id0 ), 53640 ). 0.143::holdsAt( coord( id0 )=( 156, 76 ), 53640 ).
+
+% Frame number: 1342
+0.042::happensAt( walking( id0 ), 53680 ). 0.0787::holdsAt( coord( id0 )=( 156, 76 ), 53680 ).
+
+% Frame number: 1343
+0.0282::happensAt( walking( id0 ), 53720 ). 0.332::holdsAt( coord( id0 )=( 157, 76 ), 53720 ).
+
+% Frame number: 1344
+0.0819::happensAt( walking( id0 ), 53760 ). 0.0847::holdsAt( coord( id0 )=( 158, 75 ), 53760 ).
+
+% Frame number: 1345
+0.137::happensAt( walking( id0 ), 53800 ). 0.339::holdsAt( coord( id0 )=( 158, 75 ), 53800 ).
+
+% Frame number: 1346
+0.155::happensAt( walking( id0 ), 53840 ). 0.158::holdsAt( coord( id0 )=( 158, 74 ), 53840 ).
+
+% Frame number: 1347
+0.24::happensAt( walking( id0 ), 53880 ). 0.173::holdsAt( coord( id0 )=( 158, 74 ), 53880 ).
+
+% Frame number: 1348
+0.152::happensAt( walking( id0 ), 53920 ). 0.179::holdsAt( coord( id0 )=( 159, 73 ), 53920 ).
+
+% Frame number: 1349
+0.669::happensAt( walking( id0 ), 53960 ). 0.362::holdsAt( coord( id0 )=( 159, 73 ), 53960 ).
+
+% Frame number: 1350
+0.179::happensAt( walking( id0 ), 54000 ). 0.0247::holdsAt( coord( id0 )=( 159, 72 ), 54000 ).
+
+% Frame number: 1351
+0.0151::happensAt( walking( id0 ), 54040 ). 0.178::holdsAt( coord( id0 )=( 159, 72 ), 54040 ).
+
+% Frame number: 1352
+0.36::happensAt( walking( id0 ), 54080 ). 0.232::holdsAt( coord( id0 )=( 160, 69 ), 54080 ).
+
+% Frame number: 1353
+0.151::happensAt( walking( id0 ), 54120 ). 0.0933::holdsAt( coord( id0 )=( 160, 69 ), 54120 ).
+
+% Frame number: 1354
+0.201::happensAt( walking( id0 ), 54160 ). 0.226::holdsAt( coord( id0 )=( 161, 69 ), 54160 ).
+
+% Frame number: 1355
+0.202::happensAt( walking( id0 ), 54200 ). 0.368::holdsAt( coord( id0 )=( 161, 69 ), 54200 ).
+
+% Frame number: 1356
+0.063::happensAt( walking( id0 ), 54240 ). 0.00456::holdsAt( coord( id0 )=( 161, 69 ), 54240 ).
+
+% Frame number: 1357
+0.214::happensAt( walking( id0 ), 54280 ). 0.529::holdsAt( coord( id0 )=( 163, 68 ), 54280 ).
+
+% Frame number: 1358
+0.126::happensAt( walking( id0 ), 54320 ). 0.347::holdsAt( coord( id0 )=( 164, 67 ), 54320 ).
+
+% Frame number: 1359
+0.133::happensAt( walking( id0 ), 54360 ). 0.359::holdsAt( coord( id0 )=( 164, 67 ), 54360 ).
+
+% Frame number: 1360
+0.0952::happensAt( walking( id0 ), 54400 ). 0.186::holdsAt( coord( id0 )=( 164, 67 ), 54400 ).
+
+% Frame number: 1361
+0.101::happensAt( walking( id0 ), 54440 ). 0.316::holdsAt( coord( id0 )=( 164, 67 ), 54440 ).
+
+% Frame number: 1362
+0.00646::happensAt( walking( id0 ), 54480 ). 0.291::holdsAt( coord( id0 )=( 166, 67 ), 54480 ).
+
+% Frame number: 1363
+0.113::happensAt( walking( id0 ), 54520 ). 0.198::holdsAt( coord( id0 )=( 167, 67 ), 54520 ).
+
+% Frame number: 1364
+0.347::happensAt( walking( id0 ), 54560 ). 0.397::holdsAt( coord( id0 )=( 167, 67 ), 54560 ).
+
+% Frame number: 1365
+0.259::happensAt( walking( id0 ), 54600 ). 0.0183::holdsAt( coord( id0 )=( 167, 67 ), 54600 ).
+
+% Frame number: 1366
+0.117::happensAt( walking( id0 ), 54640 ). 0.0272::holdsAt( coord( id0 )=( 169, 66 ), 54640 ).
+
+% Frame number: 1367
+0.148::happensAt( walking( id0 ), 54680 ). 0.503::holdsAt( coord( id0 )=( 170, 65 ), 54680 ).
+
+% Frame number: 1368
+0.341::happensAt( walking( id0 ), 54720 ). 0.29::holdsAt( coord( id0 )=( 170, 64 ), 54720 ).
+
+% Frame number: 1369
+0.187::happensAt( walking( id0 ), 54760 ). 0.208::holdsAt( coord( id0 )=( 170, 64 ), 54760 ).
+
+% Frame number: 1370
+0.375::happensAt( walking( id0 ), 54800 ). 0.155::holdsAt( coord( id0 )=( 170, 63 ), 54800 ).
+
+% Frame number: 1371
+0.583::happensAt( walking( id0 ), 54840 ). 0.301::holdsAt( coord( id0 )=( 170, 62 ), 54840 ).
+
+% Frame number: 1372
+0.000393::happensAt( walking( id0 ), 54880 ). 0.297::holdsAt( coord( id0 )=( 170, 62 ), 54880 ).
+
+% Frame number: 1373
+0.042::happensAt( walking( id0 ), 54920 ). 0.0147::holdsAt( coord( id0 )=( 170, 62 ), 54920 ).
+
+% Frame number: 1374
+0.0444::happensAt( walking( id0 ), 54960 ). 0.666::holdsAt( coord( id0 )=( 171, 60 ), 54960 ).
+
+% Frame number: 1375
+0.103::happensAt( walking( id0 ), 55000 ). 0.247::holdsAt( coord( id0 )=( 171, 60 ), 55000 ).
+
+% Frame number: 1376
+0.00313::happensAt( walking( id0 ), 55040 ). 0.0122::holdsAt( coord( id0 )=( 172, 60 ), 55040 ).
+
+% Frame number: 1377
+0.302::happensAt( walking( id0 ), 55080 ). 0.164::holdsAt( coord( id0 )=( 172, 59 ), 55080 ).
+
+% Frame number: 1378
+0.256::happensAt( walking( id0 ), 55120 ). 0.559::holdsAt( coord( id0 )=( 172, 58 ), 55120 ).
+
+% Frame number: 1379
+0.165::happensAt( walking( id0 ), 55160 ). 0.15::holdsAt( coord( id0 )=( 173, 58 ), 55160 ).
+
+% Frame number: 1380
+0.442::happensAt( walking( id0 ), 55200 ). 0.0183::holdsAt( coord( id0 )=( 174, 58 ), 55200 ).
+
+% Frame number: 1381
+0.284::happensAt( walking( id0 ), 55240 ). 0.132::holdsAt( coord( id0 )=( 174, 56 ), 55240 ).
+
+% Frame number: 1382
+0.157::happensAt( walking( id0 ), 55280 ). 0.615::holdsAt( coord( id0 )=( 176, 56 ), 55280 ).
+
+% Frame number: 1383
+0.247::happensAt( walking( id0 ), 55320 ). 0.428::holdsAt( coord( id0 )=( 177, 55 ), 55320 ).
+
+% Frame number: 1384
+0.416::happensAt( walking( id0 ), 55360 ). 0.203::holdsAt( coord( id0 )=( 177, 54 ), 55360 ).
+
+% Frame number: 1385
+0.675::happensAt( walking( id0 ), 55400 ). 0.337::holdsAt( coord( id0 )=( 177, 54 ), 55400 ).
+
+% Frame number: 1386
+0.0309::happensAt( walking( id0 ), 55440 ). 0.601::holdsAt( coord( id0 )=( 178, 54 ), 55440 ).
+
+% Frame number: 1387
+0.198::happensAt( walking( id0 ), 55480 ). 0.146::holdsAt( coord( id0 )=( 179, 54 ), 55480 ).
+
+% Frame number: 1388
+0.233::happensAt( walking( id0 ), 55520 ). 0.0763::holdsAt( coord( id0 )=( 178, 54 ), 55520 ).
+
+% Frame number: 1389
+0.248::happensAt( walking( id0 ), 55560 ). 0.181::holdsAt( coord( id0 )=( 178, 54 ), 55560 ).
+
+% Frame number: 1390
+0.162::happensAt( walking( id0 ), 55600 ). 0.515::holdsAt( coord( id0 )=( 178, 54 ), 55600 ).
+
+% Frame number: 1391
+0.466::happensAt( walking( id0 ), 55640 ). 0.346::holdsAt( coord( id0 )=( 178, 54 ), 55640 ).
+
+% Frame number: 1392
+0.327::happensAt( walking( id0 ), 55680 ). 0.108::holdsAt( coord( id0 )=( 178, 54 ), 55680 ).
+
+% Frame number: 1393
+0.724::happensAt( walking( id0 ), 55720 ). 0.217::holdsAt( coord( id0 )=( 178, 54 ), 55720 ).
+
+% Frame number: 1394
+0.217::happensAt( walking( id0 ), 55760 ). 0.244::holdsAt( coord( id0 )=( 178, 54 ), 55760 ).
+
+% Frame number: 1395
+0.129::happensAt( walking( id0 ), 55800 ). 0.158::holdsAt( coord( id0 )=( 178, 53 ), 55800 ).
+
+% Frame number: 1396
+0.462::happensAt( walking( id0 ), 55840 ). 0.229::holdsAt( coord( id0 )=( 178, 51 ), 55840 ).
+
+% Frame number: 1397
+0.193::happensAt( walking( id0 ), 55880 ). 0.181::holdsAt( coord( id0 )=( 180, 51 ), 55880 ).
+
+% Frame number: 1398
+0.0514::happensAt( walking( id0 ), 55920 ). 0.338::holdsAt( coord( id0 )=( 181, 51 ), 55920 ).
+
+% Frame number: 1399
+0.11::happensAt( walking( id0 ), 55960 ). 0.0352::holdsAt( coord( id0 )=( 181, 51 ), 55960 ).
+
+% Frame number: 1400
+0.104::happensAt( walking( id0 ), 56000 ). 0.107::holdsAt( coord( id0 )=( 181, 51 ), 56000 ).
+
+% Frame number: 1401
+0.185::happensAt( walking( id0 ), 56040 ). 0.25::holdsAt( coord( id0 )=( 181, 51 ), 56040 ).
+
+% Frame number: 1402
+0.0911::happensAt( walking( id0 ), 56080 ). 0.774::holdsAt( coord( id0 )=( 181, 51 ), 56080 ).
+
+% Frame number: 1403
+0.162::happensAt( walking( id0 ), 56120 ). 0.144::holdsAt( coord( id0 )=( 181, 51 ), 56120 ).
+
+% Frame number: 1404
+0.158::happensAt( walking( id0 ), 56160 ). 0.14::holdsAt( coord( id0 )=( 181, 51 ), 56160 ).
+
+% Frame number: 1405
+0.054::happensAt( inactive( id0 ), 56200 ). 0.575::holdsAt( coord( id0 )=( 181, 51 ), 56200 ).
+
+% Frame number: 1406
+0.0896::happensAt( inactive( id0 ), 56240 ). 0.363::holdsAt( coord( id0 )=( 181, 51 ), 56240 ).
+
+% Frame number: 1407
+0.0143::happensAt( inactive( id0 ), 56280 ). 0.43::holdsAt( coord( id0 )=( 181, 51 ), 56280 ).
+
+% Frame number: 1408
+0.623::happensAt( inactive( id0 ), 56320 ). 0.0602::holdsAt( coord( id0 )=( 181, 51 ), 56320 ).
+
+% Frame number: 1409
+0.135::happensAt( inactive( id0 ), 56360 ). 0.145::holdsAt( coord( id0 )=( 181, 51 ), 56360 ).
+
+% Frame number: 1410
+0.303::happensAt( inactive( id0 ), 56400 ). 0.19::holdsAt( coord( id0 )=( 181, 51 ), 56400 ).
+
+% Frame number: 1411
+0.234::happensAt( inactive( id0 ), 56440 ). 0.18::holdsAt( coord( id0 )=( 181, 51 ), 56440 ).
+
+% Frame number: 1412
+0.0365::happensAt( inactive( id0 ), 56480 ). 0.282::holdsAt( coord( id0 )=( 181, 51 ), 56480 ).
+
+% Frame number: 1413
+0.23::happensAt( inactive( id0 ), 56520 ). 0.0281::holdsAt( coord( id0 )=( 181, 51 ), 56520 ).
+
+% Frame number: 1414
+0.302::happensAt( inactive( id0 ), 56560 ). 0.407::holdsAt( coord( id0 )=( 181, 51 ), 56560 ).
+
+% Frame number: 1415
+0.731::happensAt( inactive( id0 ), 56600 ). 0.273::holdsAt( coord( id0 )=( 181, 51 ), 56600 ).
+
+% Frame number: 1416
+0.555::happensAt( inactive( id0 ), 56640 ). 0.235::holdsAt( coord( id0 )=( 181, 51 ), 56640 ).
+
+% Frame number: 1417
+0.18::happensAt( inactive( id0 ), 56680 ). 0.312::holdsAt( coord( id0 )=( 181, 51 ), 56680 ).
+
+% Frame number: 1418
+0.0984::happensAt( inactive( id0 ), 56720 ). 0.00847::holdsAt( coord( id0 )=( 181, 51 ), 56720 ).
+
+% Frame number: 1419
+0.422::happensAt( inactive( id0 ), 56760 ). 0.423::holdsAt( coord( id0 )=( 182, 51 ), 56760 ).
+
+% Frame number: 1420
+0.482::happensAt( inactive( id0 ), 56800 ). 0.0328::holdsAt( coord( id0 )=( 182, 51 ), 56800 ).
+
+% Frame number: 1421
+0.122::happensAt( inactive( id0 ), 56840 ). 0.125::holdsAt( coord( id0 )=( 182, 51 ), 56840 ).
+
+% Frame number: 1422
+0.195::happensAt( inactive( id0 ), 56880 ). 0.0257::holdsAt( coord( id0 )=( 182, 51 ), 56880 ).
+
+% Frame number: 1423
+0.15::happensAt( inactive( id0 ), 56920 ). 0.33::holdsAt( coord( id0 )=( 182, 51 ), 56920 ).
+
+% Frame number: 1424
+0.595::happensAt( inactive( id0 ), 56960 ). 0.213::holdsAt( coord( id0 )=( 182, 51 ), 56960 ).
+
+% Frame number: 1425
+0.0109::happensAt( inactive( id0 ), 57000 ). 0.231::holdsAt( coord( id0 )=( 182, 51 ), 57000 ).
+
+% Frame number: 1426
+0.0367::happensAt( inactive( id0 ), 57040 ). 0.016::holdsAt( coord( id0 )=( 182, 51 ), 57040 ).
+
+% Frame number: 1427
+0.247::happensAt( inactive( id0 ), 57080 ). 0.0275::holdsAt( coord( id0 )=( 182, 51 ), 57080 ).
+
+% Frame number: 1428
+0.741::happensAt( inactive( id0 ), 57120 ). 0.297::holdsAt( coord( id0 )=( 182, 51 ), 57120 ).
+
+% Frame number: 1429
+0.375::happensAt( inactive( id0 ), 57160 ). 0.145::holdsAt( coord( id0 )=( 182, 51 ), 57160 ).
+
+% Frame number: 1430
+0.381::happensAt( inactive( id0 ), 57200 ). 0.214::holdsAt( coord( id0 )=( 182, 51 ), 57200 ).
+
+% Frame number: 1431
+0.499::happensAt( inactive( id0 ), 57240 ). 0.196::holdsAt( coord( id0 )=( 182, 51 ), 57240 ).
+
+% Frame number: 1432
+0.0537::happensAt( inactive( id0 ), 57280 ). 0.475::holdsAt( coord( id0 )=( 182, 51 ), 57280 ).
+
+% Frame number: 1433
+0.0744::happensAt( inactive( id0 ), 57320 ). 0.0501::holdsAt( coord( id0 )=( 182, 51 ), 57320 ).
+
+% Frame number: 1434
+0.014::happensAt( inactive( id0 ), 57360 ). 0.0951::holdsAt( coord( id0 )=( 182, 51 ), 57360 ).
+
+% Frame number: 1435
+0.11::happensAt( inactive( id0 ), 57400 ). 0.141::holdsAt( coord( id0 )=( 182, 51 ), 57400 ).
+
+% Frame number: 1436
+0.0782::happensAt( inactive( id0 ), 57440 ). 0.0505::holdsAt( coord( id0 )=( 182, 51 ), 57440 ).
+
+% Frame number: 1437
+0.243::happensAt( inactive( id0 ), 57480 ). 0.191::holdsAt( coord( id0 )=( 182, 51 ), 57480 ).
+
+% Frame number: 1438
+0.0778::happensAt( inactive( id0 ), 57520 ). 0.0345::holdsAt( coord( id0 )=( 182, 51 ), 57520 ).
+
+% Frame number: 1439
+0.239::happensAt( inactive( id0 ), 57560 ). 0.21::holdsAt( coord( id0 )=( 182, 51 ), 57560 ).
+
+% Frame number: 1440
+0.339::happensAt( inactive( id0 ), 57600 ). 0.22::holdsAt( coord( id0 )=( 182, 51 ), 57600 ).
+
+% Frame number: 1441
+0.00252::happensAt( inactive( id0 ), 57640 ). 0.15::holdsAt( coord( id0 )=( 182, 51 ), 57640 ).
+
+% Frame number: 1442
+0.644::happensAt( inactive( id0 ), 57680 ). 0.0289::holdsAt( coord( id0 )=( 182, 51 ), 57680 ).
+
+% Frame number: 1443
+0.401::happensAt( inactive( id0 ), 57720 ). 0.283::holdsAt( coord( id0 )=( 182, 51 ), 57720 ).
+
+% Frame number: 1444
+0.025::happensAt( inactive( id0 ), 57760 ). 0.0148::holdsAt( coord( id0 )=( 182, 51 ), 57760 ).
+
+% Frame number: 1445
+0.146::happensAt( inactive( id0 ), 57800 ). 0.0779::holdsAt( coord( id0 )=( 182, 51 ), 57800 ).
+
+% Frame number: 1446
+0.286::happensAt( inactive( id0 ), 57840 ). 0.259::holdsAt( coord( id0 )=( 182, 51 ), 57840 ).
+
+% Frame number: 1447
+0.116::happensAt( inactive( id0 ), 57880 ). 0.0466::holdsAt( coord( id0 )=( 182, 51 ), 57880 ).
+
+% Frame number: 1448
+0.42::happensAt( inactive( id0 ), 57920 ). 0.266::holdsAt( coord( id0 )=( 182, 51 ), 57920 ).
+
+% Frame number: 1449
+0.0582::happensAt( inactive( id0 ), 57960 ). 0.0423::holdsAt( coord( id0 )=( 182, 51 ), 57960 ).
+
+% Frame number: 1450
+0.274::happensAt( inactive( id0 ), 58000 ). 0.475::holdsAt( coord( id0 )=( 182, 51 ), 58000 ).
+
+% Frame number: 1451
+0.247::happensAt( inactive( id0 ), 58040 ). 0.143::holdsAt( coord( id0 )=( 182, 51 ), 58040 ).
+
+% Frame number: 1452
+0.242::happensAt( inactive( id0 ), 58080 ). 0.203::holdsAt( coord( id0 )=( 182, 51 ), 58080 ).
+
+% Frame number: 1453
+0.747::happensAt( inactive( id0 ), 58120 ). 0.365::holdsAt( coord( id0 )=( 182, 51 ), 58120 ).
+
+% Frame number: 1454
+0.0761::happensAt( inactive( id0 ), 58160 ). 0.117::holdsAt( coord( id0 )=( 182, 51 ), 58160 ).
+
+% Frame number: 1455
+0.294::happensAt( inactive( id0 ), 58200 ). 0.274::holdsAt( coord( id0 )=( 182, 51 ), 58200 ).
+
+% Frame number: 1456
+0.59::happensAt( inactive( id0 ), 58240 ). 0.348::holdsAt( coord( id0 )=( 182, 51 ), 58240 ).
+
+% Frame number: 1457
+0.0117::happensAt( inactive( id0 ), 58280 ). 0.178::holdsAt( coord( id0 )=( 182, 51 ), 58280 ).
+
+% Frame number: 1458
+0.158::happensAt( inactive( id0 ), 58320 ). 0.741::holdsAt( coord( id0 )=( 182, 51 ), 58320 ).
+
+% Frame number: 1459
+0.0515::happensAt( inactive( id0 ), 58360 ). 0.0741::holdsAt( coord( id0 )=( 182, 51 ), 58360 ).
+
+% Frame number: 1460
+0.584::happensAt( inactive( id0 ), 58400 ). 0.22::holdsAt( coord( id0 )=( 182, 51 ), 58400 ).
+
+% Frame number: 1461
+0.57::happensAt( inactive( id0 ), 58440 ). 0.223::holdsAt( coord( id0 )=( 182, 51 ), 58440 ).
+
+% Frame number: 1462
+0.436::happensAt( inactive( id0 ), 58480 ). 0.118::holdsAt( coord( id0 )=( 182, 51 ), 58480 ).
+
+% Frame number: 1463
+0.00905::happensAt( inactive( id0 ), 58520 ). 0.277::holdsAt( coord( id0 )=( 182, 51 ), 58520 ).
+
+% Frame number: 1464
+0.169::happensAt( inactive( id0 ), 58560 ). 0.506::holdsAt( coord( id0 )=( 182, 51 ), 58560 ).
+
+% Frame number: 1465
+0.202::happensAt( inactive( id0 ), 58600 ). 0.0894::holdsAt( coord( id0 )=( 182, 51 ), 58600 ).
+
+% Frame number: 1466
+0.313::happensAt( inactive( id0 ), 58640 ). 0.0877::holdsAt( coord( id0 )=( 182, 51 ), 58640 ).
+
+% Frame number: 1467
+0.0468::happensAt( inactive( id0 ), 58680 ). 0.117::holdsAt( coord( id0 )=( 182, 51 ), 58680 ).
+
+% Frame number: 1468
+0.247::happensAt( inactive( id0 ), 58720 ). 0.401::holdsAt( coord( id0 )=( 182, 51 ), 58720 ).
+
+% Frame number: 1469
+0.424::happensAt( inactive( id0 ), 58760 ). 0.0368::holdsAt( coord( id0 )=( 182, 51 ), 58760 ).
+
+% Frame number: 1470
+0.235::happensAt( inactive( id0 ), 58800 ). 0.173::holdsAt( coord( id0 )=( 182, 51 ), 58800 ).
+
+% Frame number: 1471
+0.242::happensAt( inactive( id0 ), 58840 ). 8.88e-05::holdsAt( coord( id0 )=( 182, 51 ), 58840 ).
+
+% Frame number: 1472
+0.345::happensAt( inactive( id0 ), 58880 ). 0.123::holdsAt( coord( id0 )=( 182, 51 ), 58880 ).
+
+% Frame number: 1473
+0.174::happensAt( inactive( id0 ), 58920 ). 0.0893::holdsAt( coord( id0 )=( 182, 51 ), 58920 ).
+
+% Frame number: 1474
+0.0988::happensAt( inactive( id0 ), 58960 ). 0.0415::holdsAt( coord( id0 )=( 182, 51 ), 58960 ).
+
+% Frame number: 1475
+0.0689::happensAt( inactive( id0 ), 59000 ). 0.0432::holdsAt( coord( id0 )=( 182, 51 ), 59000 ).
+
+% Frame number: 1476
+0.32::happensAt( inactive( id0 ), 59040 ). 0.282::holdsAt( coord( id0 )=( 182, 51 ), 59040 ).
+
+% Frame number: 1477
+0.0754::happensAt( inactive( id0 ), 59080 ). 0.459::holdsAt( coord( id0 )=( 182, 51 ), 59080 ).
+
+% Frame number: 1478
+0.0368::happensAt( inactive( id0 ), 59120 ). 0.663::holdsAt( coord( id0 )=( 182, 51 ), 59120 ).
+
+% Frame number: 1479
+0.22::happensAt( inactive( id0 ), 59160 ). 0.3::holdsAt( coord( id0 )=( 182, 51 ), 59160 ).
+
+% Frame number: 1480
+0.377::happensAt( inactive( id0 ), 59200 ). 0.457::holdsAt( coord( id0 )=( 182, 51 ), 59200 ).
+
+% Frame number: 1481
+0.0396::happensAt( inactive( id0 ), 59240 ). 0.122::holdsAt( coord( id0 )=( 182, 51 ), 59240 ).
+
+% Frame number: 1482
+0.0535::happensAt( inactive( id0 ), 59280 ). 0.318::holdsAt( coord( id0 )=( 182, 51 ), 59280 ).
+
+% Frame number: 1483
+0.201::happensAt( inactive( id0 ), 59320 ). 0.092::holdsAt( coord( id0 )=( 182, 51 ), 59320 ).
+
+% Frame number: 1484
+0.27::happensAt( inactive( id0 ), 59360 ). 0.355::holdsAt( coord( id0 )=( 182, 51 ), 59360 ).
+
+% Frame number: 1485
+0.33::happensAt( inactive( id0 ), 59400 ). 0.491::holdsAt( coord( id0 )=( 182, 51 ), 59400 ).
+
+% Frame number: 1486
+0.26::happensAt( inactive( id0 ), 59440 ). 0.255::holdsAt( coord( id0 )=( 182, 51 ), 59440 ).
+
+% Frame number: 1487
+0.217::happensAt( inactive( id0 ), 59480 ). 0.234::holdsAt( coord( id0 )=( 182, 51 ), 59480 ).
+
+% Frame number: 1488
+0.03::happensAt( inactive( id0 ), 59520 ). 0.0455::holdsAt( coord( id0 )=( 182, 51 ), 59520 ).
+
+% Frame number: 1489
+0.332::happensAt( inactive( id0 ), 59560 ). 0.279::holdsAt( coord( id0 )=( 182, 51 ), 59560 ).
+
+% Frame number: 1490
+0.179::happensAt( inactive( id0 ), 59600 ). 0.0781::holdsAt( coord( id0 )=( 182, 51 ), 59600 ).
+
+% Frame number: 1491
+0.173::happensAt( inactive( id0 ), 59640 ). 0.0705::holdsAt( coord( id0 )=( 182, 51 ), 59640 ).
+
+% Frame number: 1492
+0.159::happensAt( inactive( id0 ), 59680 ). 0.297::holdsAt( coord( id0 )=( 182, 51 ), 59680 ).
+
+% Frame number: 1493
+0.0463::happensAt( inactive( id0 ), 59720 ). 0.081::holdsAt( coord( id0 )=( 182, 51 ), 59720 ).
+
+% Frame number: 1494
+0.0192::happensAt( inactive( id0 ), 59760 ). 0.126::holdsAt( coord( id0 )=( 182, 51 ), 59760 ).
+
+% Frame number: 1495
+0.109::happensAt( inactive( id0 ), 59800 ). 0.0727::holdsAt( coord( id0 )=( 182, 51 ), 59800 ).
+
+% Frame number: 1496
+0.201::happensAt( inactive( id0 ), 59840 ). 0.0706::holdsAt( coord( id0 )=( 182, 51 ), 59840 ).
+
+% Frame number: 1497
+0.31::happensAt( inactive( id0 ), 59880 ). 0.584::holdsAt( coord( id0 )=( 182, 51 ), 59880 ).
+
+% Frame number: 1498
+0.502::happensAt( inactive( id0 ), 59920 ). 0.173::holdsAt( coord( id0 )=( 182, 51 ), 59920 ).
+
+% Frame number: 1499
+0.59::happensAt( inactive( id0 ), 59960 ). 0.0108::holdsAt( coord( id0 )=( 182, 51 ), 59960 ).
+
+% Frame number: 1500
+0.0166::happensAt( inactive( id0 ), 60000 ). 0.229::holdsAt( coord( id0 )=( 182, 51 ), 60000 ).
+
+% Frame number: 1501
+0.535::happensAt( inactive( id0 ), 60040 ). 0.132::holdsAt( coord( id0 )=( 182, 51 ), 60040 ).
+
+% Frame number: 1502
+0.578::happensAt( inactive( id0 ), 60080 ). 0.297::holdsAt( coord( id0 )=( 182, 51 ), 60080 ).
+
+% Frame number: 1503
+0.0968::happensAt( inactive( id0 ), 60120 ). 0.818::holdsAt( coord( id0 )=( 182, 51 ), 60120 ).
+
+% Frame number: 1504
+0.368::happensAt( inactive( id0 ), 60160 ). 0.0786::holdsAt( coord( id0 )=( 182, 51 ), 60160 ).
+
+% Frame number: 1505
+0.67::happensAt( inactive( id0 ), 60200 ). 0.153::holdsAt( coord( id0 )=( 182, 51 ), 60200 ).
+
+% Frame number: 1506
+0.13::happensAt( inactive( id0 ), 60240 ). 0.434::holdsAt( coord( id0 )=( 182, 51 ), 60240 ).
+
+% Frame number: 1507
+0.184::happensAt( inactive( id0 ), 60280 ). 0.104::holdsAt( coord( id0 )=( 182, 51 ), 60280 ).
+
+% Frame number: 1508
+0.331::happensAt( inactive( id0 ), 60320 ). 0.13::holdsAt( coord( id0 )=( 182, 51 ), 60320 ).
+
+% Frame number: 1509
+0.201::happensAt( inactive( id0 ), 60360 ). 0.251::holdsAt( coord( id0 )=( 182, 51 ), 60360 ).
+
+% Frame number: 1510
+0.0257::happensAt( inactive( id0 ), 60400 ). 0.22::holdsAt( coord( id0 )=( 182, 51 ), 60400 ).
+
+% Frame number: 1511
+0.0668::happensAt( inactive( id0 ), 60440 ). 0.0568::holdsAt( coord( id0 )=( 182, 51 ), 60440 ).
+
+% Frame number: 1512
+0.137::happensAt( inactive( id0 ), 60480 ). 0.151::holdsAt( coord( id0 )=( 182, 51 ), 60480 ).
+
+% Frame number: 1513
+0.195::happensAt( inactive( id0 ), 60520 ). 0.249::holdsAt( coord( id0 )=( 182, 51 ), 60520 ).
+
+% Frame number: 1514
+0.321::happensAt( inactive( id0 ), 60560 ). 0.176::holdsAt( coord( id0 )=( 182, 51 ), 60560 ).
+
+% Frame number: 1515
+0.226::happensAt( inactive( id0 ), 60600 ). 0.164::holdsAt( coord( id0 )=( 182, 51 ), 60600 ).
+
+% Frame number: 1516
+0.277::happensAt( inactive( id0 ), 60640 ). 0.0421::holdsAt( coord( id0 )=( 182, 51 ), 60640 ).
+
+% Frame number: 1517
+0.211::happensAt( inactive( id0 ), 60680 ). 0.0606::holdsAt( coord( id0 )=( 182, 51 ), 60680 ).
+
+% Frame number: 1518
+0.413::happensAt( inactive( id0 ), 60720 ). 0.364::holdsAt( coord( id0 )=( 182, 51 ), 60720 ).
+
+% Frame number: 1519
+0.616::happensAt( inactive( id0 ), 60760 ). 0.144::holdsAt( coord( id0 )=( 182, 51 ), 60760 ).
+
+% Frame number: 1520
+0.615::happensAt( inactive( id0 ), 60800 ). 0.163::holdsAt( coord( id0 )=( 182, 51 ), 60800 ).
+
+% Frame number: 1521
+0.00545::happensAt( inactive( id0 ), 60840 ). 0.0334::holdsAt( coord( id0 )=( 182, 51 ), 60840 ).
+
+% Frame number: 1522
+0.0558::happensAt( inactive( id0 ), 60880 ). 0.253::holdsAt( coord( id0 )=( 182, 51 ), 60880 ).
+
+% Frame number: 1523
+0.00416::happensAt( inactive( id0 ), 60920 ). 0.155::holdsAt( coord( id0 )=( 182, 51 ), 60920 ).
+
+% Frame number: 1524
+0.18::happensAt( inactive( id0 ), 60960 ). 0.277::holdsAt( coord( id0 )=( 182, 51 ), 60960 ).
+
+% Frame number: 1525
+0.0141::happensAt( inactive( id0 ), 61000 ). 0.0983::holdsAt( coord( id0 )=( 182, 51 ), 61000 ).
+
+% Frame number: 1526
+0.106::happensAt( inactive( id0 ), 61040 ). 0.336::holdsAt( coord( id0 )=( 182, 51 ), 61040 ).
+
+% Frame number: 1527
+0.083::happensAt( inactive( id0 ), 61080 ). 0.0702::holdsAt( coord( id0 )=( 182, 51 ), 61080 ).
+
+% Frame number: 1528
+0.46::happensAt( inactive( id0 ), 61120 ). 0.0707::holdsAt( coord( id0 )=( 182, 51 ), 61120 ).
+
+% Frame number: 1529
+0.049::happensAt( inactive( id0 ), 61160 ). 0.566::holdsAt( coord( id0 )=( 182, 51 ), 61160 ).
+
+% Frame number: 1530
+0.372::happensAt( inactive( id0 ), 61200 ). 0.159::holdsAt( coord( id0 )=( 182, 51 ), 61200 ).
+
+% Frame number: 1531
+0.165::happensAt( inactive( id0 ), 61240 ). 0.452::holdsAt( coord( id0 )=( 182, 51 ), 61240 ).
+
+% Frame number: 1532
+0.248::happensAt( inactive( id0 ), 61280 ). 0.336::holdsAt( coord( id0 )=( 182, 51 ), 61280 ).
+
+% Frame number: 1533
+0.078::happensAt( inactive( id0 ), 61320 ). 0.23::holdsAt( coord( id0 )=( 182, 51 ), 61320 ).
+
+% Frame number: 1534
+0.502::happensAt( inactive( id0 ), 61360 ). 0.281::holdsAt( coord( id0 )=( 182, 51 ), 61360 ).
+
+% Frame number: 1535
+0.318::happensAt( inactive( id0 ), 61400 ). 0.556::holdsAt( coord( id0 )=( 182, 51 ), 61400 ).
+
+% Frame number: 1536
+0.427::happensAt( inactive( id0 ), 61440 ). 0.0902::holdsAt( coord( id0 )=( 182, 51 ), 61440 ).
+
+% Frame number: 1537
+0.277::happensAt( inactive( id0 ), 61480 ). 0.0371::holdsAt( coord( id0 )=( 182, 51 ), 61480 ).
+
+% Frame number: 1538
+0.0177::happensAt( inactive( id0 ), 61520 ). 0.363::holdsAt( coord( id0 )=( 182, 51 ), 61520 ).
+
+% Frame number: 1539
+0.391::happensAt( inactive( id0 ), 61560 ). 0.481::holdsAt( coord( id0 )=( 182, 51 ), 61560 ).
+
+% Frame number: 1540
+0.0335::happensAt( inactive( id0 ), 61600 ). 0.0391::holdsAt( coord( id0 )=( 182, 51 ), 61600 ).
+
+% Frame number: 1541
+0.0941::happensAt( inactive( id0 ), 61640 ). 0.242::holdsAt( coord( id0 )=( 182, 51 ), 61640 ).
+
+% Frame number: 1542
+0.301::happensAt( inactive( id0 ), 61680 ). 0.174::holdsAt( coord( id0 )=( 182, 51 ), 61680 ).
+
+% Frame number: 1543
+0.419::happensAt( inactive( id0 ), 61720 ). 0.234::holdsAt( coord( id0 )=( 182, 51 ), 61720 ).
+
+% Frame number: 1544
+0.262::happensAt( inactive( id0 ), 61760 ). 0.568::holdsAt( coord( id0 )=( 182, 51 ), 61760 ).
+
+% Frame number: 1545
+0.0806::happensAt( inactive( id0 ), 61800 ). 0.287::holdsAt( coord( id0 )=( 182, 51 ), 61800 ).
+
+% Frame number: 1546
+0.509::happensAt( inactive( id0 ), 61840 ). 0.406::holdsAt( coord( id0 )=( 182, 51 ), 61840 ).
+
+% Frame number: 1547
+0.309::happensAt( inactive( id0 ), 61880 ). 0.644::holdsAt( coord( id0 )=( 182, 51 ), 61880 ).
+
+% Frame number: 1548
+0.0504::happensAt( inactive( id0 ), 61920 ). 0.098::holdsAt( coord( id0 )=( 182, 51 ), 61920 ).
+
+% Frame number: 1549
+0.126::happensAt( inactive( id0 ), 61960 ). 0.252::holdsAt( coord( id0 )=( 182, 51 ), 61960 ).
+
+% Frame number: 1550
+0.0427::happensAt( inactive( id0 ), 62000 ). 0.0251::holdsAt( coord( id0 )=( 182, 51 ), 62000 ).
+
+% Frame number: 1551
+0.221::happensAt( inactive( id0 ), 62040 ). 0.276::holdsAt( coord( id0 )=( 182, 51 ), 62040 ).
+
+% Frame number: 1552
+0.167::happensAt( inactive( id0 ), 62080 ). 0.0359::holdsAt( coord( id0 )=( 182, 51 ), 62080 ).
+
+% Frame number: 1553
+0.566::happensAt( inactive( id0 ), 62120 ). 0.109::holdsAt( coord( id0 )=( 182, 51 ), 62120 ).
+
+% Frame number: 1554
+0.077::happensAt( inactive( id0 ), 62160 ). 0.261::holdsAt( coord( id0 )=( 182, 51 ), 62160 ).
+
+% Frame number: 1555
+0.00628::happensAt( inactive( id0 ), 62200 ). 0.451::holdsAt( coord( id0 )=( 182, 51 ), 62200 ).
+
+% Frame number: 1556
+0.357::happensAt( inactive( id0 ), 62240 ). 0.311::holdsAt( coord( id0 )=( 182, 51 ), 62240 ).
+
+% Frame number: 1557
+0.062::happensAt( inactive( id0 ), 62280 ). 0.167::holdsAt( coord( id0 )=( 182, 51 ), 62280 ).
+
+% Frame number: 1558
+0.0157::happensAt( inactive( id0 ), 62320 ). 0.629::holdsAt( coord( id0 )=( 182, 51 ), 62320 ).
+
+% Frame number: 1559
+0.0481::happensAt( inactive( id0 ), 62360 ). 0.119::holdsAt( coord( id0 )=( 182, 51 ), 62360 ).
+
+% Frame number: 1560
+0.295::happensAt( inactive( id0 ), 62400 ). 0.0629::holdsAt( coord( id0 )=( 182, 51 ), 62400 ).
+
+% Frame number: 1561
+0.181::happensAt( inactive( id0 ), 62440 ). 0.0888::holdsAt( coord( id0 )=( 182, 51 ), 62440 ).
+
+% Frame number: 1562
+0.102::happensAt( inactive( id0 ), 62480 ). 0.247::holdsAt( coord( id0 )=( 182, 51 ), 62480 ).
+
+% Frame number: 1563
+0.0275::happensAt( inactive( id0 ), 62520 ). 0.153::holdsAt( coord( id0 )=( 182, 51 ), 62520 ).
+
+% Frame number: 1564
+0.382::happensAt( inactive( id0 ), 62560 ). 0.226::holdsAt( coord( id0 )=( 182, 51 ), 62560 ).
+
+% Frame number: 1565
+0.519::happensAt( inactive( id0 ), 62600 ). 0.096::holdsAt( coord( id0 )=( 182, 51 ), 62600 ).
+
+% Frame number: 1566
+0.338::happensAt( inactive( id0 ), 62640 ). 0.425::holdsAt( coord( id0 )=( 182, 51 ), 62640 ).
+
+% Frame number: 1567
+0.268::happensAt( inactive( id0 ), 62680 ). 0.561::holdsAt( coord( id0 )=( 182, 51 ), 62680 ).
+
+% Frame number: 1568
+0.315::happensAt( inactive( id0 ), 62720 ). 0.063::holdsAt( coord( id0 )=( 182, 51 ), 62720 ).
+
+% Frame number: 1569
+0.216::happensAt( inactive( id0 ), 62760 ). 0.338::holdsAt( coord( id0 )=( 182, 51 ), 62760 ).
+
+% Frame number: 1570
+0.0585::happensAt( inactive( id0 ), 62800 ). 0.495::holdsAt( coord( id0 )=( 182, 51 ), 62800 ).
+
+% Frame number: 1571
+0.24::happensAt( inactive( id0 ), 62840 ). 0.105::holdsAt( coord( id0 )=( 182, 51 ), 62840 ).
+
+% Frame number: 1572
+0.00406::happensAt( inactive( id0 ), 62880 ). 0.0293::holdsAt( coord( id0 )=( 182, 51 ), 62880 ).
+
+% Frame number: 1573
+0.161::happensAt( inactive( id0 ), 62920 ). 0.0447::holdsAt( coord( id0 )=( 182, 51 ), 62920 ).
+
+% Frame number: 1574
+0.192::happensAt( inactive( id0 ), 62960 ). 0.242::holdsAt( coord( id0 )=( 182, 51 ), 62960 ).
+
+% Frame number: 1575
+0.122::happensAt( inactive( id0 ), 63000 ). 0.042::holdsAt( coord( id0 )=( 182, 51 ), 63000 ).
+
+% Frame number: 1576
+0.136::happensAt( inactive( id0 ), 63040 ). 0.159::holdsAt( coord( id0 )=( 182, 51 ), 63040 ).
+
+% Frame number: 1577
+0.437::happensAt( inactive( id0 ), 63080 ). 0.33::holdsAt( coord( id0 )=( 182, 51 ), 63080 ).
+
+% Frame number: 1578
+0.232::happensAt( inactive( id0 ), 63120 ). 0.16::holdsAt( coord( id0 )=( 182, 51 ), 63120 ).
+
+% Frame number: 1579
+0.00451::happensAt( inactive( id0 ), 63160 ). 0.359::holdsAt( coord( id0 )=( 182, 51 ), 63160 ).
+
+% Frame number: 1580
+0.247::happensAt( inactive( id0 ), 63200 ). 0.202::holdsAt( coord( id0 )=( 182, 51 ), 63200 ).
+
+% Frame number: 1581
+0.574::happensAt( inactive( id0 ), 63240 ). 0.0559::holdsAt( coord( id0 )=( 182, 51 ), 63240 ).
+
+% Frame number: 1582
+0.257::happensAt( inactive( id0 ), 63280 ). 0.134::holdsAt( coord( id0 )=( 182, 51 ), 63280 ).
+
+% Frame number: 1583
+0.321::happensAt( inactive( id0 ), 63320 ). 0.123::holdsAt( coord( id0 )=( 182, 51 ), 63320 ).
+
+% Frame number: 1584
+0.216::happensAt( inactive( id0 ), 63360 ). 0.162::holdsAt( coord( id0 )=( 182, 51 ), 63360 ).
+
+% Frame number: 1585
+0.0758::happensAt( inactive( id0 ), 63400 ). 0.139::holdsAt( coord( id0 )=( 182, 51 ), 63400 ).
+
+% Frame number: 1586
+0.0191::happensAt( inactive( id0 ), 63440 ). 0.207::holdsAt( coord( id0 )=( 182, 51 ), 63440 ).
+
+% Frame number: 1587
+0.084::happensAt( inactive( id0 ), 63480 ). 0.357::holdsAt( coord( id0 )=( 182, 51 ), 63480 ).
+
+% Frame number: 1588
+0.114::happensAt( inactive( id0 ), 63520 ). 0.592::holdsAt( coord( id0 )=( 182, 51 ), 63520 ).
+
+% Frame number: 1589
+0.369::happensAt( inactive( id0 ), 63560 ). 0.426::holdsAt( coord( id0 )=( 182, 51 ), 63560 ).
+
+% Frame number: 1590
+0.00898::happensAt( inactive( id0 ), 63600 ). 0.155::holdsAt( coord( id0 )=( 182, 51 ), 63600 ).
+
+% Frame number: 1591
+0.0641::happensAt( inactive( id0 ), 63640 ). 0.198::holdsAt( coord( id0 )=( 182, 51 ), 63640 ).
+
+% Frame number: 1592
+0.344::happensAt( inactive( id0 ), 63680 ). 0.0311::holdsAt( coord( id0 )=( 182, 51 ), 63680 ).
+
+% Frame number: 1593
+0.127::happensAt( inactive( id0 ), 63720 ). 0.358::holdsAt( coord( id0 )=( 182, 51 ), 63720 ).
+
+% Frame number: 1594
+0.199::happensAt( inactive( id0 ), 63760 ). 0.0763::holdsAt( coord( id0 )=( 182, 51 ), 63760 ).
+
+% Frame number: 1595
+0.355::happensAt( inactive( id0 ), 63800 ). 0.145::holdsAt( coord( id0 )=( 182, 51 ), 63800 ).
+
+% Frame number: 1596
+0.0191::happensAt( inactive( id0 ), 63840 ). 0.335::holdsAt( coord( id0 )=( 182, 51 ), 63840 ).
+
+% Frame number: 1597
+0.303::happensAt( inactive( id0 ), 63880 ). 0.117::holdsAt( coord( id0 )=( 182, 51 ), 63880 ).
+
+% Frame number: 1598
+0.0425::happensAt( inactive( id0 ), 63920 ). 0.0994::holdsAt( coord( id0 )=( 182, 51 ), 63920 ).
+
+% Frame number: 1599
+0.309::happensAt( inactive( id0 ), 63960 ). 0.46::holdsAt( coord( id0 )=( 182, 51 ), 63960 ).
+
+% Frame number: 1600
+0.265::happensAt( inactive( id0 ), 64000 ). 0.225::holdsAt( coord( id0 )=( 182, 51 ), 64000 ).
+
+% Frame number: 1601
+0.000209::happensAt( inactive( id0 ), 64040 ). 0.00486::holdsAt( coord( id0 )=( 182, 51 ), 64040 ).
+
+% Frame number: 1602
+0.743::happensAt( inactive( id0 ), 64080 ). 0.175::holdsAt( coord( id0 )=( 182, 51 ), 64080 ).
+
+% Frame number: 1603
+0.0932::happensAt( inactive( id0 ), 64120 ). 0.495::holdsAt( coord( id0 )=( 182, 51 ), 64120 ).
+
+% Frame number: 1604
+0.232::happensAt( inactive( id0 ), 64160 ). 0.0173::holdsAt( coord( id0 )=( 182, 51 ), 64160 ).
+
+% Frame number: 1605
+0.0554::happensAt( inactive( id0 ), 64200 ). 0.175::holdsAt( coord( id0 )=( 182, 51 ), 64200 ).
+
+% Frame number: 1606
+0.301::happensAt( inactive( id0 ), 64240 ). 0.0224::holdsAt( coord( id0 )=( 182, 51 ), 64240 ).
+
+% Frame number: 1607
+0.325::happensAt( inactive( id0 ), 64280 ). 0.0865::holdsAt( coord( id0 )=( 182, 51 ), 64280 ).
+
+% Frame number: 1608
+0.114::happensAt( inactive( id0 ), 64320 ). 0.0873::holdsAt( coord( id0 )=( 182, 51 ), 64320 ).
+
+% Frame number: 1609
+0.0687::happensAt( inactive( id0 ), 64360 ). 0.378::holdsAt( coord( id0 )=( 182, 51 ), 64360 ).
+
+% Frame number: 1610
+0.0648::happensAt( inactive( id0 ), 64400 ). 0.0225::holdsAt( coord( id0 )=( 182, 51 ), 64400 ).
+
+% Frame number: 1611
+0.153::happensAt( inactive( id0 ), 64440 ). 0.09::holdsAt( coord( id0 )=( 182, 51 ), 64440 ).
+
+% Frame number: 1612
+0.191::happensAt( inactive( id0 ), 64480 ). 0.401::holdsAt( coord( id0 )=( 182, 51 ), 64480 ).
+
+% Frame number: 1613
+0.115::happensAt( inactive( id0 ), 64520 ). 0.115::holdsAt( coord( id0 )=( 182, 51 ), 64520 ).
+
+% Frame number: 1614
+0.298::happensAt( inactive( id0 ), 64560 ). 0.0117::holdsAt( coord( id0 )=( 182, 51 ), 64560 ).
+
+% Frame number: 1615
+0.302::happensAt( inactive( id0 ), 64600 ). 0.381::holdsAt( coord( id0 )=( 182, 51 ), 64600 ).
+
+% Frame number: 1616
+0.389::happensAt( inactive( id0 ), 64640 ). 0.238::holdsAt( coord( id0 )=( 182, 51 ), 64640 ).
+
+% Frame number: 1617
+0.0489::happensAt( inactive( id0 ), 64680 ). 0.169::holdsAt( coord( id0 )=( 182, 51 ), 64680 ).
+
+% Frame number: 1618
+0.00525::happensAt( inactive( id0 ), 64720 ). 0.375::holdsAt( coord( id0 )=( 182, 51 ), 64720 ).
+
+% Frame number: 1619
+0.365::happensAt( inactive( id0 ), 64760 ). 0.208::holdsAt( coord( id0 )=( 182, 51 ), 64760 ).
+
+% Frame number: 1620
+0.0249::happensAt( inactive( id0 ), 64800 ). 0.608::holdsAt( coord( id0 )=( 182, 51 ), 64800 ).
+
+% Frame number: 1621
+0.299::happensAt( inactive( id0 ), 64840 ). 0.37::holdsAt( coord( id0 )=( 182, 51 ), 64840 ).
+
+% Frame number: 1622
+0.119::happensAt( inactive( id0 ), 64880 ). 0.287::holdsAt( coord( id0 )=( 182, 51 ), 64880 ).
+
+% Frame number: 1623
+0.00428::happensAt( inactive( id0 ), 64920 ). 0.0756::holdsAt( coord( id0 )=( 182, 51 ), 64920 ).
+
+% Frame number: 1624
+0.0445::happensAt( inactive( id0 ), 64960 ). 0.0614::holdsAt( coord( id0 )=( 182, 51 ), 64960 ).
+
+% Frame number: 1625
+0.228::happensAt( inactive( id0 ), 65000 ). 0.0736::holdsAt( coord( id0 )=( 182, 51 ), 65000 ).
+
+% Frame number: 1626
+0.336::happensAt( inactive( id0 ), 65040 ). 0.215::holdsAt( coord( id0 )=( 182, 51 ), 65040 ).
+
+% Frame number: 1627
+0.529::happensAt( inactive( id0 ), 65080 ). 0.115::holdsAt( coord( id0 )=( 182, 51 ), 65080 ).
+
+% Frame number: 1628
+0.343::happensAt( inactive( id0 ), 65120 ). 0.458::holdsAt( coord( id0 )=( 182, 51 ), 65120 ).
+
+% Frame number: 1629
+0.109::happensAt( inactive( id0 ), 65160 ). 0.265::holdsAt( coord( id0 )=( 182, 51 ), 65160 ).
+
+% Frame number: 1630
+0.117::happensAt( inactive( id0 ), 65200 ). 0.149::holdsAt( coord( id0 )=( 182, 51 ), 65200 ).
+
+% Frame number: 1631
+0.0945::happensAt( inactive( id0 ), 65240 ). 0.0656::holdsAt( coord( id0 )=( 182, 51 ), 65240 ).
+
+% Frame number: 1632
+0.311::happensAt( inactive( id0 ), 65280 ). 0.000886::holdsAt( coord( id0 )=( 182, 51 ), 65280 ).
+
+% Frame number: 1633
+0.363::happensAt( inactive( id0 ), 65320 ). 0.22::holdsAt( coord( id0 )=( 182, 51 ), 65320 ).
+
+% Frame number: 1634
+0.0339::happensAt( inactive( id0 ), 65360 ). 0.313::holdsAt( coord( id0 )=( 182, 51 ), 65360 ).
+
+% Frame number: 1635
+0.227::happensAt( inactive( id0 ), 65400 ). 0.149::holdsAt( coord( id0 )=( 182, 51 ), 65400 ).
+
+% Frame number: 1636
+0.251::happensAt( inactive( id0 ), 65440 ). 0.27::holdsAt( coord( id0 )=( 182, 51 ), 65440 ).
+
+% Frame number: 1637
+0.31::happensAt( inactive( id0 ), 65480 ). 0.0461::holdsAt( coord( id0 )=( 182, 51 ), 65480 ).
+
+% Frame number: 1638
+0.199::happensAt( inactive( id0 ), 65520 ). 0.166::holdsAt( coord( id0 )=( 182, 51 ), 65520 ).
+
+% Frame number: 1639
+0.469::happensAt( inactive( id0 ), 65560 ). 0.317::holdsAt( coord( id0 )=( 182, 51 ), 65560 ).
+
+% Frame number: 1640
+0.179::happensAt( inactive( id0 ), 65600 ). 0.479::holdsAt( coord( id0 )=( 182, 51 ), 65600 ).
+
+% Frame number: 1641
+0.38::happensAt( inactive( id0 ), 65640 ). 0.331::holdsAt( coord( id0 )=( 182, 51 ), 65640 ).
+
+% Frame number: 1642
+0.38::happensAt( inactive( id0 ), 65680 ). 0.0315::holdsAt( coord( id0 )=( 182, 51 ), 65680 ).
+
+% Frame number: 1643
+0.662::happensAt( inactive( id0 ), 65720 ). 0.0836::holdsAt( coord( id0 )=( 182, 51 ), 65720 ).
+
+% Frame number: 1644
+0.144::happensAt( inactive( id0 ), 65760 ). 0.227::holdsAt( coord( id0 )=( 182, 51 ), 65760 ).
+
+% Frame number: 1645
+0.607::happensAt( inactive( id0 ), 65800 ). 0.127::holdsAt( coord( id0 )=( 182, 51 ), 65800 ).
+
+% Frame number: 1646
+0.0303::happensAt( inactive( id0 ), 65840 ). 0.264::holdsAt( coord( id0 )=( 182, 51 ), 65840 ).
+
+% Frame number: 1647
+0.0142::happensAt( inactive( id0 ), 65880 ). 0.0416::holdsAt( coord( id0 )=( 182, 51 ), 65880 ).
+
+% Frame number: 1648
+0.35::happensAt( inactive( id0 ), 65920 ). 0.181::holdsAt( coord( id0 )=( 182, 51 ), 65920 ).
+
+% Frame number: 1649
+0.233::happensAt( inactive( id0 ), 65960 ). 0.162::holdsAt( coord( id0 )=( 182, 51 ), 65960 ).
+
+% Frame number: 1650
+0.0559::happensAt( inactive( id0 ), 66000 ). 0.148::holdsAt( coord( id0 )=( 182, 51 ), 66000 ).
+
+% Frame number: 1651
+0.367::happensAt( inactive( id0 ), 66040 ). 0.408::holdsAt( coord( id0 )=( 182, 51 ), 66040 ).
+
+% Frame number: 1652
+0.327::happensAt( inactive( id0 ), 66080 ). 0.0591::holdsAt( coord( id0 )=( 182, 51 ), 66080 ).
+
+% Frame number: 1653
+0.414::happensAt( inactive( id0 ), 66120 ). 0.119::holdsAt( coord( id0 )=( 182, 51 ), 66120 ).
+
+% Frame number: 1654
+0.249::happensAt( inactive( id0 ), 66160 ). 0.103::holdsAt( coord( id0 )=( 182, 51 ), 66160 ).
+
+% Frame number: 1655
+0.477::happensAt( inactive( id0 ), 66200 ). 0.319::holdsAt( coord( id0 )=( 182, 51 ), 66200 ).
+
+% Frame number: 1656
+0.62::happensAt( inactive( id0 ), 66240 ). 0.143::holdsAt( coord( id0 )=( 182, 51 ), 66240 ).
+
+% Frame number: 1657
+0.0657::happensAt( inactive( id0 ), 66280 ). 0.691::holdsAt( coord( id0 )=( 182, 51 ), 66280 ).
+
+% Frame number: 1658
+0.049::happensAt( inactive( id0 ), 66320 ). 0.137::holdsAt( coord( id0 )=( 182, 51 ), 66320 ).
+
+% Frame number: 1659
+0.0512::happensAt( inactive( id0 ), 66360 ). 0.308::holdsAt( coord( id0 )=( 182, 51 ), 66360 ).
+
+% Frame number: 1660
+0.00445::happensAt( inactive( id0 ), 66400 ). 0.222::holdsAt( coord( id0 )=( 182, 51 ), 66400 ).
+
+% Frame number: 1661
+0.00772::happensAt( inactive( id0 ), 66440 ). 0.673::holdsAt( coord( id0 )=( 182, 51 ), 66440 ).
+
+% Frame number: 1662
+0.401::happensAt( inactive( id0 ), 66480 ). 0.284::holdsAt( coord( id0 )=( 182, 51 ), 66480 ).
+
+% Frame number: 1663
+0.532::happensAt( inactive( id0 ), 66520 ). 0.579::holdsAt( coord( id0 )=( 182, 51 ), 66520 ).
+
+% Frame number: 1664
+0.121::happensAt( inactive( id0 ), 66560 ). 0.0069::holdsAt( coord( id0 )=( 182, 51 ), 66560 ).
+
+% Frame number: 1665
+0.0528::happensAt( inactive( id0 ), 66600 ). 0.145::holdsAt( coord( id0 )=( 182, 51 ), 66600 ).
+
+% Frame number: 1666
+0.0288::happensAt( inactive( id0 ), 66640 ). 0.41::holdsAt( coord( id0 )=( 182, 51 ), 66640 ).
+
+% Frame number: 1667
+0.119::happensAt( inactive( id0 ), 66680 ). 0.285::holdsAt( coord( id0 )=( 182, 51 ), 66680 ).
+
+% Frame number: 1668
+0.0646::happensAt( inactive( id0 ), 66720 ). 0.296::holdsAt( coord( id0 )=( 182, 51 ), 66720 ).
+
+% Frame number: 1669
+0.0351::happensAt( inactive( id0 ), 66760 ). 0.0695::holdsAt( coord( id0 )=( 182, 51 ), 66760 ).
+
+% Frame number: 1670
+0.264::happensAt( inactive( id0 ), 66800 ). 0.511::holdsAt( coord( id0 )=( 182, 51 ), 66800 ).
+
+% Frame number: 1671
+0.449::happensAt( inactive( id0 ), 66840 ). 0.229::holdsAt( coord( id0 )=( 182, 51 ), 66840 ).
+
+% Frame number: 1672
+0.00483::happensAt( inactive( id0 ), 66880 ). 0.144::holdsAt( coord( id0 )=( 182, 51 ), 66880 ).
+
+% Frame number: 1673
+0.593::happensAt( inactive( id0 ), 66920 ). 0.13::holdsAt( coord( id0 )=( 182, 51 ), 66920 ).
+
+% Frame number: 1674
+0.272::happensAt( inactive( id0 ), 66960 ). 0.0866::holdsAt( coord( id0 )=( 182, 51 ), 66960 ).
+
+% Frame number: 1675
+0.0394::happensAt( inactive( id0 ), 67000 ). 0.109::holdsAt( coord( id0 )=( 182, 51 ), 67000 ).
+
+% Frame number: 1676
+0.478::happensAt( inactive( id0 ), 67040 ). 0.425::holdsAt( coord( id0 )=( 182, 51 ), 67040 ).
+
+% Frame number: 1677
+0.274::happensAt( inactive( id0 ), 67080 ). 0.431::holdsAt( coord( id0 )=( 182, 51 ), 67080 ).
+
+% Frame number: 1678
+0.493::happensAt( inactive( id0 ), 67120 ). 0.00778::holdsAt( coord( id0 )=( 182, 51 ), 67120 ).
+
+% Frame number: 1679
+0.053::happensAt( inactive( id0 ), 67160 ). 0.0688::holdsAt( coord( id0 )=( 182, 51 ), 67160 ).
+
+% Frame number: 1680
+0.183::happensAt( inactive( id0 ), 67200 ). 0.277::holdsAt( coord( id0 )=( 182, 51 ), 67200 ).
+
+% Frame number: 1681
+0.0115::happensAt( inactive( id0 ), 67240 ). 0.0839::holdsAt( coord( id0 )=( 182, 51 ), 67240 ).
+
+% Frame number: 1682
+0.429::happensAt( inactive( id0 ), 67280 ). 0.64::holdsAt( coord( id0 )=( 182, 51 ), 67280 ).
+
+% Frame number: 1683
+0.449::happensAt( inactive( id0 ), 67320 ). 0.227::holdsAt( coord( id0 )=( 182, 51 ), 67320 ).
+
+% Frame number: 1684
+0.0051::happensAt( inactive( id0 ), 67360 ). 0.0341::holdsAt( coord( id0 )=( 182, 51 ), 67360 ).
+
+% Frame number: 1685
+0.105::happensAt( inactive( id0 ), 67400 ). 0.226::holdsAt( coord( id0 )=( 182, 51 ), 67400 ).
+
+% Frame number: 1686
+0.565::happensAt( inactive( id0 ), 67440 ). 0.572::holdsAt( coord( id0 )=( 182, 51 ), 67440 ).
+
+% Frame number: 1687
+0.618::happensAt( inactive( id0 ), 67480 ). 0.00288::holdsAt( coord( id0 )=( 182, 51 ), 67480 ).
+
+% Frame number: 1688
+0.123::happensAt( inactive( id0 ), 67520 ). 0.307::holdsAt( coord( id0 )=( 182, 51 ), 67520 ).
+
+% Frame number: 1689
+0.51::happensAt( inactive( id0 ), 67560 ). 0.092::holdsAt( coord( id0 )=( 182, 51 ), 67560 ).
+
+% Frame number: 1690
+0.0168::happensAt( inactive( id0 ), 67600 ). 5.36e-05::holdsAt( coord( id0 )=( 182, 51 ), 67600 ).
+
+% Frame number: 1691
+0.205::happensAt( inactive( id0 ), 67640 ). 0.247::holdsAt( coord( id0 )=( 182, 51 ), 67640 ).
+
+% Frame number: 1692
+0.174::happensAt( inactive( id0 ), 67680 ). 0.227::holdsAt( coord( id0 )=( 182, 51 ), 67680 ).
+
+% Frame number: 1693
+0.107::happensAt( inactive( id0 ), 67720 ). 0.154::holdsAt( coord( id0 )=( 182, 51 ), 67720 ).
+
+% Frame number: 1694
+0.0227::happensAt( inactive( id0 ), 67760 ). 0.197::holdsAt( coord( id0 )=( 182, 51 ), 67760 ).
+
+% Frame number: 1695
+0.293::happensAt( inactive( id0 ), 67800 ). 0.0487::holdsAt( coord( id0 )=( 182, 51 ), 67800 ).
+
+% Frame number: 1696
+0.115::happensAt( inactive( id0 ), 67840 ). 0.403::holdsAt( coord( id0 )=( 182, 51 ), 67840 ).
+
+% Frame number: 1697
+0.227::happensAt( inactive( id0 ), 67880 ). 0.061::holdsAt( coord( id0 )=( 182, 51 ), 67880 ).
+
+% Frame number: 1698
+0.0136::happensAt( inactive( id0 ), 67920 ). 0.418::holdsAt( coord( id0 )=( 182, 51 ), 67920 ).
+
+% Frame number: 1699
+0.486::happensAt( inactive( id0 ), 67960 ). 0.0793::holdsAt( coord( id0 )=( 182, 51 ), 67960 ).
+
+% Frame number: 1700
+0.0264::happensAt( inactive( id0 ), 68000 ). 0.515::holdsAt( coord( id0 )=( 182, 51 ), 68000 ).
+
+% Frame number: 1701
+0.131::happensAt( inactive( id0 ), 68040 ). 0.606::holdsAt( coord( id0 )=( 182, 51 ), 68040 ).
+
+% Frame number: 1702
+0.371::happensAt( inactive( id0 ), 68080 ). 0.298::holdsAt( coord( id0 )=( 182, 51 ), 68080 ).
+
+% Frame number: 1703
+0.347::happensAt( inactive( id0 ), 68120 ). 0.168::holdsAt( coord( id0 )=( 182, 51 ), 68120 ).
+
+% Frame number: 1704
+0.123::happensAt( inactive( id0 ), 68160 ). 0.00601::holdsAt( coord( id0 )=( 182, 51 ), 68160 ).
+
+% Frame number: 1705
+0.189::happensAt( inactive( id0 ), 68200 ). 0.396::holdsAt( coord( id0 )=( 182, 51 ), 68200 ).
+
+% Frame number: 1706
+0.115::happensAt( inactive( id0 ), 68240 ). 0.0344::holdsAt( coord( id0 )=( 182, 51 ), 68240 ).
+
+% Frame number: 1707
+0.0166::happensAt( inactive( id0 ), 68280 ). 0.372::holdsAt( coord( id0 )=( 182, 51 ), 68280 ).
+
+% Frame number: 1708
+0.203::happensAt( inactive( id0 ), 68320 ). 0.607::holdsAt( coord( id0 )=( 182, 51 ), 68320 ).
+
+% Frame number: 1709
+0.0577::happensAt( inactive( id0 ), 68360 ). 0.409::holdsAt( coord( id0 )=( 182, 51 ), 68360 ).
+
+% Frame number: 1710
+0.135::happensAt( inactive( id0 ), 68400 ). 0.256::holdsAt( coord( id0 )=( 182, 51 ), 68400 ).
+
+% Frame number: 1711
+0.334::happensAt( inactive( id0 ), 68440 ). 0.565::holdsAt( coord( id0 )=( 182, 51 ), 68440 ).
+
+% Frame number: 1712
+0.0524::happensAt( inactive( id0 ), 68480 ). 0.311::holdsAt( coord( id0 )=( 182, 51 ), 68480 ).
+
+% Frame number: 1713
+0.435::happensAt( inactive( id0 ), 68520 ). 0.0219::holdsAt( coord( id0 )=( 182, 51 ), 68520 ).
+
+% Frame number: 1714
+0.268::happensAt( inactive( id0 ), 68560 ). 0.314::holdsAt( coord( id0 )=( 182, 51 ), 68560 ).
+
+% Frame number: 1715
+0.3::happensAt( inactive( id0 ), 68600 ). 0.0852::holdsAt( coord( id0 )=( 182, 51 ), 68600 ).
+
+% Frame number: 1716
+0.0697::happensAt( inactive( id0 ), 68640 ). 0.163::holdsAt( coord( id0 )=( 182, 51 ), 68640 ).
+
+% Frame number: 1717
+0.446::happensAt( inactive( id0 ), 68680 ). 0.0477::holdsAt( coord( id0 )=( 182, 51 ), 68680 ).
+
+% Frame number: 1718
+0.14::happensAt( inactive( id0 ), 68720 ). 0.387::holdsAt( coord( id0 )=( 182, 51 ), 68720 ).
+
+% Frame number: 1719
+0.502::happensAt( inactive( id0 ), 68760 ). 0.0634::holdsAt( coord( id0 )=( 182, 51 ), 68760 ).
+
+% Frame number: 1720
+0.307::happensAt( inactive( id0 ), 68800 ). 0.268::holdsAt( coord( id0 )=( 182, 51 ), 68800 ).
+
+% Frame number: 1721
+0.0504::happensAt( inactive( id0 ), 68840 ). 0.0208::holdsAt( coord( id0 )=( 182, 51 ), 68840 ).
+
+% Frame number: 1722
+0.494::happensAt( inactive( id0 ), 68880 ). 0.115::holdsAt( coord( id0 )=( 182, 51 ), 68880 ).
+
+% Frame number: 1723
+0.785::happensAt( inactive( id0 ), 68920 ). 0.134::holdsAt( coord( id0 )=( 182, 51 ), 68920 ).
+
+% Frame number: 1724
+0.293::happensAt( inactive( id0 ), 68960 ). 0.317::holdsAt( coord( id0 )=( 182, 51 ), 68960 ).
+
+% Frame number: 1725
+0.166::happensAt( inactive( id0 ), 69000 ). 0.415::holdsAt( coord( id0 )=( 182, 51 ), 69000 ).
+
+% Frame number: 1726
+0.146::happensAt( inactive( id0 ), 69040 ). 0.139::holdsAt( coord( id0 )=( 182, 51 ), 69040 ).
+
+% Frame number: 1727
+0.417::happensAt( inactive( id0 ), 69080 ). 0.399::holdsAt( coord( id0 )=( 182, 51 ), 69080 ).
+
+% Frame number: 1728
+0.405::happensAt( inactive( id0 ), 69120 ). 0.158::holdsAt( coord( id0 )=( 182, 51 ), 69120 ).
+
+% Frame number: 1729
+0.141::happensAt( inactive( id0 ), 69160 ). 0.396::holdsAt( coord( id0 )=( 182, 51 ), 69160 ).
+
+% Frame number: 1730
+0.254::happensAt( inactive( id0 ), 69200 ). 0.36::holdsAt( coord( id0 )=( 182, 51 ), 69200 ).
+
+% Frame number: 1731
+0.0703::happensAt( inactive( id0 ), 69240 ). 0.111::holdsAt( coord( id0 )=( 182, 51 ), 69240 ).
+
+% Frame number: 1732
+0.364::happensAt( inactive( id0 ), 69280 ). 0.302::holdsAt( coord( id0 )=( 182, 51 ), 69280 ).
+
+% Frame number: 1733
+0.034::happensAt( inactive( id0 ), 69320 ). 0.175::holdsAt( coord( id0 )=( 182, 51 ), 69320 ).
+
+% Frame number: 1734
+0.798::happensAt( inactive( id0 ), 69360 ). 0.388::holdsAt( coord( id0 )=( 182, 51 ), 69360 ).
+
+% Frame number: 1735
+0.316::happensAt( inactive( id0 ), 69400 ). 0.112::holdsAt( coord( id0 )=( 182, 51 ), 69400 ).
+
+% Frame number: 1736
+0.0648::happensAt( inactive( id0 ), 69440 ). 0.381::holdsAt( coord( id0 )=( 182, 51 ), 69440 ).
+
+% Frame number: 1737
+0.187::happensAt( inactive( id0 ), 69480 ). 0.476::holdsAt( coord( id0 )=( 182, 51 ), 69480 ).
+
+% Frame number: 1738
+0.0569::happensAt( inactive( id0 ), 69520 ). 0.115::holdsAt( coord( id0 )=( 182, 51 ), 69520 ).
+
+% Frame number: 1739
+0.164::happensAt( inactive( id0 ), 69560 ). 0.00583::holdsAt( coord( id0 )=( 182, 51 ), 69560 ).
+
+% Frame number: 1740
+0.0163::happensAt( inactive( id0 ), 69600 ). 0.138::holdsAt( coord( id0 )=( 182, 51 ), 69600 ).
+
+% Frame number: 1741
+0.665::happensAt( inactive( id0 ), 69640 ). 0.306::holdsAt( coord( id0 )=( 182, 51 ), 69640 ).
+
+% Frame number: 1742
+0.0445::happensAt( inactive( id0 ), 69680 ). 0.258::holdsAt( coord( id0 )=( 182, 51 ), 69680 ).
+
+% Frame number: 1743
+0.455::happensAt( inactive( id0 ), 69720 ). 0.267::holdsAt( coord( id0 )=( 182, 51 ), 69720 ).
+
+% Frame number: 1744
+0.239::happensAt( inactive( id0 ), 69760 ). 0.0761::holdsAt( coord( id0 )=( 182, 51 ), 69760 ).
+
+% Frame number: 1745
+0.415::happensAt( inactive( id0 ), 69800 ). 0.0277::holdsAt( coord( id0 )=( 182, 51 ), 69800 ).
+
+% Frame number: 1746
+0.177::happensAt( inactive( id0 ), 69840 ). 0.0351::holdsAt( coord( id0 )=( 182, 51 ), 69840 ).
+
+% Frame number: 1747
+0.1::happensAt( inactive( id0 ), 69880 ). 0.133::holdsAt( coord( id0 )=( 182, 51 ), 69880 ).
+
+% Frame number: 1748
+0.0148::happensAt( inactive( id0 ), 69920 ). 0.0307::holdsAt( coord( id0 )=( 182, 51 ), 69920 ).
+
+% Frame number: 1749
+0.017::happensAt( inactive( id0 ), 69960 ). 0.213::holdsAt( coord( id0 )=( 182, 51 ), 69960 ).
+
+% Frame number: 1750
+0.389::happensAt( inactive( id0 ), 70000 ). 0.039::holdsAt( coord( id0 )=( 182, 51 ), 70000 ).
+
+% Frame number: 1751
+0.316::happensAt( inactive( id0 ), 70040 ). 0.0433::holdsAt( coord( id0 )=( 182, 51 ), 70040 ).
+
+% Frame number: 1752
+0.487::happensAt( inactive( id0 ), 70080 ). 0.457::holdsAt( coord( id0 )=( 182, 51 ), 70080 ).
+
+% Frame number: 1753
+0.00921::happensAt( inactive( id0 ), 70120 ). 0.178::holdsAt( coord( id0 )=( 182, 51 ), 70120 ).
+
+% Frame number: 1754
+0.116::happensAt( inactive( id0 ), 70160 ). 0.0305::holdsAt( coord( id0 )=( 182, 51 ), 70160 ).
+
+% Frame number: 1755
+0.175::happensAt( inactive( id0 ), 70200 ). 0.45::holdsAt( coord( id0 )=( 182, 51 ), 70200 ).
+
+% Frame number: 1756
+0.246::happensAt( inactive( id0 ), 70240 ). 0.0682::holdsAt( coord( id0 )=( 182, 51 ), 70240 ).
+
+% Frame number: 1757
+0.468::happensAt( inactive( id0 ), 70280 ). 0.233::holdsAt( coord( id0 )=( 182, 51 ), 70280 ).
+
+% Frame number: 1758
+0.268::happensAt( inactive( id0 ), 70320 ). 0.071::holdsAt( coord( id0 )=( 182, 51 ), 70320 ).
+
+% Frame number: 1759
+0.131::happensAt( inactive( id0 ), 70360 ). 0.477::holdsAt( coord( id0 )=( 182, 51 ), 70360 ).
+
+% Frame number: 1760
+0.00161::happensAt( inactive( id0 ), 70400 ). 0.073::holdsAt( coord( id0 )=( 182, 51 ), 70400 ).
+
+% Frame number: 1761
+0.21::happensAt( inactive( id0 ), 70440 ). 0.0687::holdsAt( coord( id0 )=( 182, 51 ), 70440 ).
+
+% Frame number: 1762
+0.399::happensAt( inactive( id0 ), 70480 ). 0.156::holdsAt( coord( id0 )=( 182, 51 ), 70480 ).
+
+% Frame number: 1763
+0.466::happensAt( inactive( id0 ), 70520 ). 0.408::holdsAt( coord( id0 )=( 182, 51 ), 70520 ).
+
+% Frame number: 1764
+0.39::happensAt( inactive( id0 ), 70560 ). 0.484::holdsAt( coord( id0 )=( 182, 51 ), 70560 ).
+
+% Frame number: 1765
+0.167::happensAt( inactive( id0 ), 70600 ). 0.108::holdsAt( coord( id0 )=( 182, 51 ), 70600 ).
+
+% Frame number: 1766
+0.181::happensAt( inactive( id0 ), 70640 ). 0.138::holdsAt( coord( id0 )=( 182, 51 ), 70640 ).
+
+% Frame number: 1767
+0.201::happensAt( inactive( id0 ), 70680 ). 0.104::holdsAt( coord( id0 )=( 182, 51 ), 70680 ).
+
+% Frame number: 1768
+0.191::happensAt( inactive( id0 ), 70720 ). 0.0584::holdsAt( coord( id0 )=( 182, 51 ), 70720 ).
+
+% Frame number: 1769
+0.0268::happensAt( inactive( id0 ), 70760 ). 0.129::holdsAt( coord( id0 )=( 182, 51 ), 70760 ).
+
+% Frame number: 1770
+0.437::happensAt( inactive( id0 ), 70800 ). 0.195::holdsAt( coord( id0 )=( 182, 51 ), 70800 ).
+
+% Frame number: 1771
+0.347::happensAt( inactive( id0 ), 70840 ). 0.106::holdsAt( coord( id0 )=( 182, 51 ), 70840 ).
+
+% Frame number: 1772
+0.0132::happensAt( inactive( id0 ), 70880 ). 0.178::holdsAt( coord( id0 )=( 182, 51 ), 70880 ).
+
+% Frame number: 1773
+0.0957::happensAt( inactive( id0 ), 70920 ). 0.415::holdsAt( coord( id0 )=( 182, 51 ), 70920 ).
+
+% Frame number: 1774
+0.0263::happensAt( inactive( id0 ), 70960 ). 0.148::holdsAt( coord( id0 )=( 182, 51 ), 70960 ).
+
+% Frame number: 1775
+0.11::happensAt( inactive( id0 ), 71000 ). 0.298::holdsAt( coord( id0 )=( 182, 51 ), 71000 ).
+
+% Frame number: 1776
+0.696::happensAt( inactive( id0 ), 71040 ). 0.0647::holdsAt( coord( id0 )=( 182, 51 ), 71040 ).
+
+% Frame number: 1777
+0.317::happensAt( inactive( id0 ), 71080 ). 0.0601::holdsAt( coord( id0 )=( 182, 51 ), 71080 ).
+
+% Frame number: 1778
+0.158::happensAt( inactive( id0 ), 71120 ). 0.279::holdsAt( coord( id0 )=( 182, 51 ), 71120 ).
+
+% Frame number: 1779
+0.0957::happensAt( inactive( id0 ), 71160 ). 0.353::holdsAt( coord( id0 )=( 182, 51 ), 71160 ).
+
+% Frame number: 1780
+0.234::happensAt( inactive( id0 ), 71200 ). 0.302::holdsAt( coord( id0 )=( 182, 51 ), 71200 ).
+
+% Frame number: 1781
+0.351::happensAt( inactive( id0 ), 71240 ). 0.0176::holdsAt( coord( id0 )=( 182, 51 ), 71240 ).
+
+% Frame number: 1782
+0.0908::happensAt( inactive( id0 ), 71280 ). 0.115::holdsAt( coord( id0 )=( 182, 51 ), 71280 ).
+
+% Frame number: 1783
+0.21::happensAt( inactive( id0 ), 71320 ). 0.294::holdsAt( coord( id0 )=( 182, 51 ), 71320 ).
+
+% Frame number: 1784
+0.0814::happensAt( inactive( id0 ), 71360 ). 0.3::holdsAt( coord( id0 )=( 182, 51 ), 71360 ).
+
+% Frame number: 1785
+0.43::happensAt( inactive( id0 ), 71400 ). 0.43::holdsAt( coord( id0 )=( 182, 51 ), 71400 ).
+
+% Frame number: 1786
+0.0173::happensAt( inactive( id0 ), 71440 ). 0.304::holdsAt( coord( id0 )=( 182, 51 ), 71440 ).
+
+% Frame number: 1787
+0.17::happensAt( inactive( id0 ), 71480 ). 0.0111::holdsAt( coord( id0 )=( 182, 51 ), 71480 ).
+
+% Frame number: 1788
+0.176::happensAt( inactive( id0 ), 71520 ). 0.0285::holdsAt( coord( id0 )=( 182, 51 ), 71520 ).
+
+% Frame number: 1789
+0.354::happensAt( inactive( id0 ), 71560 ). 0.0345::holdsAt( coord( id0 )=( 182, 51 ), 71560 ).
+
+% Frame number: 1790
+0.156::happensAt( inactive( id0 ), 71600 ). 0.263::holdsAt( coord( id0 )=( 182, 51 ), 71600 ).
+
+% Frame number: 1791
+0.0507::happensAt( inactive( id0 ), 71640 ). 0.176::holdsAt( coord( id0 )=( 182, 51 ), 71640 ).
+
+% Frame number: 1792
+0.0505::happensAt( inactive( id0 ), 71680 ). 0.555::holdsAt( coord( id0 )=( 182, 51 ), 71680 ).
+
+% Frame number: 1793
+0.252::happensAt( inactive( id0 ), 71720 ). 0.0289::holdsAt( coord( id0 )=( 182, 51 ), 71720 ).
+
+% Frame number: 1794
+0.322::happensAt( inactive( id0 ), 71760 ). 0.211::holdsAt( coord( id0 )=( 182, 51 ), 71760 ).
+
+% Frame number: 1795
+0.0426::happensAt( inactive( id0 ), 71800 ). 0.147::holdsAt( coord( id0 )=( 182, 51 ), 71800 ).
+
+% Frame number: 1796
+0.142::happensAt( inactive( id0 ), 71840 ). 0.146::holdsAt( coord( id0 )=( 182, 51 ), 71840 ).
+
+% Frame number: 1797
+0.163::happensAt( inactive( id0 ), 71880 ). 0.372::holdsAt( coord( id0 )=( 182, 51 ), 71880 ).
+
+% Frame number: 1798
+0.0496::happensAt( inactive( id0 ), 71920 ). 0.139::holdsAt( coord( id0 )=( 182, 51 ), 71920 ).
+
+% Frame number: 1799
+0.153::happensAt( inactive( id0 ), 71960 ). 0.468::holdsAt( coord( id0 )=( 182, 51 ), 71960 ).
+
+% Frame number: 1800
+0.53::happensAt( inactive( id0 ), 72000 ). 0.00999::holdsAt( coord( id0 )=( 182, 51 ), 72000 ).
+
+% Frame number: 1801
+0.204::happensAt( inactive( id0 ), 72040 ). 0.038::holdsAt( coord( id0 )=( 182, 51 ), 72040 ).
+
+% Frame number: 1802
+0.14::happensAt( inactive( id0 ), 72080 ). 0.393::holdsAt( coord( id0 )=( 182, 51 ), 72080 ).
+
+% Frame number: 1803
+0.115::happensAt( inactive( id0 ), 72120 ). 0.291::holdsAt( coord( id0 )=( 182, 51 ), 72120 ).
+
+% Frame number: 1804
+0.232::happensAt( inactive( id0 ), 72160 ). 0.204::holdsAt( coord( id0 )=( 182, 51 ), 72160 ).
+
+% Frame number: 1805
+0.0905::happensAt( inactive( id0 ), 72200 ). 0.0858::holdsAt( coord( id0 )=( 182, 51 ), 72200 ).
+
+% Frame number: 1806
+0.475::happensAt( inactive( id0 ), 72240 ). 0.192::holdsAt( coord( id0 )=( 182, 51 ), 72240 ).
+
+% Frame number: 1807
+0.0121::happensAt( inactive( id0 ), 72280 ). 0.313::holdsAt( coord( id0 )=( 182, 51 ), 72280 ).
+
+% Frame number: 1808
+0.258::happensAt( inactive( id0 ), 72320 ). 0.117::holdsAt( coord( id0 )=( 182, 51 ), 72320 ).
+
+% Frame number: 1809
+0.0549::happensAt( inactive( id0 ), 72360 ). 0.173::holdsAt( coord( id0 )=( 182, 51 ), 72360 ).
+
+% Frame number: 1810
+0.0357::happensAt( inactive( id0 ), 72400 ). 0.0179::holdsAt( coord( id0 )=( 182, 51 ), 72400 ).
+
+% Frame number: 1811
+0.167::happensAt( inactive( id0 ), 72440 ). 0.399::holdsAt( coord( id0 )=( 182, 51 ), 72440 ).
+
+% Frame number: 1812
+0.0126::happensAt( inactive( id0 ), 72480 ). 0.185::holdsAt( coord( id0 )=( 182, 51 ), 72480 ).
+
+% Frame number: 1813
+0.111::happensAt( inactive( id0 ), 72520 ). 0.148::holdsAt( coord( id0 )=( 182, 51 ), 72520 ).
+
+% Frame number: 1814
+0.207::happensAt( inactive( id0 ), 72560 ). 0.114::holdsAt( coord( id0 )=( 182, 51 ), 72560 ).
+
+% Frame number: 1815
+0.0593::happensAt( inactive( id0 ), 72600 ). 0.241::holdsAt( coord( id0 )=( 182, 51 ), 72600 ).
+
+% Frame number: 1816
+0.32::happensAt( inactive( id0 ), 72640 ). 0.109::holdsAt( coord( id0 )=( 182, 51 ), 72640 ).
+
+% Frame number: 1817
+0.122::happensAt( inactive( id0 ), 72680 ). 0.0078::holdsAt( coord( id0 )=( 182, 51 ), 72680 ).
+
+% Frame number: 1818
+0.222::happensAt( inactive( id0 ), 72720 ). 0.152::holdsAt( coord( id0 )=( 182, 51 ), 72720 ).
+
+% Frame number: 1819
+0.0122::happensAt( inactive( id0 ), 72760 ). 0.131::holdsAt( coord( id0 )=( 182, 51 ), 72760 ).
+
+% Frame number: 1820
+0.0192::happensAt( inactive( id0 ), 72800 ). 0.312::holdsAt( coord( id0 )=( 182, 51 ), 72800 ).
+
+% Frame number: 1821
+0.59::happensAt( inactive( id0 ), 72840 ). 0.273::holdsAt( coord( id0 )=( 182, 51 ), 72840 ).
+
+% Frame number: 1822
+0.12::happensAt( inactive( id0 ), 72880 ). 0.309::holdsAt( coord( id0 )=( 182, 51 ), 72880 ).
+
+% Frame number: 1823
+0.108::happensAt( inactive( id0 ), 72920 ). 0.412::holdsAt( coord( id0 )=( 182, 51 ), 72920 ).
+
+% Frame number: 1824
+0.397::happensAt( inactive( id0 ), 72960 ). 0.0486::holdsAt( coord( id0 )=( 182, 51 ), 72960 ).
+
+% Frame number: 1825
+0.386::happensAt( inactive( id0 ), 73000 ). 0.0237::holdsAt( coord( id0 )=( 182, 51 ), 73000 ).
+
+% Frame number: 1826
+0.134::happensAt( inactive( id0 ), 73040 ). 0.179::holdsAt( coord( id0 )=( 182, 51 ), 73040 ).
+
+% Frame number: 1827
+0.236::happensAt( inactive( id0 ), 73080 ). 0.144::holdsAt( coord( id0 )=( 182, 51 ), 73080 ).
+
+% Frame number: 1828
+0.13::happensAt( inactive( id0 ), 73120 ). 0.262::holdsAt( coord( id0 )=( 182, 51 ), 73120 ).
+
+% Frame number: 1829
+0.131::happensAt( inactive( id0 ), 73160 ). 0.277::holdsAt( coord( id0 )=( 182, 51 ), 73160 ).
+
+% Frame number: 1830
+0.375::happensAt( inactive( id0 ), 73200 ). 0.248::holdsAt( coord( id0 )=( 182, 51 ), 73200 ).
+
+% Frame number: 1831
+0.147::happensAt( inactive( id0 ), 73240 ). 0.0366::holdsAt( coord( id0 )=( 182, 51 ), 73240 ).
+
+% Frame number: 1832
+0.127::happensAt( inactive( id0 ), 73280 ). 0.16::holdsAt( coord( id0 )=( 182, 51 ), 73280 ).
+
+% Frame number: 1833
+0.0956::happensAt( inactive( id0 ), 73320 ). 0.562::holdsAt( coord( id0 )=( 182, 51 ), 73320 ).
+
+% Frame number: 1834
+0.337::happensAt( inactive( id0 ), 73360 ). 0.029::holdsAt( coord( id0 )=( 182, 51 ), 73360 ).
+
+% Frame number: 1835
+0.132::happensAt( inactive( id0 ), 73400 ). 0.406::holdsAt( coord( id0 )=( 182, 51 ), 73400 ).
+
+% Frame number: 1836
+0.0342::happensAt( inactive( id0 ), 73440 ). 0.0251::holdsAt( coord( id0 )=( 182, 51 ), 73440 ).
+
+% Frame number: 1837
+0.158::happensAt( inactive( id0 ), 73480 ). 0.315::holdsAt( coord( id0 )=( 182, 51 ), 73480 ).
+
+% Frame number: 1838
+0.244::happensAt( inactive( id0 ), 73520 ). 0.138::holdsAt( coord( id0 )=( 182, 51 ), 73520 ).
+
+% Frame number: 1839
+0.332::happensAt( inactive( id0 ), 73560 ). 0.561::holdsAt( coord( id0 )=( 182, 51 ), 73560 ).
+
+% Frame number: 1840
+0.227::happensAt( inactive( id0 ), 73600 ). 0.0576::holdsAt( coord( id0 )=( 182, 51 ), 73600 ).
+
+% Frame number: 1841
+0.426::happensAt( inactive( id0 ), 73640 ). 0.0508::holdsAt( coord( id0 )=( 182, 51 ), 73640 ).
+
+% Frame number: 1842
+0.168::happensAt( inactive( id0 ), 73680 ). 0.292::holdsAt( coord( id0 )=( 182, 51 ), 73680 ).
+
+% Frame number: 1843
+0.0241::happensAt( inactive( id0 ), 73720 ). 0.103::holdsAt( coord( id0 )=( 182, 51 ), 73720 ).
+
+% Frame number: 1844
+0.198::happensAt( inactive( id0 ), 73760 ). 0.0319::holdsAt( coord( id0 )=( 182, 51 ), 73760 ).
+
+% Frame number: 1845
+0.204::happensAt( inactive( id0 ), 73800 ). 0.086::holdsAt( coord( id0 )=( 182, 51 ), 73800 ).
+
+% Frame number: 1846
+0.0636::happensAt( inactive( id0 ), 73840 ). 0.268::holdsAt( coord( id0 )=( 182, 51 ), 73840 ).
+
+% Frame number: 1847
+0.165::happensAt( inactive( id0 ), 73880 ). 0.127::holdsAt( coord( id0 )=( 182, 51 ), 73880 ).
+
+% Frame number: 1848
+0.309::happensAt( inactive( id0 ), 73920 ). 0.132::holdsAt( coord( id0 )=( 182, 51 ), 73920 ).
+
+% Frame number: 1849
+0.241::happensAt( inactive( id0 ), 73960 ). 0.059::holdsAt( coord( id0 )=( 182, 51 ), 73960 ).
+
+% Frame number: 1850
+0.144::happensAt( inactive( id0 ), 74000 ). 0.283::holdsAt( coord( id0 )=( 182, 51 ), 74000 ).
+
+% Frame number: 1851
+0.124::happensAt( inactive( id0 ), 74040 ). 0.647::holdsAt( coord( id0 )=( 182, 51 ), 74040 ).
+
+% Frame number: 1852
+0.132::happensAt( inactive( id0 ), 74080 ). 0.191::holdsAt( coord( id0 )=( 182, 51 ), 74080 ).
+
+% Frame number: 1853
+0.0223::happensAt( inactive( id0 ), 74120 ). 0.425::holdsAt( coord( id0 )=( 182, 51 ), 74120 ).
+
+% Frame number: 1854
+0.134::happensAt( inactive( id0 ), 74160 ). 0.309::holdsAt( coord( id0 )=( 182, 51 ), 74160 ).
+
+% Frame number: 1855
+0.285::happensAt( inactive( id0 ), 74200 ). 0.366::holdsAt( coord( id0 )=( 182, 51 ), 74200 ).
+
+% Frame number: 1856
+0.455::happensAt( inactive( id0 ), 74240 ). 0.17::holdsAt( coord( id0 )=( 182, 51 ), 74240 ).
+
+% Frame number: 1857
+0.0528::happensAt( inactive( id0 ), 74280 ). 0.117::holdsAt( coord( id0 )=( 182, 51 ), 74280 ).
+
+% Frame number: 1858
+0.133::happensAt( inactive( id0 ), 74320 ). 0.0797::holdsAt( coord( id0 )=( 182, 51 ), 74320 ).
+
+% Frame number: 1859
+0.0381::happensAt( inactive( id0 ), 74360 ). 0.21::holdsAt( coord( id0 )=( 182, 51 ), 74360 ).
+
+% Frame number: 1860
+0.12::happensAt( inactive( id0 ), 74400 ). 0.255::holdsAt( coord( id0 )=( 182, 51 ), 74400 ).
+
+% Frame number: 1861
+0.153::happensAt( inactive( id0 ), 74440 ). 0.239::holdsAt( coord( id0 )=( 182, 51 ), 74440 ).
+
+% Frame number: 1862
+0.00153::happensAt( inactive( id0 ), 74480 ). 0.311::holdsAt( coord( id0 )=( 182, 51 ), 74480 ).
+
+% Frame number: 1863
+0.409::happensAt( inactive( id0 ), 74520 ). 0.162::holdsAt( coord( id0 )=( 182, 51 ), 74520 ).
+
+% Frame number: 1864
+0.283::happensAt( inactive( id0 ), 74560 ). 0.201::holdsAt( coord( id0 )=( 182, 51 ), 74560 ).
+
+% Frame number: 1865
+0.492::happensAt( inactive( id0 ), 74600 ). 0.302::holdsAt( coord( id0 )=( 182, 51 ), 74600 ).
+
+% Frame number: 1866
+0.0703::happensAt( inactive( id0 ), 74640 ). 0.0281::holdsAt( coord( id0 )=( 182, 51 ), 74640 ).
+
+% Frame number: 1867
+0.651::happensAt( inactive( id0 ), 74680 ). 0.126::holdsAt( coord( id0 )=( 182, 51 ), 74680 ).
+
+% Frame number: 1868
+0.178::happensAt( inactive( id0 ), 74720 ). 0.00661::holdsAt( coord( id0 )=( 182, 51 ), 74720 ).
+
+% Frame number: 1869
+0.0068::happensAt( inactive( id0 ), 74760 ). 0.179::holdsAt( coord( id0 )=( 182, 51 ), 74760 ).
+
+% Frame number: 1870
+0.343::happensAt( inactive( id0 ), 74800 ). 0.0996::holdsAt( coord( id0 )=( 182, 51 ), 74800 ).
+
+% Frame number: 1871
+0.156::happensAt( inactive( id0 ), 74840 ). 0.295::holdsAt( coord( id0 )=( 182, 51 ), 74840 ).
+
+% Frame number: 1872
+0.361::happensAt( inactive( id0 ), 74880 ). 0.108::holdsAt( coord( id0 )=( 182, 51 ), 74880 ).
+
+% Frame number: 1873
+0.123::happensAt( inactive( id0 ), 74920 ). 0.244::holdsAt( coord( id0 )=( 182, 51 ), 74920 ).
+
+% Frame number: 1874
+0.582::happensAt( inactive( id0 ), 74960 ). 0.539::holdsAt( coord( id0 )=( 182, 51 ), 74960 ).
+
+% Frame number: 1875
+0.274::happensAt( inactive( id0 ), 75000 ). 0.4::holdsAt( coord( id0 )=( 182, 51 ), 75000 ).
+
+% Frame number: 1876
+0.293::happensAt( inactive( id0 ), 75040 ). 0.507::holdsAt( coord( id0 )=( 182, 51 ), 75040 ).
+
+% Frame number: 1877
+0.183::happensAt( inactive( id0 ), 75080 ). 0.206::holdsAt( coord( id0 )=( 182, 51 ), 75080 ).
+
+% Frame number: 1878
+0.0603::happensAt( inactive( id0 ), 75120 ). 0.0771::holdsAt( coord( id0 )=( 182, 51 ), 75120 ).
+
+% Frame number: 1879
+0.0918::happensAt( inactive( id0 ), 75160 ). 0.209::holdsAt( coord( id0 )=( 182, 51 ), 75160 ).
+
+% Frame number: 1880
+0.00459::happensAt( inactive( id0 ), 75200 ). 0.186::holdsAt( coord( id0 )=( 182, 51 ), 75200 ).
+
+% Frame number: 1881
+0.0021::happensAt( inactive( id0 ), 75240 ). 0.51::holdsAt( coord( id0 )=( 182, 51 ), 75240 ).
+
+% Frame number: 1882
+0.0759::happensAt( inactive( id0 ), 75280 ). 0.0211::holdsAt( coord( id0 )=( 182, 51 ), 75280 ).
+
+% Frame number: 1883
+0.446::happensAt( inactive( id0 ), 75320 ). 0.583::holdsAt( coord( id0 )=( 182, 51 ), 75320 ).
+
+% Frame number: 1884
+0.261::happensAt( inactive( id0 ), 75360 ). 0.143::holdsAt( coord( id0 )=( 182, 51 ), 75360 ).
+
+% Frame number: 1885
+0.0335::happensAt( inactive( id0 ), 75400 ). 0.667::holdsAt( coord( id0 )=( 182, 51 ), 75400 ).
+
+% Frame number: 1886
+0.0237::happensAt( inactive( id0 ), 75440 ). 0.104::holdsAt( coord( id0 )=( 182, 51 ), 75440 ).
+
+% Frame number: 1887
+0.0189::happensAt( inactive( id0 ), 75480 ). 0.0784::holdsAt( coord( id0 )=( 182, 51 ), 75480 ).
+
+% Frame number: 1888
+0.676::happensAt( inactive( id0 ), 75520 ). 0.0544::holdsAt( coord( id0 )=( 182, 51 ), 75520 ).
+
+% Frame number: 1889
+0.625::happensAt( inactive( id0 ), 75560 ). 0.529::holdsAt( coord( id0 )=( 182, 51 ), 75560 ).
+
+% Frame number: 1890
+0.228::happensAt( inactive( id0 ), 75600 ). 0.18::holdsAt( coord( id0 )=( 182, 51 ), 75600 ).
+
+% Frame number: 1891
+0.433::happensAt( inactive( id0 ), 75640 ). 0.274::holdsAt( coord( id0 )=( 182, 51 ), 75640 ).
+
+% Frame number: 1892
+0.352::happensAt( inactive( id0 ), 75680 ). 0.0838::holdsAt( coord( id0 )=( 182, 51 ), 75680 ).
+
+% Frame number: 1893
+0.412::happensAt( inactive( id0 ), 75720 ). 0.0571::holdsAt( coord( id0 )=( 182, 51 ), 75720 ).
+
+% Frame number: 1894
+0.0746::happensAt( inactive( id0 ), 75760 ). 0.0306::holdsAt( coord( id0 )=( 182, 51 ), 75760 ).
+

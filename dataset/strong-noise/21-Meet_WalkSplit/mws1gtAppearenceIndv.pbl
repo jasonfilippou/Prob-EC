@@ -1,0 +1,3036 @@
+
+
+% Frame number: 0
+0.476::holdsAt( orientation( id0 )=164, 0  ). holdsAt( appearance( id0 )=appear,  0 ).
+0.206::holdsAt( orientation( id1 )=169, 0  ). holdsAt( appearance( id1 )=appear,  0 ).
+
+% Frame number: 1
+0.202::holdsAt( orientation( id0 )=170, 40  ). holdsAt( appearance( id0 )=visible,  40 ).
+0.0175::holdsAt( orientation( id1 )=169, 40  ). holdsAt( appearance( id1 )=visible,  40 ).
+0.166::holdsAt( orientation( id2 )=160, 40  ). holdsAt( appearance( id2 )=appear,  40 ).
+
+% Frame number: 2
+0.325::holdsAt( orientation( id0 )=170, 80  ). holdsAt( appearance( id0 )=visible,  80 ).
+0.415::holdsAt( orientation( id1 )=169, 80  ). holdsAt( appearance( id1 )=visible,  80 ).
+0.453::holdsAt( orientation( id2 )=160, 80  ). holdsAt( appearance( id2 )=visible,  80 ).
+
+% Frame number: 3
+0.0639::holdsAt( orientation( id0 )=170, 120  ). holdsAt( appearance( id0 )=visible,  120 ).
+0.0264::holdsAt( orientation( id1 )=170, 120  ). holdsAt( appearance( id1 )=visible,  120 ).
+0.0962::holdsAt( orientation( id2 )=160, 120  ). holdsAt( appearance( id2 )=visible,  120 ).
+
+% Frame number: 4
+0.473::holdsAt( orientation( id0 )=170, 160  ). holdsAt( appearance( id0 )=visible,  160 ).
+0.0331::holdsAt( orientation( id1 )=170, 160  ). holdsAt( appearance( id1 )=visible,  160 ).
+0.373::holdsAt( orientation( id2 )=0, 160  ). holdsAt( appearance( id2 )=visible,  160 ).
+
+% Frame number: 5
+0.628::holdsAt( orientation( id0 )=175, 200  ). holdsAt( appearance( id0 )=visible,  200 ).
+0.239::holdsAt( orientation( id1 )=170, 200  ). holdsAt( appearance( id1 )=visible,  200 ).
+0.216::holdsAt( orientation( id2 )=0, 200  ). holdsAt( appearance( id2 )=visible,  200 ).
+
+% Frame number: 6
+0.309::holdsAt( orientation( id0 )=175, 240  ). holdsAt( appearance( id0 )=visible,  240 ).
+0.473::holdsAt( orientation( id1 )=170, 240  ). holdsAt( appearance( id1 )=visible,  240 ).
+0.182::holdsAt( orientation( id2 )=0, 240  ). holdsAt( appearance( id2 )=visible,  240 ).
+
+% Frame number: 7
+0.313::holdsAt( orientation( id0 )=175, 280  ). holdsAt( appearance( id0 )=visible,  280 ).
+0.181::holdsAt( orientation( id1 )=170, 280  ). holdsAt( appearance( id1 )=visible,  280 ).
+0.136::holdsAt( orientation( id2 )=142, 280  ). holdsAt( appearance( id2 )=visible,  280 ).
+
+% Frame number: 8
+0.0261::holdsAt( orientation( id0 )=175, 320  ). holdsAt( appearance( id0 )=visible,  320 ).
+0.397::holdsAt( orientation( id1 )=170, 320  ). holdsAt( appearance( id1 )=visible,  320 ).
+0.0563::holdsAt( orientation( id2 )=144, 320  ). holdsAt( appearance( id2 )=visible,  320 ).
+
+% Frame number: 9
+0.726::holdsAt( orientation( id0 )=19, 360  ). holdsAt( appearance( id0 )=visible,  360 ).
+0.00645::holdsAt( orientation( id1 )=170, 360  ). holdsAt( appearance( id1 )=visible,  360 ).
+0.65::holdsAt( orientation( id2 )=144, 360  ). holdsAt( appearance( id2 )=visible,  360 ).
+
+% Frame number: 10
+0.356::holdsAt( orientation( id0 )=28, 400  ). holdsAt( appearance( id0 )=visible,  400 ).
+0.238::holdsAt( orientation( id1 )=170, 400  ). holdsAt( appearance( id1 )=visible,  400 ).
+0.202::holdsAt( orientation( id2 )=144, 400  ). holdsAt( appearance( id2 )=visible,  400 ).
+
+% Frame number: 11
+0.165::holdsAt( orientation( id0 )=28, 440  ). holdsAt( appearance( id0 )=visible,  440 ).
+0.477::holdsAt( orientation( id1 )=170, 440  ). holdsAt( appearance( id1 )=visible,  440 ).
+0.537::holdsAt( orientation( id2 )=144, 440  ). holdsAt( appearance( id2 )=visible,  440 ).
+
+% Frame number: 12
+0.509::holdsAt( orientation( id0 )=28, 480  ). holdsAt( appearance( id0 )=visible,  480 ).
+0.0913::holdsAt( orientation( id1 )=170, 480  ). holdsAt( appearance( id1 )=visible,  480 ).
+0.235::holdsAt( orientation( id2 )=144, 480  ). holdsAt( appearance( id2 )=visible,  480 ).
+
+% Frame number: 13
+0.684::holdsAt( orientation( id0 )=28, 520  ). holdsAt( appearance( id0 )=visible,  520 ).
+0.371::holdsAt( orientation( id1 )=170, 520  ). holdsAt( appearance( id1 )=visible,  520 ).
+0.0903::holdsAt( orientation( id2 )=144, 520  ). holdsAt( appearance( id2 )=visible,  520 ).
+
+% Frame number: 14
+0.123::holdsAt( orientation( id0 )=28, 560  ). holdsAt( appearance( id0 )=visible,  560 ).
+0.0536::holdsAt( orientation( id1 )=170, 560  ). holdsAt( appearance( id1 )=visible,  560 ).
+0.11::holdsAt( orientation( id2 )=144, 560  ). holdsAt( appearance( id2 )=visible,  560 ).
+
+% Frame number: 15
+0.277::holdsAt( orientation( id0 )=28, 600  ). holdsAt( appearance( id0 )=visible,  600 ).
+0.66::holdsAt( orientation( id1 )=170, 600  ). holdsAt( appearance( id1 )=visible,  600 ).
+0.064::holdsAt( orientation( id2 )=144, 600  ). holdsAt( appearance( id2 )=visible,  600 ).
+
+% Frame number: 16
+0.494::holdsAt( orientation( id0 )=28, 640  ). holdsAt( appearance( id0 )=visible,  640 ).
+0.0482::holdsAt( orientation( id1 )=170, 640  ). holdsAt( appearance( id1 )=visible,  640 ).
+0.145::holdsAt( orientation( id2 )=144, 640  ). holdsAt( appearance( id2 )=visible,  640 ).
+
+% Frame number: 17
+0.221::holdsAt( orientation( id0 )=39, 680  ). holdsAt( appearance( id0 )=visible,  680 ).
+0.0385::holdsAt( orientation( id1 )=170, 680  ). holdsAt( appearance( id1 )=visible,  680 ).
+0.315::holdsAt( orientation( id2 )=144, 680  ). holdsAt( appearance( id2 )=visible,  680 ).
+
+% Frame number: 18
+0.311::holdsAt( orientation( id0 )=39, 720  ). holdsAt( appearance( id0 )=visible,  720 ).
+0.0366::holdsAt( orientation( id1 )=170, 720  ). holdsAt( appearance( id1 )=visible,  720 ).
+0.53::holdsAt( orientation( id2 )=155, 720  ). holdsAt( appearance( id2 )=visible,  720 ).
+
+% Frame number: 19
+0.447::holdsAt( orientation( id0 )=39, 760  ). holdsAt( appearance( id0 )=visible,  760 ).
+0.305::holdsAt( orientation( id1 )=170, 760  ). holdsAt( appearance( id1 )=visible,  760 ).
+0.0507::holdsAt( orientation( id2 )=155, 760  ). holdsAt( appearance( id2 )=visible,  760 ).
+
+% Frame number: 20
+0.0257::holdsAt( orientation( id0 )=39, 800  ). holdsAt( appearance( id0 )=visible,  800 ).
+0.262::holdsAt( orientation( id1 )=170, 800  ). holdsAt( appearance( id1 )=visible,  800 ).
+0.0247::holdsAt( orientation( id2 )=155, 800  ). holdsAt( appearance( id2 )=visible,  800 ).
+
+% Frame number: 21
+0.0745::holdsAt( orientation( id0 )=39, 840  ). holdsAt( appearance( id0 )=visible,  840 ).
+0.255::holdsAt( orientation( id1 )=170, 840  ). holdsAt( appearance( id1 )=visible,  840 ).
+0.0256::holdsAt( orientation( id2 )=155, 840  ). holdsAt( appearance( id2 )=visible,  840 ).
+
+% Frame number: 22
+0.0884::holdsAt( orientation( id0 )=90, 880  ). holdsAt( appearance( id0 )=visible,  880 ).
+0.56::holdsAt( orientation( id1 )=170, 880  ). holdsAt( appearance( id1 )=visible,  880 ).
+0.0481::holdsAt( orientation( id2 )=155, 880  ). holdsAt( appearance( id2 )=visible,  880 ).
+
+% Frame number: 23
+0.328::holdsAt( orientation( id0 )=90, 920  ). holdsAt( appearance( id0 )=visible,  920 ).
+0.0308::holdsAt( orientation( id1 )=170, 920  ). holdsAt( appearance( id1 )=visible,  920 ).
+0.545::holdsAt( orientation( id2 )=155, 920  ). holdsAt( appearance( id2 )=visible,  920 ).
+
+% Frame number: 24
+0.029::holdsAt( orientation( id0 )=90, 960  ). holdsAt( appearance( id0 )=visible,  960 ).
+0.419::holdsAt( orientation( id1 )=170, 960  ). holdsAt( appearance( id1 )=visible,  960 ).
+0.0282::holdsAt( orientation( id2 )=155, 960  ). holdsAt( appearance( id2 )=visible,  960 ).
+
+% Frame number: 25
+0.755::holdsAt( orientation( id0 )=90, 1000  ). holdsAt( appearance( id0 )=visible,  1000 ).
+0.202::holdsAt( orientation( id1 )=170, 1000  ). holdsAt( appearance( id1 )=visible,  1000 ).
+0.201::holdsAt( orientation( id2 )=155, 1000  ). holdsAt( appearance( id2 )=visible,  1000 ).
+
+% Frame number: 26
+0.132::holdsAt( orientation( id0 )=90, 1040  ). holdsAt( appearance( id0 )=visible,  1040 ).
+0.185::holdsAt( orientation( id1 )=170, 1040  ). holdsAt( appearance( id1 )=visible,  1040 ).
+0.14::holdsAt( orientation( id2 )=155, 1040  ). holdsAt( appearance( id2 )=visible,  1040 ).
+
+% Frame number: 27
+0.0161::holdsAt( orientation( id0 )=90, 1080  ). holdsAt( appearance( id0 )=disappear,  1080 ).
+0.243::holdsAt( orientation( id1 )=170, 1080  ). holdsAt( appearance( id1 )=visible,  1080 ).
+0.113::holdsAt( orientation( id2 )=155, 1080  ). holdsAt( appearance( id2 )=visible,  1080 ).
+
+% Frame number: 28
+0.293::holdsAt( orientation( id1 )=170, 1120  ). holdsAt( appearance( id1 )=visible,  1120 ).
+0.0271::holdsAt( orientation( id2 )=155, 1120  ). holdsAt( appearance( id2 )=visible,  1120 ).
+
+% Frame number: 29
+0.442::holdsAt( orientation( id1 )=170, 1160  ). holdsAt( appearance( id1 )=visible,  1160 ).
+0.014::holdsAt( orientation( id2 )=155, 1160  ). holdsAt( appearance( id2 )=visible,  1160 ).
+
+% Frame number: 30
+0.71::holdsAt( orientation( id1 )=170, 1200  ). holdsAt( appearance( id1 )=visible,  1200 ).
+0.0152::holdsAt( orientation( id2 )=155, 1200  ). holdsAt( appearance( id2 )=visible,  1200 ).
+
+% Frame number: 31
+0.108::holdsAt( orientation( id1 )=170, 1240  ). holdsAt( appearance( id1 )=visible,  1240 ).
+0.0583::holdsAt( orientation( id2 )=155, 1240  ). holdsAt( appearance( id2 )=visible,  1240 ).
+
+% Frame number: 32
+0.497::holdsAt( orientation( id1 )=170, 1280  ). holdsAt( appearance( id1 )=visible,  1280 ).
+0.0581::holdsAt( orientation( id2 )=155, 1280  ). holdsAt( appearance( id2 )=visible,  1280 ).
+
+% Frame number: 33
+0.125::holdsAt( orientation( id1 )=170, 1320  ). holdsAt( appearance( id1 )=visible,  1320 ).
+0.378::holdsAt( orientation( id2 )=155, 1320  ). holdsAt( appearance( id2 )=visible,  1320 ).
+
+% Frame number: 34
+0.111::holdsAt( orientation( id1 )=170, 1360  ). holdsAt( appearance( id1 )=visible,  1360 ).
+0.0255::holdsAt( orientation( id2 )=155, 1360  ). holdsAt( appearance( id2 )=visible,  1360 ).
+
+% Frame number: 35
+0.264::holdsAt( orientation( id1 )=170, 1400  ). holdsAt( appearance( id1 )=visible,  1400 ).
+0.0587::holdsAt( orientation( id2 )=155, 1400  ). holdsAt( appearance( id2 )=visible,  1400 ).
+
+% Frame number: 36
+0.329::holdsAt( orientation( id1 )=170, 1440  ). holdsAt( appearance( id1 )=visible,  1440 ).
+0.524::holdsAt( orientation( id2 )=155, 1440  ). holdsAt( appearance( id2 )=visible,  1440 ).
+
+% Frame number: 37
+0.425::holdsAt( orientation( id1 )=170, 1480  ). holdsAt( appearance( id1 )=visible,  1480 ).
+0.282::holdsAt( orientation( id2 )=155, 1480  ). holdsAt( appearance( id2 )=visible,  1480 ).
+
+% Frame number: 38
+0.248::holdsAt( orientation( id1 )=170, 1520  ). holdsAt( appearance( id1 )=visible,  1520 ).
+0.0701::holdsAt( orientation( id2 )=155, 1520  ). holdsAt( appearance( id2 )=visible,  1520 ).
+
+% Frame number: 39
+0.487::holdsAt( orientation( id1 )=170, 1560  ). holdsAt( appearance( id1 )=visible,  1560 ).
+0.334::holdsAt( orientation( id2 )=155, 1560  ). holdsAt( appearance( id2 )=visible,  1560 ).
+
+% Frame number: 40
+0.392::holdsAt( orientation( id1 )=170, 1600  ). holdsAt( appearance( id1 )=visible,  1600 ).
+0.286::holdsAt( orientation( id2 )=155, 1600  ). holdsAt( appearance( id2 )=visible,  1600 ).
+
+% Frame number: 41
+0.281::holdsAt( orientation( id1 )=170, 1640  ). holdsAt( appearance( id1 )=visible,  1640 ).
+0.126::holdsAt( orientation( id2 )=155, 1640  ). holdsAt( appearance( id2 )=visible,  1640 ).
+
+% Frame number: 42
+0.014::holdsAt( orientation( id1 )=170, 1680  ). holdsAt( appearance( id1 )=visible,  1680 ).
+0.505::holdsAt( orientation( id2 )=155, 1680  ). holdsAt( appearance( id2 )=visible,  1680 ).
+
+% Frame number: 43
+0.297::holdsAt( orientation( id1 )=170, 1720  ). holdsAt( appearance( id1 )=visible,  1720 ).
+0.544::holdsAt( orientation( id2 )=163, 1720  ). holdsAt( appearance( id2 )=visible,  1720 ).
+
+% Frame number: 44
+0.243::holdsAt( orientation( id1 )=170, 1760  ). holdsAt( appearance( id1 )=visible,  1760 ).
+0.203::holdsAt( orientation( id2 )=165, 1760  ). holdsAt( appearance( id2 )=visible,  1760 ).
+
+% Frame number: 45
+0.37::holdsAt( orientation( id1 )=170, 1800  ). holdsAt( appearance( id1 )=visible,  1800 ).
+0.216::holdsAt( orientation( id2 )=165, 1800  ). holdsAt( appearance( id2 )=visible,  1800 ).
+
+% Frame number: 46
+0.158::holdsAt( orientation( id1 )=170, 1840  ). holdsAt( appearance( id1 )=visible,  1840 ).
+0.166::holdsAt( orientation( id2 )=165, 1840  ). holdsAt( appearance( id2 )=visible,  1840 ).
+
+% Frame number: 47
+0.0137::holdsAt( orientation( id1 )=170, 1880  ). holdsAt( appearance( id1 )=visible,  1880 ).
+0.155::holdsAt( orientation( id2 )=165, 1880  ). holdsAt( appearance( id2 )=visible,  1880 ).
+
+% Frame number: 48
+0.566::holdsAt( orientation( id1 )=170, 1920  ). holdsAt( appearance( id1 )=visible,  1920 ).
+0.326::holdsAt( orientation( id2 )=165, 1920  ). holdsAt( appearance( id2 )=visible,  1920 ).
+
+% Frame number: 49
+0.417::holdsAt( orientation( id1 )=170, 1960  ). holdsAt( appearance( id1 )=visible,  1960 ).
+0.111::holdsAt( orientation( id2 )=165, 1960  ). holdsAt( appearance( id2 )=visible,  1960 ).
+
+% Frame number: 50
+0.0128::holdsAt( orientation( id1 )=170, 2000  ). holdsAt( appearance( id1 )=visible,  2000 ).
+0.144::holdsAt( orientation( id2 )=165, 2000  ). holdsAt( appearance( id2 )=visible,  2000 ).
+
+% Frame number: 51
+0.145::holdsAt( orientation( id1 )=170, 2040  ). holdsAt( appearance( id1 )=visible,  2040 ).
+0.022::holdsAt( orientation( id2 )=165, 2040  ). holdsAt( appearance( id2 )=visible,  2040 ).
+
+% Frame number: 52
+0.059::holdsAt( orientation( id1 )=170, 2080  ). holdsAt( appearance( id1 )=visible,  2080 ).
+0.0713::holdsAt( orientation( id2 )=165, 2080  ). holdsAt( appearance( id2 )=visible,  2080 ).
+
+% Frame number: 53
+0.0103::holdsAt( orientation( id1 )=170, 2120  ). holdsAt( appearance( id1 )=visible,  2120 ).
+0.476::holdsAt( orientation( id2 )=165, 2120  ). holdsAt( appearance( id2 )=visible,  2120 ).
+
+% Frame number: 54
+0.00796::holdsAt( orientation( id1 )=170, 2160  ). holdsAt( appearance( id1 )=visible,  2160 ).
+0.255::holdsAt( orientation( id2 )=165, 2160  ). holdsAt( appearance( id2 )=visible,  2160 ).
+
+% Frame number: 55
+0.338::holdsAt( orientation( id1 )=170, 2200  ). holdsAt( appearance( id1 )=visible,  2200 ).
+0.0538::holdsAt( orientation( id2 )=165, 2200  ). holdsAt( appearance( id2 )=visible,  2200 ).
+
+% Frame number: 56
+0.508::holdsAt( orientation( id1 )=172, 2240  ). holdsAt( appearance( id1 )=visible,  2240 ).
+0.127::holdsAt( orientation( id2 )=165, 2240  ). holdsAt( appearance( id2 )=visible,  2240 ).
+
+% Frame number: 57
+0.475::holdsAt( orientation( id1 )=172, 2280  ). holdsAt( appearance( id1 )=visible,  2280 ).
+0.0455::holdsAt( orientation( id2 )=165, 2280  ). holdsAt( appearance( id2 )=visible,  2280 ).
+
+% Frame number: 58
+0.142::holdsAt( orientation( id1 )=172, 2320  ). holdsAt( appearance( id1 )=visible,  2320 ).
+0.236::holdsAt( orientation( id2 )=165, 2320  ). holdsAt( appearance( id2 )=visible,  2320 ).
+
+% Frame number: 59
+0.539::holdsAt( orientation( id1 )=172, 2360  ). holdsAt( appearance( id1 )=visible,  2360 ).
+0.195::holdsAt( orientation( id2 )=165, 2360  ). holdsAt( appearance( id2 )=visible,  2360 ).
+
+% Frame number: 60
+0.255::holdsAt( orientation( id1 )=172, 2400  ). holdsAt( appearance( id1 )=visible,  2400 ).
+0.177::holdsAt( orientation( id2 )=165, 2400  ). holdsAt( appearance( id2 )=visible,  2400 ).
+
+% Frame number: 61
+0.0429::holdsAt( orientation( id1 )=172, 2440  ). holdsAt( appearance( id1 )=visible,  2440 ).
+0.0967::holdsAt( orientation( id2 )=165, 2440  ). holdsAt( appearance( id2 )=visible,  2440 ).
+
+% Frame number: 62
+0.306::holdsAt( orientation( id1 )=172, 2480  ). holdsAt( appearance( id1 )=visible,  2480 ).
+0.118::holdsAt( orientation( id2 )=165, 2480  ). holdsAt( appearance( id2 )=visible,  2480 ).
+
+% Frame number: 63
+0.194::holdsAt( orientation( id1 )=172, 2520  ). holdsAt( appearance( id1 )=visible,  2520 ).
+0.019::holdsAt( orientation( id2 )=165, 2520  ). holdsAt( appearance( id2 )=visible,  2520 ).
+
+% Frame number: 64
+0.708::holdsAt( orientation( id1 )=172, 2560  ). holdsAt( appearance( id1 )=visible,  2560 ).
+0.569::holdsAt( orientation( id2 )=165, 2560  ). holdsAt( appearance( id2 )=visible,  2560 ).
+
+% Frame number: 65
+0.0493::holdsAt( orientation( id1 )=172, 2600  ). holdsAt( appearance( id1 )=visible,  2600 ).
+0.34::holdsAt( orientation( id2 )=165, 2600  ). holdsAt( appearance( id2 )=visible,  2600 ).
+
+% Frame number: 66
+0.268::holdsAt( orientation( id1 )=172, 2640  ). holdsAt( appearance( id1 )=visible,  2640 ).
+0.306::holdsAt( orientation( id2 )=165, 2640  ). holdsAt( appearance( id2 )=visible,  2640 ).
+
+% Frame number: 67
+0.00634::holdsAt( orientation( id1 )=160, 2680  ). holdsAt( appearance( id1 )=visible,  2680 ).
+0.0955::holdsAt( orientation( id2 )=165, 2680  ). holdsAt( appearance( id2 )=visible,  2680 ).
+
+% Frame number: 68
+0.0087::holdsAt( orientation( id1 )=160, 2720  ). holdsAt( appearance( id1 )=visible,  2720 ).
+0.441::holdsAt( orientation( id2 )=165, 2720  ). holdsAt( appearance( id2 )=visible,  2720 ).
+0.573::holdsAt( orientation( id3 )=90, 2720  ). holdsAt( appearance( id3 )=appear,  2720 ).
+
+% Frame number: 69
+0.158::holdsAt( orientation( id1 )=160, 2760  ). holdsAt( appearance( id1 )=visible,  2760 ).
+0.0128::holdsAt( orientation( id2 )=162, 2760  ). holdsAt( appearance( id2 )=visible,  2760 ).
+0.0778::holdsAt( orientation( id3 )=0, 2760  ). holdsAt( appearance( id3 )=visible,  2760 ).
+
+% Frame number: 70
+0.166::holdsAt( orientation( id1 )=160, 2800  ). holdsAt( appearance( id1 )=visible,  2800 ).
+0.125::holdsAt( orientation( id2 )=162, 2800  ). holdsAt( appearance( id2 )=visible,  2800 ).
+0.178::holdsAt( orientation( id3 )=60, 2800  ). holdsAt( appearance( id3 )=visible,  2800 ).
+
+% Frame number: 71
+0.368::holdsAt( orientation( id1 )=160, 2840  ). holdsAt( appearance( id1 )=visible,  2840 ).
+0.0546::holdsAt( orientation( id2 )=162, 2840  ). holdsAt( appearance( id2 )=visible,  2840 ).
+0.272::holdsAt( orientation( id3 )=69, 2840  ). holdsAt( appearance( id3 )=visible,  2840 ).
+
+% Frame number: 72
+0.392::holdsAt( orientation( id1 )=160, 2880  ). holdsAt( appearance( id1 )=visible,  2880 ).
+0.0275::holdsAt( orientation( id2 )=162, 2880  ). holdsAt( appearance( id2 )=visible,  2880 ).
+0.137::holdsAt( orientation( id3 )=69, 2880  ). holdsAt( appearance( id3 )=visible,  2880 ).
+
+% Frame number: 73
+0.0728::holdsAt( orientation( id1 )=160, 2920  ). holdsAt( appearance( id1 )=visible,  2920 ).
+0.363::holdsAt( orientation( id2 )=162, 2920  ). holdsAt( appearance( id2 )=visible,  2920 ).
+0.0819::holdsAt( orientation( id3 )=77, 2920  ). holdsAt( appearance( id3 )=visible,  2920 ).
+
+% Frame number: 74
+0.533::holdsAt( orientation( id1 )=160, 2960  ). holdsAt( appearance( id1 )=visible,  2960 ).
+0.0499::holdsAt( orientation( id2 )=162, 2960  ). holdsAt( appearance( id2 )=visible,  2960 ).
+0.0732::holdsAt( orientation( id3 )=68, 2960  ). holdsAt( appearance( id3 )=visible,  2960 ).
+
+% Frame number: 75
+0.668::holdsAt( orientation( id1 )=160, 3000  ). holdsAt( appearance( id1 )=visible,  3000 ).
+0.344::holdsAt( orientation( id2 )=162, 3000  ). holdsAt( appearance( id2 )=visible,  3000 ).
+0.169::holdsAt( orientation( id3 )=56, 3000  ). holdsAt( appearance( id3 )=visible,  3000 ).
+
+% Frame number: 76
+0.00976::holdsAt( orientation( id1 )=160, 3040  ). holdsAt( appearance( id1 )=visible,  3040 ).
+0.00912::holdsAt( orientation( id2 )=162, 3040  ). holdsAt( appearance( id2 )=visible,  3040 ).
+0.156::holdsAt( orientation( id3 )=47, 3040  ). holdsAt( appearance( id3 )=visible,  3040 ).
+
+% Frame number: 77
+0.398::holdsAt( orientation( id1 )=160, 3080  ). holdsAt( appearance( id1 )=visible,  3080 ).
+0.379::holdsAt( orientation( id2 )=162, 3080  ). holdsAt( appearance( id2 )=visible,  3080 ).
+0.12::holdsAt( orientation( id3 )=40, 3080  ). holdsAt( appearance( id3 )=visible,  3080 ).
+
+% Frame number: 78
+0.0356::holdsAt( orientation( id1 )=160, 3120  ). holdsAt( appearance( id1 )=visible,  3120 ).
+0.104::holdsAt( orientation( id2 )=162, 3120  ). holdsAt( appearance( id2 )=visible,  3120 ).
+0.0172::holdsAt( orientation( id3 )=32, 3120  ). holdsAt( appearance( id3 )=visible,  3120 ).
+
+% Frame number: 79
+0.032::holdsAt( orientation( id1 )=160, 3160  ). holdsAt( appearance( id1 )=visible,  3160 ).
+0.00354::holdsAt( orientation( id2 )=162, 3160  ). holdsAt( appearance( id2 )=visible,  3160 ).
+0.498::holdsAt( orientation( id3 )=32, 3160  ). holdsAt( appearance( id3 )=visible,  3160 ).
+
+% Frame number: 80
+0.43::holdsAt( orientation( id1 )=160, 3200  ). holdsAt( appearance( id1 )=visible,  3200 ).
+0.0247::holdsAt( orientation( id2 )=162, 3200  ). holdsAt( appearance( id2 )=visible,  3200 ).
+0.226::holdsAt( orientation( id3 )=27, 3200  ). holdsAt( appearance( id3 )=visible,  3200 ).
+
+% Frame number: 81
+0.0394::holdsAt( orientation( id1 )=160, 3240  ). holdsAt( appearance( id1 )=visible,  3240 ).
+0.104::holdsAt( orientation( id2 )=162, 3240  ). holdsAt( appearance( id2 )=visible,  3240 ).
+0.0486::holdsAt( orientation( id3 )=29, 3240  ). holdsAt( appearance( id3 )=visible,  3240 ).
+
+% Frame number: 82
+0.545::holdsAt( orientation( id1 )=160, 3280  ). holdsAt( appearance( id1 )=visible,  3280 ).
+0.255::holdsAt( orientation( id2 )=162, 3280  ). holdsAt( appearance( id2 )=visible,  3280 ).
+0.4::holdsAt( orientation( id3 )=29, 3280  ). holdsAt( appearance( id3 )=visible,  3280 ).
+
+% Frame number: 83
+0.0209::holdsAt( orientation( id1 )=160, 3320  ). holdsAt( appearance( id1 )=visible,  3320 ).
+0.00213::holdsAt( orientation( id2 )=162, 3320  ). holdsAt( appearance( id2 )=visible,  3320 ).
+0.147::holdsAt( orientation( id3 )=26, 3320  ). holdsAt( appearance( id3 )=visible,  3320 ).
+
+% Frame number: 84
+0.0347::holdsAt( orientation( id1 )=160, 3360  ). holdsAt( appearance( id1 )=visible,  3360 ).
+0.119::holdsAt( orientation( id2 )=162, 3360  ). holdsAt( appearance( id2 )=visible,  3360 ).
+0.205::holdsAt( orientation( id3 )=24, 3360  ). holdsAt( appearance( id3 )=visible,  3360 ).
+
+% Frame number: 85
+0.00402::holdsAt( orientation( id1 )=160, 3400  ). holdsAt( appearance( id1 )=visible,  3400 ).
+0.249::holdsAt( orientation( id2 )=162, 3400  ). holdsAt( appearance( id2 )=visible,  3400 ).
+0.386::holdsAt( orientation( id3 )=24, 3400  ). holdsAt( appearance( id3 )=visible,  3400 ).
+
+% Frame number: 86
+0.153::holdsAt( orientation( id1 )=160, 3440  ). holdsAt( appearance( id1 )=visible,  3440 ).
+0.17::holdsAt( orientation( id2 )=162, 3440  ). holdsAt( appearance( id2 )=visible,  3440 ).
+0.331::holdsAt( orientation( id3 )=24, 3440  ). holdsAt( appearance( id3 )=visible,  3440 ).
+
+% Frame number: 87
+0.119::holdsAt( orientation( id1 )=160, 3480  ). holdsAt( appearance( id1 )=visible,  3480 ).
+0.358::holdsAt( orientation( id2 )=162, 3480  ). holdsAt( appearance( id2 )=visible,  3480 ).
+0.109::holdsAt( orientation( id3 )=24, 3480  ). holdsAt( appearance( id3 )=visible,  3480 ).
+
+% Frame number: 88
+0.0871::holdsAt( orientation( id1 )=160, 3520  ). holdsAt( appearance( id1 )=visible,  3520 ).
+0.241::holdsAt( orientation( id2 )=162, 3520  ). holdsAt( appearance( id2 )=visible,  3520 ).
+0.102::holdsAt( orientation( id3 )=24, 3520  ). holdsAt( appearance( id3 )=visible,  3520 ).
+
+% Frame number: 89
+0.149::holdsAt( orientation( id1 )=160, 3560  ). holdsAt( appearance( id1 )=visible,  3560 ).
+0.211::holdsAt( orientation( id2 )=162, 3560  ). holdsAt( appearance( id2 )=visible,  3560 ).
+0.33::holdsAt( orientation( id3 )=24, 3560  ). holdsAt( appearance( id3 )=visible,  3560 ).
+
+% Frame number: 90
+0.278::holdsAt( orientation( id1 )=160, 3600  ). holdsAt( appearance( id1 )=visible,  3600 ).
+0.155::holdsAt( orientation( id2 )=162, 3600  ). holdsAt( appearance( id2 )=visible,  3600 ).
+0.184::holdsAt( orientation( id3 )=24, 3600  ). holdsAt( appearance( id3 )=visible,  3600 ).
+
+% Frame number: 91
+0.59::holdsAt( orientation( id1 )=160, 3640  ). holdsAt( appearance( id1 )=visible,  3640 ).
+0.235::holdsAt( orientation( id2 )=162, 3640  ). holdsAt( appearance( id2 )=visible,  3640 ).
+0.436::holdsAt( orientation( id3 )=24, 3640  ). holdsAt( appearance( id3 )=visible,  3640 ).
+
+% Frame number: 92
+0.601::holdsAt( orientation( id1 )=160, 3680  ). holdsAt( appearance( id1 )=visible,  3680 ).
+0.291::holdsAt( orientation( id2 )=162, 3680  ). holdsAt( appearance( id2 )=visible,  3680 ).
+0.212::holdsAt( orientation( id3 )=24, 3680  ). holdsAt( appearance( id3 )=visible,  3680 ).
+
+% Frame number: 93
+0.25::holdsAt( orientation( id1 )=160, 3720  ). holdsAt( appearance( id1 )=visible,  3720 ).
+0.105::holdsAt( orientation( id2 )=162, 3720  ). holdsAt( appearance( id2 )=visible,  3720 ).
+0.182::holdsAt( orientation( id3 )=24, 3720  ). holdsAt( appearance( id3 )=visible,  3720 ).
+
+% Frame number: 94
+0.259::holdsAt( orientation( id1 )=160, 3760  ). holdsAt( appearance( id1 )=visible,  3760 ).
+0.0576::holdsAt( orientation( id2 )=162, 3760  ). holdsAt( appearance( id2 )=visible,  3760 ).
+0.56::holdsAt( orientation( id3 )=24, 3760  ). holdsAt( appearance( id3 )=visible,  3760 ).
+
+% Frame number: 95
+0.414::holdsAt( orientation( id1 )=160, 3800  ). holdsAt( appearance( id1 )=visible,  3800 ).
+0.707::holdsAt( orientation( id2 )=162, 3800  ). holdsAt( appearance( id2 )=visible,  3800 ).
+0.0199::holdsAt( orientation( id3 )=19, 3800  ). holdsAt( appearance( id3 )=visible,  3800 ).
+
+% Frame number: 96
+0.0312::holdsAt( orientation( id1 )=160, 3840  ). holdsAt( appearance( id1 )=visible,  3840 ).
+0.233::holdsAt( orientation( id2 )=162, 3840  ). holdsAt( appearance( id2 )=visible,  3840 ).
+0.581::holdsAt( orientation( id3 )=10, 3840  ). holdsAt( appearance( id3 )=visible,  3840 ).
+
+% Frame number: 97
+0.13::holdsAt( orientation( id1 )=160, 3880  ). holdsAt( appearance( id1 )=visible,  3880 ).
+0.233::holdsAt( orientation( id2 )=162, 3880  ). holdsAt( appearance( id2 )=visible,  3880 ).
+0.453::holdsAt( orientation( id3 )=10, 3880  ). holdsAt( appearance( id3 )=visible,  3880 ).
+
+% Frame number: 98
+0.347::holdsAt( orientation( id1 )=160, 3920  ). holdsAt( appearance( id1 )=visible,  3920 ).
+0.0567::holdsAt( orientation( id2 )=162, 3920  ). holdsAt( appearance( id2 )=visible,  3920 ).
+0.12::holdsAt( orientation( id3 )=11, 3920  ). holdsAt( appearance( id3 )=visible,  3920 ).
+
+% Frame number: 99
+0.212::holdsAt( orientation( id1 )=160, 3960  ). holdsAt( appearance( id1 )=visible,  3960 ).
+0.456::holdsAt( orientation( id2 )=162, 3960  ). holdsAt( appearance( id2 )=visible,  3960 ).
+0.18::holdsAt( orientation( id3 )=6, 3960  ). holdsAt( appearance( id3 )=visible,  3960 ).
+
+% Frame number: 100
+0.0311::holdsAt( orientation( id1 )=155, 4000  ). holdsAt( appearance( id1 )=visible,  4000 ).
+0.296::holdsAt( orientation( id2 )=0, 4000  ). holdsAt( appearance( id2 )=visible,  4000 ).
+0.202::holdsAt( orientation( id3 )=3, 4000  ). holdsAt( appearance( id3 )=visible,  4000 ).
+
+% Frame number: 101
+0.284::holdsAt( orientation( id1 )=155, 4040  ). holdsAt( appearance( id1 )=visible,  4040 ).
+0.538::holdsAt( orientation( id2 )=0, 4040  ). holdsAt( appearance( id2 )=visible,  4040 ).
+0.201::holdsAt( orientation( id3 )=171, 4040  ). holdsAt( appearance( id3 )=visible,  4040 ).
+
+% Frame number: 102
+0.0687::holdsAt( orientation( id1 )=155, 4080  ). holdsAt( appearance( id1 )=visible,  4080 ).
+0.254::holdsAt( orientation( id2 )=0, 4080  ). holdsAt( appearance( id2 )=visible,  4080 ).
+0.0223::holdsAt( orientation( id3 )=4, 4080  ). holdsAt( appearance( id3 )=visible,  4080 ).
+0.454::holdsAt( orientation( id4 )=0, 4080  ). holdsAt( appearance( id4 )=appear,  4080 ).
+
+% Frame number: 103
+0.381::holdsAt( orientation( id1 )=155, 4120  ). holdsAt( appearance( id1 )=visible,  4120 ).
+0.134::holdsAt( orientation( id2 )=167, 4120  ). holdsAt( appearance( id2 )=visible,  4120 ).
+0.261::holdsAt( orientation( id3 )=4, 4120  ). holdsAt( appearance( id3 )=visible,  4120 ).
+0.0382::holdsAt( orientation( id4 )=0, 4120  ). holdsAt( appearance( id4 )=visible,  4120 ).
+
+% Frame number: 104
+0.155::holdsAt( orientation( id1 )=155, 4160  ). holdsAt( appearance( id1 )=visible,  4160 ).
+0.273::holdsAt( orientation( id2 )=167, 4160  ). holdsAt( appearance( id2 )=visible,  4160 ).
+0.182::holdsAt( orientation( id3 )=174, 4160  ). holdsAt( appearance( id3 )=visible,  4160 ).
+0.253::holdsAt( orientation( id4 )=0, 4160  ). holdsAt( appearance( id4 )=visible,  4160 ).
+
+% Frame number: 105
+0.0464::holdsAt( orientation( id1 )=155, 4200  ). holdsAt( appearance( id1 )=visible,  4200 ).
+0.151::holdsAt( orientation( id2 )=167, 4200  ). holdsAt( appearance( id2 )=visible,  4200 ).
+0.267::holdsAt( orientation( id3 )=176, 4200  ). holdsAt( appearance( id3 )=visible,  4200 ).
+0.634::holdsAt( orientation( id4 )=0, 4200  ). holdsAt( appearance( id4 )=visible,  4200 ).
+
+% Frame number: 106
+0.0955::holdsAt( orientation( id1 )=155, 4240  ). holdsAt( appearance( id1 )=visible,  4240 ).
+0.774::holdsAt( orientation( id2 )=164, 4240  ). holdsAt( appearance( id2 )=visible,  4240 ).
+0.106::holdsAt( orientation( id3 )=169, 4240  ). holdsAt( appearance( id3 )=visible,  4240 ).
+0.0833::holdsAt( orientation( id4 )=0, 4240  ). holdsAt( appearance( id4 )=visible,  4240 ).
+
+% Frame number: 107
+0.334::holdsAt( orientation( id1 )=155, 4280  ). holdsAt( appearance( id1 )=visible,  4280 ).
+0.285::holdsAt( orientation( id2 )=164, 4280  ). holdsAt( appearance( id2 )=visible,  4280 ).
+0.113::holdsAt( orientation( id3 )=172, 4280  ). holdsAt( appearance( id3 )=visible,  4280 ).
+0.572::holdsAt( orientation( id4 )=0, 4280  ). holdsAt( appearance( id4 )=visible,  4280 ).
+
+% Frame number: 108
+0.683::holdsAt( orientation( id1 )=155, 4320  ). holdsAt( appearance( id1 )=visible,  4320 ).
+0.242::holdsAt( orientation( id2 )=164, 4320  ). holdsAt( appearance( id2 )=visible,  4320 ).
+0.0513::holdsAt( orientation( id3 )=176, 4320  ). holdsAt( appearance( id3 )=visible,  4320 ).
+0.0347::holdsAt( orientation( id4 )=0, 4320  ). holdsAt( appearance( id4 )=visible,  4320 ).
+
+% Frame number: 109
+0.0574::holdsAt( orientation( id1 )=155, 4360  ). holdsAt( appearance( id1 )=visible,  4360 ).
+0.031::holdsAt( orientation( id2 )=164, 4360  ). holdsAt( appearance( id2 )=visible,  4360 ).
+0.356::holdsAt( orientation( id3 )=173, 4360  ). holdsAt( appearance( id3 )=visible,  4360 ).
+0.0875::holdsAt( orientation( id4 )=0, 4360  ). holdsAt( appearance( id4 )=visible,  4360 ).
+
+% Frame number: 110
+0.223::holdsAt( orientation( id1 )=155, 4400  ). holdsAt( appearance( id1 )=visible,  4400 ).
+0.466::holdsAt( orientation( id2 )=164, 4400  ). holdsAt( appearance( id2 )=visible,  4400 ).
+0.155::holdsAt( orientation( id3 )=170, 4400  ). holdsAt( appearance( id3 )=visible,  4400 ).
+0.0431::holdsAt( orientation( id4 )=0, 4400  ). holdsAt( appearance( id4 )=visible,  4400 ).
+
+% Frame number: 111
+0.0409::holdsAt( orientation( id1 )=155, 4440  ). holdsAt( appearance( id1 )=visible,  4440 ).
+0.299::holdsAt( orientation( id2 )=164, 4440  ). holdsAt( appearance( id2 )=visible,  4440 ).
+0.0178::holdsAt( orientation( id3 )=178, 4440  ). holdsAt( appearance( id3 )=visible,  4440 ).
+0.00808::holdsAt( orientation( id4 )=0, 4440  ). holdsAt( appearance( id4 )=visible,  4440 ).
+
+% Frame number: 112
+0.00307::holdsAt( orientation( id1 )=155, 4480  ). holdsAt( appearance( id1 )=visible,  4480 ).
+0.208::holdsAt( orientation( id2 )=164, 4480  ). holdsAt( appearance( id2 )=visible,  4480 ).
+0.00407::holdsAt( orientation( id3 )=178, 4480  ). holdsAt( appearance( id3 )=visible,  4480 ).
+0.14::holdsAt( orientation( id4 )=0, 4480  ). holdsAt( appearance( id4 )=visible,  4480 ).
+
+% Frame number: 113
+0.0265::holdsAt( orientation( id1 )=155, 4520  ). holdsAt( appearance( id1 )=visible,  4520 ).
+0.493::holdsAt( orientation( id2 )=164, 4520  ). holdsAt( appearance( id2 )=visible,  4520 ).
+0.569::holdsAt( orientation( id3 )=176, 4520  ). holdsAt( appearance( id3 )=visible,  4520 ).
+0.13::holdsAt( orientation( id4 )=0, 4520  ). holdsAt( appearance( id4 )=visible,  4520 ).
+
+% Frame number: 114
+0.03::holdsAt( orientation( id1 )=155, 4560  ). holdsAt( appearance( id1 )=visible,  4560 ).
+0.136::holdsAt( orientation( id2 )=164, 4560  ). holdsAt( appearance( id2 )=visible,  4560 ).
+0.0399::holdsAt( orientation( id3 )=178, 4560  ). holdsAt( appearance( id3 )=visible,  4560 ).
+0.0839::holdsAt( orientation( id4 )=0, 4560  ). holdsAt( appearance( id4 )=visible,  4560 ).
+
+% Frame number: 115
+0.0023::holdsAt( orientation( id1 )=155, 4600  ). holdsAt( appearance( id1 )=visible,  4600 ).
+0.197::holdsAt( orientation( id2 )=164, 4600  ). holdsAt( appearance( id2 )=visible,  4600 ).
+0.077::holdsAt( orientation( id3 )=170, 4600  ). holdsAt( appearance( id3 )=visible,  4600 ).
+0.21::holdsAt( orientation( id4 )=0, 4600  ). holdsAt( appearance( id4 )=visible,  4600 ).
+
+% Frame number: 116
+0.133::holdsAt( orientation( id1 )=155, 4640  ). holdsAt( appearance( id1 )=visible,  4640 ).
+0.104::holdsAt( orientation( id2 )=164, 4640  ). holdsAt( appearance( id2 )=visible,  4640 ).
+0.483::holdsAt( orientation( id3 )=160, 4640  ). holdsAt( appearance( id3 )=visible,  4640 ).
+0.333::holdsAt( orientation( id4 )=0, 4640  ). holdsAt( appearance( id4 )=visible,  4640 ).
+
+% Frame number: 117
+0.166::holdsAt( orientation( id1 )=155, 4680  ). holdsAt( appearance( id1 )=visible,  4680 ).
+0.284::holdsAt( orientation( id2 )=164, 4680  ). holdsAt( appearance( id2 )=visible,  4680 ).
+0.549::holdsAt( orientation( id3 )=158, 4680  ). holdsAt( appearance( id3 )=visible,  4680 ).
+0.199::holdsAt( orientation( id4 )=0, 4680  ). holdsAt( appearance( id4 )=visible,  4680 ).
+
+% Frame number: 118
+0.185::holdsAt( orientation( id1 )=155, 4720  ). holdsAt( appearance( id1 )=visible,  4720 ).
+0.0187::holdsAt( orientation( id2 )=164, 4720  ). holdsAt( appearance( id2 )=visible,  4720 ).
+0.175::holdsAt( orientation( id3 )=160, 4720  ). holdsAt( appearance( id3 )=visible,  4720 ).
+0.257::holdsAt( orientation( id4 )=0, 4720  ). holdsAt( appearance( id4 )=visible,  4720 ).
+
+% Frame number: 119
+0.0884::holdsAt( orientation( id1 )=155, 4760  ). holdsAt( appearance( id1 )=visible,  4760 ).
+0.695::holdsAt( orientation( id2 )=164, 4760  ). holdsAt( appearance( id2 )=visible,  4760 ).
+0.0953::holdsAt( orientation( id3 )=157, 4760  ). holdsAt( appearance( id3 )=visible,  4760 ).
+0.337::holdsAt( orientation( id4 )=0, 4760  ). holdsAt( appearance( id4 )=visible,  4760 ).
+
+% Frame number: 120
+0.561::holdsAt( orientation( id1 )=155, 4800  ). holdsAt( appearance( id1 )=visible,  4800 ).
+0.191::holdsAt( orientation( id2 )=164, 4800  ). holdsAt( appearance( id2 )=visible,  4800 ).
+0.0851::holdsAt( orientation( id3 )=150, 4800  ). holdsAt( appearance( id3 )=visible,  4800 ).
+0.267::holdsAt( orientation( id4 )=0, 4800  ). holdsAt( appearance( id4 )=visible,  4800 ).
+
+% Frame number: 121
+0.405::holdsAt( orientation( id1 )=155, 4840  ). holdsAt( appearance( id1 )=visible,  4840 ).
+0.109::holdsAt( orientation( id2 )=164, 4840  ). holdsAt( appearance( id2 )=visible,  4840 ).
+0.277::holdsAt( orientation( id3 )=150, 4840  ). holdsAt( appearance( id3 )=visible,  4840 ).
+0.593::holdsAt( orientation( id4 )=0, 4840  ). holdsAt( appearance( id4 )=visible,  4840 ).
+
+% Frame number: 122
+0.466::holdsAt( orientation( id1 )=155, 4880  ). holdsAt( appearance( id1 )=visible,  4880 ).
+0.0329::holdsAt( orientation( id2 )=164, 4880  ). holdsAt( appearance( id2 )=visible,  4880 ).
+0.119::holdsAt( orientation( id3 )=150, 4880  ). holdsAt( appearance( id3 )=visible,  4880 ).
+0.0297::holdsAt( orientation( id4 )=0, 4880  ). holdsAt( appearance( id4 )=visible,  4880 ).
+
+% Frame number: 123
+0.197::holdsAt( orientation( id1 )=155, 4920  ). holdsAt( appearance( id1 )=visible,  4920 ).
+0.141::holdsAt( orientation( id2 )=164, 4920  ). holdsAt( appearance( id2 )=visible,  4920 ).
+0.107::holdsAt( orientation( id3 )=150, 4920  ). holdsAt( appearance( id3 )=visible,  4920 ).
+0.315::holdsAt( orientation( id4 )=0, 4920  ). holdsAt( appearance( id4 )=visible,  4920 ).
+
+% Frame number: 124
+0.151::holdsAt( orientation( id1 )=155, 4960  ). holdsAt( appearance( id1 )=visible,  4960 ).
+0.111::holdsAt( orientation( id2 )=164, 4960  ). holdsAt( appearance( id2 )=visible,  4960 ).
+0.0755::holdsAt( orientation( id3 )=150, 4960  ). holdsAt( appearance( id3 )=visible,  4960 ).
+0.148::holdsAt( orientation( id4 )=0, 4960  ). holdsAt( appearance( id4 )=visible,  4960 ).
+
+% Frame number: 125
+0.383::holdsAt( orientation( id1 )=155, 5000  ). holdsAt( appearance( id1 )=visible,  5000 ).
+0.205::holdsAt( orientation( id2 )=164, 5000  ). holdsAt( appearance( id2 )=visible,  5000 ).
+0.0898::holdsAt( orientation( id3 )=150, 5000  ). holdsAt( appearance( id3 )=visible,  5000 ).
+0.168::holdsAt( orientation( id4 )=0, 5000  ). holdsAt( appearance( id4 )=visible,  5000 ).
+
+% Frame number: 126
+0.155::holdsAt( orientation( id1 )=155, 5040  ). holdsAt( appearance( id1 )=visible,  5040 ).
+0.313::holdsAt( orientation( id2 )=164, 5040  ). holdsAt( appearance( id2 )=visible,  5040 ).
+0.34::holdsAt( orientation( id3 )=150, 5040  ). holdsAt( appearance( id3 )=visible,  5040 ).
+0.0296::holdsAt( orientation( id4 )=0, 5040  ). holdsAt( appearance( id4 )=visible,  5040 ).
+
+% Frame number: 127
+0.248::holdsAt( orientation( id1 )=155, 5080  ). holdsAt( appearance( id1 )=visible,  5080 ).
+0.114::holdsAt( orientation( id2 )=164, 5080  ). holdsAt( appearance( id2 )=visible,  5080 ).
+0.269::holdsAt( orientation( id3 )=150, 5080  ). holdsAt( appearance( id3 )=visible,  5080 ).
+0.0197::holdsAt( orientation( id4 )=0, 5080  ). holdsAt( appearance( id4 )=visible,  5080 ).
+
+% Frame number: 128
+0.2::holdsAt( orientation( id1 )=155, 5120  ). holdsAt( appearance( id1 )=visible,  5120 ).
+0.202::holdsAt( orientation( id2 )=164, 5120  ). holdsAt( appearance( id2 )=visible,  5120 ).
+0.683::holdsAt( orientation( id3 )=150, 5120  ). holdsAt( appearance( id3 )=visible,  5120 ).
+0.547::holdsAt( orientation( id4 )=0, 5120  ). holdsAt( appearance( id4 )=visible,  5120 ).
+
+% Frame number: 129
+0.275::holdsAt( orientation( id1 )=155, 5160  ). holdsAt( appearance( id1 )=visible,  5160 ).
+0.0966::holdsAt( orientation( id2 )=164, 5160  ). holdsAt( appearance( id2 )=visible,  5160 ).
+0.365::holdsAt( orientation( id3 )=150, 5160  ). holdsAt( appearance( id3 )=visible,  5160 ).
+0.195::holdsAt( orientation( id4 )=0, 5160  ). holdsAt( appearance( id4 )=visible,  5160 ).
+
+% Frame number: 130
+0.21::holdsAt( orientation( id1 )=155, 5200  ). holdsAt( appearance( id1 )=visible,  5200 ).
+0.0735::holdsAt( orientation( id2 )=164, 5200  ). holdsAt( appearance( id2 )=visible,  5200 ).
+0.255::holdsAt( orientation( id3 )=154, 5200  ). holdsAt( appearance( id3 )=visible,  5200 ).
+0.156::holdsAt( orientation( id4 )=0, 5200  ). holdsAt( appearance( id4 )=visible,  5200 ).
+0.0167::holdsAt( orientation( id5 )=142, 5200  ). holdsAt( appearance( id5 )=appear,  5200 ).
+
+% Frame number: 131
+0.137::holdsAt( orientation( id1 )=155, 5240  ). holdsAt( appearance( id1 )=visible,  5240 ).
+0.518::holdsAt( orientation( id2 )=164, 5240  ). holdsAt( appearance( id2 )=visible,  5240 ).
+0.338::holdsAt( orientation( id3 )=154, 5240  ). holdsAt( appearance( id3 )=visible,  5240 ).
+0.177::holdsAt( orientation( id4 )=0, 5240  ). holdsAt( appearance( id4 )=visible,  5240 ).
+0.195::holdsAt( orientation( id5 )=142, 5240  ). holdsAt( appearance( id5 )=visible,  5240 ).
+
+% Frame number: 132
+0.0368::holdsAt( orientation( id1 )=155, 5280  ). holdsAt( appearance( id1 )=visible,  5280 ).
+0.0266::holdsAt( orientation( id2 )=164, 5280  ). holdsAt( appearance( id2 )=visible,  5280 ).
+0.129::holdsAt( orientation( id3 )=154, 5280  ). holdsAt( appearance( id3 )=visible,  5280 ).
+0.224::holdsAt( orientation( id4 )=0, 5280  ). holdsAt( appearance( id4 )=visible,  5280 ).
+0.156::holdsAt( orientation( id5 )=142, 5280  ). holdsAt( appearance( id5 )=visible,  5280 ).
+
+% Frame number: 133
+0.214::holdsAt( orientation( id1 )=155, 5320  ). holdsAt( appearance( id1 )=visible,  5320 ).
+0.0134::holdsAt( orientation( id2 )=164, 5320  ). holdsAt( appearance( id2 )=visible,  5320 ).
+0.651::holdsAt( orientation( id3 )=154, 5320  ). holdsAt( appearance( id3 )=visible,  5320 ).
+0.292::holdsAt( orientation( id4 )=0, 5320  ). holdsAt( appearance( id4 )=visible,  5320 ).
+0.194::holdsAt( orientation( id5 )=142, 5320  ). holdsAt( appearance( id5 )=visible,  5320 ).
+
+% Frame number: 134
+0.571::holdsAt( orientation( id1 )=155, 5360  ). holdsAt( appearance( id1 )=visible,  5360 ).
+0.441::holdsAt( orientation( id2 )=164, 5360  ). holdsAt( appearance( id2 )=visible,  5360 ).
+1.67e-05::holdsAt( orientation( id3 )=154, 5360  ). holdsAt( appearance( id3 )=visible,  5360 ).
+0.239::holdsAt( orientation( id4 )=0, 5360  ). holdsAt( appearance( id4 )=visible,  5360 ).
+0.204::holdsAt( orientation( id5 )=142, 5360  ). holdsAt( appearance( id5 )=visible,  5360 ).
+
+% Frame number: 135
+0.17::holdsAt( orientation( id1 )=155, 5400  ). holdsAt( appearance( id1 )=visible,  5400 ).
+0.022::holdsAt( orientation( id2 )=164, 5400  ). holdsAt( appearance( id2 )=disappear,  5400 ).
+0.453::holdsAt( orientation( id3 )=154, 5400  ). holdsAt( appearance( id3 )=visible,  5400 ).
+0.282::holdsAt( orientation( id4 )=0, 5400  ). holdsAt( appearance( id4 )=visible,  5400 ).
+0.105::holdsAt( orientation( id5 )=145, 5400  ). holdsAt( appearance( id5 )=visible,  5400 ).
+
+% Frame number: 136
+0.0144::holdsAt( orientation( id1 )=155, 5440  ). holdsAt( appearance( id1 )=visible,  5440 ).
+0.0219::holdsAt( orientation( id3 )=154, 5440  ). holdsAt( appearance( id3 )=visible,  5440 ).
+0.41::holdsAt( orientation( id4 )=0, 5440  ). holdsAt( appearance( id4 )=visible,  5440 ).
+0.0502::holdsAt( orientation( id5 )=145, 5440  ). holdsAt( appearance( id5 )=visible,  5440 ).
+
+% Frame number: 137
+0.247::holdsAt( orientation( id1 )=155, 5480  ). holdsAt( appearance( id1 )=visible,  5480 ).
+0.083::holdsAt( orientation( id3 )=154, 5480  ). holdsAt( appearance( id3 )=visible,  5480 ).
+0.028::holdsAt( orientation( id4 )=0, 5480  ). holdsAt( appearance( id4 )=visible,  5480 ).
+0.151::holdsAt( orientation( id5 )=145, 5480  ). holdsAt( appearance( id5 )=visible,  5480 ).
+
+% Frame number: 138
+0.478::holdsAt( orientation( id1 )=155, 5520  ). holdsAt( appearance( id1 )=visible,  5520 ).
+0.564::holdsAt( orientation( id3 )=154, 5520  ). holdsAt( appearance( id3 )=visible,  5520 ).
+0.0347::holdsAt( orientation( id4 )=0, 5520  ). holdsAt( appearance( id4 )=visible,  5520 ).
+0.783::holdsAt( orientation( id5 )=145, 5520  ). holdsAt( appearance( id5 )=visible,  5520 ).
+
+% Frame number: 139
+0.0163::holdsAt( orientation( id1 )=155, 5560  ). holdsAt( appearance( id1 )=visible,  5560 ).
+0.723::holdsAt( orientation( id3 )=154, 5560  ). holdsAt( appearance( id3 )=visible,  5560 ).
+0.409::holdsAt( orientation( id4 )=0, 5560  ). holdsAt( appearance( id4 )=visible,  5560 ).
+0.23::holdsAt( orientation( id5 )=145, 5560  ). holdsAt( appearance( id5 )=visible,  5560 ).
+
+% Frame number: 140
+0.0622::holdsAt( orientation( id1 )=155, 5600  ). holdsAt( appearance( id1 )=visible,  5600 ).
+0.00165::holdsAt( orientation( id3 )=154, 5600  ). holdsAt( appearance( id3 )=visible,  5600 ).
+0.0992::holdsAt( orientation( id4 )=0, 5600  ). holdsAt( appearance( id4 )=visible,  5600 ).
+0.191::holdsAt( orientation( id5 )=145, 5600  ). holdsAt( appearance( id5 )=visible,  5600 ).
+
+% Frame number: 141
+0.0755::holdsAt( orientation( id1 )=155, 5640  ). holdsAt( appearance( id1 )=visible,  5640 ).
+0.158::holdsAt( orientation( id3 )=154, 5640  ). holdsAt( appearance( id3 )=visible,  5640 ).
+0.123::holdsAt( orientation( id4 )=0, 5640  ). holdsAt( appearance( id4 )=visible,  5640 ).
+0.132::holdsAt( orientation( id5 )=145, 5640  ). holdsAt( appearance( id5 )=visible,  5640 ).
+
+% Frame number: 142
+0.523::holdsAt( orientation( id1 )=155, 5680  ). holdsAt( appearance( id1 )=visible,  5680 ).
+0.214::holdsAt( orientation( id3 )=154, 5680  ). holdsAt( appearance( id3 )=visible,  5680 ).
+0.137::holdsAt( orientation( id4 )=0, 5680  ). holdsAt( appearance( id4 )=visible,  5680 ).
+0.542::holdsAt( orientation( id5 )=145, 5680  ). holdsAt( appearance( id5 )=visible,  5680 ).
+
+% Frame number: 143
+0.538::holdsAt( orientation( id1 )=155, 5720  ). holdsAt( appearance( id1 )=visible,  5720 ).
+0.407::holdsAt( orientation( id3 )=154, 5720  ). holdsAt( appearance( id3 )=visible,  5720 ).
+0.0544::holdsAt( orientation( id4 )=0, 5720  ). holdsAt( appearance( id4 )=visible,  5720 ).
+0.242::holdsAt( orientation( id5 )=145, 5720  ). holdsAt( appearance( id5 )=visible,  5720 ).
+
+% Frame number: 144
+0.00636::holdsAt( orientation( id1 )=155, 5760  ). holdsAt( appearance( id1 )=visible,  5760 ).
+0.017::holdsAt( orientation( id3 )=154, 5760  ). holdsAt( appearance( id3 )=visible,  5760 ).
+0.383::holdsAt( orientation( id4 )=0, 5760  ). holdsAt( appearance( id4 )=visible,  5760 ).
+0.421::holdsAt( orientation( id5 )=145, 5760  ). holdsAt( appearance( id5 )=visible,  5760 ).
+
+% Frame number: 145
+0.0458::holdsAt( orientation( id1 )=155, 5800  ). holdsAt( appearance( id1 )=visible,  5800 ).
+0.218::holdsAt( orientation( id3 )=154, 5800  ). holdsAt( appearance( id3 )=visible,  5800 ).
+0.305::holdsAt( orientation( id4 )=0, 5800  ). holdsAt( appearance( id4 )=visible,  5800 ).
+0.401::holdsAt( orientation( id5 )=145, 5800  ). holdsAt( appearance( id5 )=visible,  5800 ).
+
+% Frame number: 146
+0.638::holdsAt( orientation( id1 )=155, 5840  ). holdsAt( appearance( id1 )=visible,  5840 ).
+0.104::holdsAt( orientation( id3 )=154, 5840  ). holdsAt( appearance( id3 )=visible,  5840 ).
+0.027::holdsAt( orientation( id4 )=0, 5840  ). holdsAt( appearance( id4 )=visible,  5840 ).
+0.236::holdsAt( orientation( id5 )=145, 5840  ). holdsAt( appearance( id5 )=visible,  5840 ).
+
+% Frame number: 147
+0.366::holdsAt( orientation( id1 )=155, 5880  ). holdsAt( appearance( id1 )=visible,  5880 ).
+0.511::holdsAt( orientation( id3 )=154, 5880  ). holdsAt( appearance( id3 )=visible,  5880 ).
+0.019::holdsAt( orientation( id4 )=0, 5880  ). holdsAt( appearance( id4 )=visible,  5880 ).
+0.107::holdsAt( orientation( id5 )=145, 5880  ). holdsAt( appearance( id5 )=visible,  5880 ).
+
+% Frame number: 148
+0.0141::holdsAt( orientation( id1 )=155, 5920  ). holdsAt( appearance( id1 )=visible,  5920 ).
+0.417::holdsAt( orientation( id3 )=154, 5920  ). holdsAt( appearance( id3 )=visible,  5920 ).
+0.74::holdsAt( orientation( id4 )=0, 5920  ). holdsAt( appearance( id4 )=visible,  5920 ).
+0.415::holdsAt( orientation( id5 )=145, 5920  ). holdsAt( appearance( id5 )=visible,  5920 ).
+
+% Frame number: 149
+0.476::holdsAt( orientation( id1 )=155, 5960  ). holdsAt( appearance( id1 )=visible,  5960 ).
+0.288::holdsAt( orientation( id3 )=154, 5960  ). holdsAt( appearance( id3 )=visible,  5960 ).
+0.236::holdsAt( orientation( id4 )=0, 5960  ). holdsAt( appearance( id4 )=visible,  5960 ).
+0.0815::holdsAt( orientation( id5 )=145, 5960  ). holdsAt( appearance( id5 )=visible,  5960 ).
+
+% Frame number: 150
+0.105::holdsAt( orientation( id1 )=155, 6000  ). holdsAt( appearance( id1 )=visible,  6000 ).
+0.634::holdsAt( orientation( id3 )=154, 6000  ). holdsAt( appearance( id3 )=visible,  6000 ).
+0.31::holdsAt( orientation( id4 )=0, 6000  ). holdsAt( appearance( id4 )=visible,  6000 ).
+0.599::holdsAt( orientation( id5 )=145, 6000  ). holdsAt( appearance( id5 )=visible,  6000 ).
+
+% Frame number: 151
+0.301::holdsAt( orientation( id1 )=155, 6040  ). holdsAt( appearance( id1 )=visible,  6040 ).
+0.0753::holdsAt( orientation( id3 )=154, 6040  ). holdsAt( appearance( id3 )=visible,  6040 ).
+0.0926::holdsAt( orientation( id4 )=0, 6040  ). holdsAt( appearance( id4 )=visible,  6040 ).
+0.048::holdsAt( orientation( id5 )=145, 6040  ). holdsAt( appearance( id5 )=visible,  6040 ).
+
+% Frame number: 152
+0.486::holdsAt( orientation( id1 )=155, 6080  ). holdsAt( appearance( id1 )=visible,  6080 ).
+0.265::holdsAt( orientation( id3 )=154, 6080  ). holdsAt( appearance( id3 )=visible,  6080 ).
+0.492::holdsAt( orientation( id4 )=0, 6080  ). holdsAt( appearance( id4 )=visible,  6080 ).
+0.778::holdsAt( orientation( id5 )=145, 6080  ). holdsAt( appearance( id5 )=visible,  6080 ).
+
+% Frame number: 153
+0.0799::holdsAt( orientation( id1 )=155, 6120  ). holdsAt( appearance( id1 )=visible,  6120 ).
+0.313::holdsAt( orientation( id3 )=154, 6120  ). holdsAt( appearance( id3 )=visible,  6120 ).
+0.0894::holdsAt( orientation( id4 )=0, 6120  ). holdsAt( appearance( id4 )=visible,  6120 ).
+0.0923::holdsAt( orientation( id5 )=145, 6120  ). holdsAt( appearance( id5 )=visible,  6120 ).
+
+% Frame number: 154
+0.234::holdsAt( orientation( id1 )=155, 6160  ). holdsAt( appearance( id1 )=visible,  6160 ).
+0.235::holdsAt( orientation( id3 )=154, 6160  ). holdsAt( appearance( id3 )=visible,  6160 ).
+0.12::holdsAt( orientation( id4 )=0, 6160  ). holdsAt( appearance( id4 )=visible,  6160 ).
+0.222::holdsAt( orientation( id5 )=145, 6160  ). holdsAt( appearance( id5 )=visible,  6160 ).
+
+% Frame number: 155
+0.076::holdsAt( orientation( id1 )=155, 6200  ). holdsAt( appearance( id1 )=visible,  6200 ).
+0.173::holdsAt( orientation( id3 )=154, 6200  ). holdsAt( appearance( id3 )=visible,  6200 ).
+0.229::holdsAt( orientation( id4 )=0, 6200  ). holdsAt( appearance( id4 )=visible,  6200 ).
+0.118::holdsAt( orientation( id5 )=145, 6200  ). holdsAt( appearance( id5 )=visible,  6200 ).
+
+% Frame number: 156
+0.0313::holdsAt( orientation( id1 )=155, 6240  ). holdsAt( appearance( id1 )=visible,  6240 ).
+0.314::holdsAt( orientation( id3 )=154, 6240  ). holdsAt( appearance( id3 )=visible,  6240 ).
+0.0515::holdsAt( orientation( id4 )=0, 6240  ). holdsAt( appearance( id4 )=visible,  6240 ).
+0.0589::holdsAt( orientation( id5 )=145, 6240  ). holdsAt( appearance( id5 )=visible,  6240 ).
+0.0999::holdsAt( orientation( id6 )=157, 6240  ). holdsAt( appearance( id6 )=appear,  6240 ).
+
+% Frame number: 157
+0.334::holdsAt( orientation( id1 )=155, 6280  ). holdsAt( appearance( id1 )=visible,  6280 ).
+0.187::holdsAt( orientation( id3 )=154, 6280  ). holdsAt( appearance( id3 )=visible,  6280 ).
+0.226::holdsAt( orientation( id4 )=0, 6280  ). holdsAt( appearance( id4 )=visible,  6280 ).
+0.585::holdsAt( orientation( id5 )=145, 6280  ). holdsAt( appearance( id5 )=visible,  6280 ).
+0.217::holdsAt( orientation( id6 )=157, 6280  ). holdsAt( appearance( id6 )=visible,  6280 ).
+
+% Frame number: 158
+0.0127::holdsAt( orientation( id1 )=155, 6320  ). holdsAt( appearance( id1 )=visible,  6320 ).
+0.127::holdsAt( orientation( id3 )=154, 6320  ). holdsAt( appearance( id3 )=visible,  6320 ).
+0.439::holdsAt( orientation( id4 )=0, 6320  ). holdsAt( appearance( id4 )=visible,  6320 ).
+0.212::holdsAt( orientation( id5 )=145, 6320  ). holdsAt( appearance( id5 )=visible,  6320 ).
+0.408::holdsAt( orientation( id6 )=146, 6320  ). holdsAt( appearance( id6 )=visible,  6320 ).
+
+% Frame number: 159
+0.427::holdsAt( orientation( id1 )=155, 6360  ). holdsAt( appearance( id1 )=visible,  6360 ).
+0.464::holdsAt( orientation( id3 )=154, 6360  ). holdsAt( appearance( id3 )=visible,  6360 ).
+0.123::holdsAt( orientation( id4 )=0, 6360  ). holdsAt( appearance( id4 )=visible,  6360 ).
+0.658::holdsAt( orientation( id5 )=145, 6360  ). holdsAt( appearance( id5 )=visible,  6360 ).
+0.596::holdsAt( orientation( id6 )=146, 6360  ). holdsAt( appearance( id6 )=visible,  6360 ).
+
+% Frame number: 160
+0.158::holdsAt( orientation( id1 )=155, 6400  ). holdsAt( appearance( id1 )=visible,  6400 ).
+0.0583::holdsAt( orientation( id3 )=154, 6400  ). holdsAt( appearance( id3 )=visible,  6400 ).
+0.177::holdsAt( orientation( id4 )=0, 6400  ). holdsAt( appearance( id4 )=visible,  6400 ).
+0.00404::holdsAt( orientation( id5 )=145, 6400  ). holdsAt( appearance( id5 )=visible,  6400 ).
+0.457::holdsAt( orientation( id6 )=146, 6400  ). holdsAt( appearance( id6 )=visible,  6400 ).
+
+% Frame number: 161
+0.129::holdsAt( orientation( id1 )=155, 6440  ). holdsAt( appearance( id1 )=visible,  6440 ).
+0.124::holdsAt( orientation( id3 )=154, 6440  ). holdsAt( appearance( id3 )=visible,  6440 ).
+0.412::holdsAt( orientation( id4 )=0, 6440  ). holdsAt( appearance( id4 )=visible,  6440 ).
+0.384::holdsAt( orientation( id5 )=145, 6440  ). holdsAt( appearance( id5 )=visible,  6440 ).
+0.352::holdsAt( orientation( id6 )=146, 6440  ). holdsAt( appearance( id6 )=visible,  6440 ).
+
+% Frame number: 162
+0.309::holdsAt( orientation( id1 )=155, 6480  ). holdsAt( appearance( id1 )=visible,  6480 ).
+0.207::holdsAt( orientation( id3 )=154, 6480  ). holdsAt( appearance( id3 )=visible,  6480 ).
+0.356::holdsAt( orientation( id4 )=0, 6480  ). holdsAt( appearance( id4 )=visible,  6480 ).
+0.454::holdsAt( orientation( id5 )=145, 6480  ). holdsAt( appearance( id5 )=visible,  6480 ).
+0.0393::holdsAt( orientation( id6 )=146, 6480  ). holdsAt( appearance( id6 )=visible,  6480 ).
+
+% Frame number: 163
+0.423::holdsAt( orientation( id1 )=155, 6520  ). holdsAt( appearance( id1 )=visible,  6520 ).
+0.701::holdsAt( orientation( id3 )=154, 6520  ). holdsAt( appearance( id3 )=visible,  6520 ).
+0.0319::holdsAt( orientation( id4 )=0, 6520  ). holdsAt( appearance( id4 )=visible,  6520 ).
+0.465::holdsAt( orientation( id5 )=145, 6520  ). holdsAt( appearance( id5 )=visible,  6520 ).
+0.155::holdsAt( orientation( id6 )=146, 6520  ). holdsAt( appearance( id6 )=visible,  6520 ).
+
+% Frame number: 164
+0.027::holdsAt( orientation( id1 )=155, 6560  ). holdsAt( appearance( id1 )=visible,  6560 ).
+0.182::holdsAt( orientation( id3 )=154, 6560  ). holdsAt( appearance( id3 )=visible,  6560 ).
+0.00307::holdsAt( orientation( id4 )=0, 6560  ). holdsAt( appearance( id4 )=visible,  6560 ).
+0.224::holdsAt( orientation( id5 )=145, 6560  ). holdsAt( appearance( id5 )=visible,  6560 ).
+0.288::holdsAt( orientation( id6 )=146, 6560  ). holdsAt( appearance( id6 )=visible,  6560 ).
+
+% Frame number: 165
+0.00149::holdsAt( orientation( id1 )=155, 6600  ). holdsAt( appearance( id1 )=visible,  6600 ).
+0.279::holdsAt( orientation( id3 )=154, 6600  ). holdsAt( appearance( id3 )=visible,  6600 ).
+0.229::holdsAt( orientation( id4 )=0, 6600  ). holdsAt( appearance( id4 )=visible,  6600 ).
+0.148::holdsAt( orientation( id5 )=145, 6600  ). holdsAt( appearance( id5 )=visible,  6600 ).
+0.124::holdsAt( orientation( id6 )=146, 6600  ). holdsAt( appearance( id6 )=visible,  6600 ).
+
+% Frame number: 166
+0.0388::holdsAt( orientation( id1 )=155, 6640  ). holdsAt( appearance( id1 )=visible,  6640 ).
+0.253::holdsAt( orientation( id3 )=154, 6640  ). holdsAt( appearance( id3 )=visible,  6640 ).
+0.156::holdsAt( orientation( id4 )=0, 6640  ). holdsAt( appearance( id4 )=visible,  6640 ).
+0.0696::holdsAt( orientation( id5 )=145, 6640  ). holdsAt( appearance( id5 )=visible,  6640 ).
+0.342::holdsAt( orientation( id6 )=146, 6640  ). holdsAt( appearance( id6 )=visible,  6640 ).
+
+% Frame number: 167
+0.169::holdsAt( orientation( id1 )=155, 6680  ). holdsAt( appearance( id1 )=visible,  6680 ).
+0.27::holdsAt( orientation( id3 )=154, 6680  ). holdsAt( appearance( id3 )=visible,  6680 ).
+0.544::holdsAt( orientation( id4 )=0, 6680  ). holdsAt( appearance( id4 )=visible,  6680 ).
+0.287::holdsAt( orientation( id5 )=145, 6680  ). holdsAt( appearance( id5 )=visible,  6680 ).
+0.12::holdsAt( orientation( id6 )=146, 6680  ). holdsAt( appearance( id6 )=visible,  6680 ).
+
+% Frame number: 168
+0.013::holdsAt( orientation( id1 )=155, 6720  ). holdsAt( appearance( id1 )=visible,  6720 ).
+0.251::holdsAt( orientation( id3 )=154, 6720  ). holdsAt( appearance( id3 )=visible,  6720 ).
+0.152::holdsAt( orientation( id4 )=0, 6720  ). holdsAt( appearance( id4 )=visible,  6720 ).
+0.195::holdsAt( orientation( id5 )=145, 6720  ). holdsAt( appearance( id5 )=visible,  6720 ).
+0.274::holdsAt( orientation( id6 )=146, 6720  ). holdsAt( appearance( id6 )=visible,  6720 ).
+
+% Frame number: 169
+0.303::holdsAt( orientation( id1 )=155, 6760  ). holdsAt( appearance( id1 )=visible,  6760 ).
+0.123::holdsAt( orientation( id3 )=154, 6760  ). holdsAt( appearance( id3 )=visible,  6760 ).
+0.404::holdsAt( orientation( id4 )=0, 6760  ). holdsAt( appearance( id4 )=visible,  6760 ).
+0.0401::holdsAt( orientation( id5 )=145, 6760  ). holdsAt( appearance( id5 )=visible,  6760 ).
+0.0466::holdsAt( orientation( id6 )=146, 6760  ). holdsAt( appearance( id6 )=visible,  6760 ).
+
+% Frame number: 170
+0.0965::holdsAt( orientation( id1 )=155, 6800  ). holdsAt( appearance( id1 )=visible,  6800 ).
+0.0763::holdsAt( orientation( id3 )=154, 6800  ). holdsAt( appearance( id3 )=visible,  6800 ).
+0.237::holdsAt( orientation( id4 )=0, 6800  ). holdsAt( appearance( id4 )=visible,  6800 ).
+0.277::holdsAt( orientation( id5 )=145, 6800  ). holdsAt( appearance( id5 )=visible,  6800 ).
+0.251::holdsAt( orientation( id6 )=146, 6800  ). holdsAt( appearance( id6 )=visible,  6800 ).
+
+% Frame number: 171
+0.251::holdsAt( orientation( id1 )=155, 6840  ). holdsAt( appearance( id1 )=visible,  6840 ).
+0.264::holdsAt( orientation( id3 )=154, 6840  ). holdsAt( appearance( id3 )=visible,  6840 ).
+0.0432::holdsAt( orientation( id4 )=0, 6840  ). holdsAt( appearance( id4 )=visible,  6840 ).
+0.148::holdsAt( orientation( id5 )=145, 6840  ). holdsAt( appearance( id5 )=visible,  6840 ).
+0.588::holdsAt( orientation( id6 )=146, 6840  ). holdsAt( appearance( id6 )=visible,  6840 ).
+
+% Frame number: 172
+0.0801::holdsAt( orientation( id1 )=155, 6880  ). holdsAt( appearance( id1 )=visible,  6880 ).
+0.0659::holdsAt( orientation( id3 )=154, 6880  ). holdsAt( appearance( id3 )=visible,  6880 ).
+0.827::holdsAt( orientation( id4 )=0, 6880  ). holdsAt( appearance( id4 )=visible,  6880 ).
+0.00972::holdsAt( orientation( id5 )=145, 6880  ). holdsAt( appearance( id5 )=visible,  6880 ).
+0.248::holdsAt( orientation( id6 )=146, 6880  ). holdsAt( appearance( id6 )=visible,  6880 ).
+
+% Frame number: 173
+0.0642::holdsAt( orientation( id1 )=155, 6920  ). holdsAt( appearance( id1 )=visible,  6920 ).
+0.339::holdsAt( orientation( id3 )=154, 6920  ). holdsAt( appearance( id3 )=visible,  6920 ).
+0.0724::holdsAt( orientation( id4 )=0, 6920  ). holdsAt( appearance( id4 )=visible,  6920 ).
+0.0478::holdsAt( orientation( id5 )=145, 6920  ). holdsAt( appearance( id5 )=visible,  6920 ).
+0.349::holdsAt( orientation( id6 )=146, 6920  ). holdsAt( appearance( id6 )=visible,  6920 ).
+
+% Frame number: 174
+0.405::holdsAt( orientation( id1 )=155, 6960  ). holdsAt( appearance( id1 )=visible,  6960 ).
+0.37::holdsAt( orientation( id3 )=154, 6960  ). holdsAt( appearance( id3 )=visible,  6960 ).
+0.0846::holdsAt( orientation( id4 )=0, 6960  ). holdsAt( appearance( id4 )=visible,  6960 ).
+0.227::holdsAt( orientation( id5 )=145, 6960  ). holdsAt( appearance( id5 )=visible,  6960 ).
+0.23::holdsAt( orientation( id6 )=140, 6960  ). holdsAt( appearance( id6 )=visible,  6960 ).
+
+% Frame number: 175
+0.252::holdsAt( orientation( id1 )=155, 7000  ). holdsAt( appearance( id1 )=visible,  7000 ).
+0.762::holdsAt( orientation( id3 )=154, 7000  ). holdsAt( appearance( id3 )=visible,  7000 ).
+0.202::holdsAt( orientation( id4 )=0, 7000  ). holdsAt( appearance( id4 )=visible,  7000 ).
+0.0222::holdsAt( orientation( id5 )=145, 7000  ). holdsAt( appearance( id5 )=visible,  7000 ).
+0.539::holdsAt( orientation( id6 )=140, 7000  ). holdsAt( appearance( id6 )=visible,  7000 ).
+
+% Frame number: 176
+0.236::holdsAt( orientation( id1 )=155, 7040  ). holdsAt( appearance( id1 )=visible,  7040 ).
+0.0215::holdsAt( orientation( id3 )=154, 7040  ). holdsAt( appearance( id3 )=visible,  7040 ).
+0.372::holdsAt( orientation( id4 )=0, 7040  ). holdsAt( appearance( id4 )=visible,  7040 ).
+0.216::holdsAt( orientation( id5 )=145, 7040  ). holdsAt( appearance( id5 )=visible,  7040 ).
+0.0348::holdsAt( orientation( id6 )=140, 7040  ). holdsAt( appearance( id6 )=visible,  7040 ).
+
+% Frame number: 177
+0.437::holdsAt( orientation( id1 )=155, 7080  ). holdsAt( appearance( id1 )=visible,  7080 ).
+0.44::holdsAt( orientation( id3 )=154, 7080  ). holdsAt( appearance( id3 )=visible,  7080 ).
+0.356::holdsAt( orientation( id4 )=0, 7080  ). holdsAt( appearance( id4 )=visible,  7080 ).
+0.393::holdsAt( orientation( id5 )=145, 7080  ). holdsAt( appearance( id5 )=visible,  7080 ).
+0.0739::holdsAt( orientation( id6 )=140, 7080  ). holdsAt( appearance( id6 )=visible,  7080 ).
+
+% Frame number: 178
+0.035::holdsAt( orientation( id1 )=155, 7120  ). holdsAt( appearance( id1 )=visible,  7120 ).
+0.0291::holdsAt( orientation( id3 )=154, 7120  ). holdsAt( appearance( id3 )=visible,  7120 ).
+0.193::holdsAt( orientation( id4 )=0, 7120  ). holdsAt( appearance( id4 )=visible,  7120 ).
+0.274::holdsAt( orientation( id5 )=145, 7120  ). holdsAt( appearance( id5 )=visible,  7120 ).
+0.442::holdsAt( orientation( id6 )=140, 7120  ). holdsAt( appearance( id6 )=visible,  7120 ).
+
+% Frame number: 179
+0.0601::holdsAt( orientation( id1 )=155, 7160  ). holdsAt( appearance( id1 )=visible,  7160 ).
+0.387::holdsAt( orientation( id3 )=154, 7160  ). holdsAt( appearance( id3 )=visible,  7160 ).
+0.054::holdsAt( orientation( id4 )=0, 7160  ). holdsAt( appearance( id4 )=visible,  7160 ).
+0.0466::holdsAt( orientation( id5 )=145, 7160  ). holdsAt( appearance( id5 )=visible,  7160 ).
+0.127::holdsAt( orientation( id6 )=140, 7160  ). holdsAt( appearance( id6 )=visible,  7160 ).
+
+% Frame number: 180
+0.0388::holdsAt( orientation( id1 )=155, 7200  ). holdsAt( appearance( id1 )=visible,  7200 ).
+0.217::holdsAt( orientation( id3 )=154, 7200  ). holdsAt( appearance( id3 )=visible,  7200 ).
+0.722::holdsAt( orientation( id4 )=0, 7200  ). holdsAt( appearance( id4 )=visible,  7200 ).
+0.0507::holdsAt( orientation( id5 )=145, 7200  ). holdsAt( appearance( id5 )=visible,  7200 ).
+0.0282::holdsAt( orientation( id6 )=140, 7200  ). holdsAt( appearance( id6 )=visible,  7200 ).
+
+% Frame number: 181
+0.143::holdsAt( orientation( id1 )=155, 7240  ). holdsAt( appearance( id1 )=visible,  7240 ).
+0.155::holdsAt( orientation( id3 )=154, 7240  ). holdsAt( appearance( id3 )=visible,  7240 ).
+0.189::holdsAt( orientation( id4 )=0, 7240  ). holdsAt( appearance( id4 )=visible,  7240 ).
+0.282::holdsAt( orientation( id5 )=145, 7240  ). holdsAt( appearance( id5 )=visible,  7240 ).
+0.0871::holdsAt( orientation( id6 )=140, 7240  ). holdsAt( appearance( id6 )=visible,  7240 ).
+
+% Frame number: 182
+0.0258::holdsAt( orientation( id1 )=155, 7280  ). holdsAt( appearance( id1 )=visible,  7280 ).
+0.42::holdsAt( orientation( id3 )=154, 7280  ). holdsAt( appearance( id3 )=visible,  7280 ).
+0.135::holdsAt( orientation( id4 )=0, 7280  ). holdsAt( appearance( id4 )=visible,  7280 ).
+0.0424::holdsAt( orientation( id5 )=145, 7280  ). holdsAt( appearance( id5 )=visible,  7280 ).
+0.184::holdsAt( orientation( id6 )=140, 7280  ). holdsAt( appearance( id6 )=visible,  7280 ).
+
+% Frame number: 183
+0.225::holdsAt( orientation( id1 )=155, 7320  ). holdsAt( appearance( id1 )=visible,  7320 ).
+0.0191::holdsAt( orientation( id3 )=154, 7320  ). holdsAt( appearance( id3 )=visible,  7320 ).
+0.0111::holdsAt( orientation( id4 )=0, 7320  ). holdsAt( appearance( id4 )=visible,  7320 ).
+0.0559::holdsAt( orientation( id5 )=145, 7320  ). holdsAt( appearance( id5 )=visible,  7320 ).
+0.259::holdsAt( orientation( id6 )=140, 7320  ). holdsAt( appearance( id6 )=visible,  7320 ).
+
+% Frame number: 184
+0.454::holdsAt( orientation( id1 )=155, 7360  ). holdsAt( appearance( id1 )=visible,  7360 ).
+0.175::holdsAt( orientation( id3 )=154, 7360  ). holdsAt( appearance( id3 )=visible,  7360 ).
+0.604::holdsAt( orientation( id4 )=0, 7360  ). holdsAt( appearance( id4 )=visible,  7360 ).
+0.118::holdsAt( orientation( id5 )=145, 7360  ). holdsAt( appearance( id5 )=visible,  7360 ).
+0.239::holdsAt( orientation( id6 )=140, 7360  ). holdsAt( appearance( id6 )=visible,  7360 ).
+
+% Frame number: 185
+0.435::holdsAt( orientation( id1 )=155, 7400  ). holdsAt( appearance( id1 )=visible,  7400 ).
+0.194::holdsAt( orientation( id3 )=154, 7400  ). holdsAt( appearance( id3 )=visible,  7400 ).
+0.224::holdsAt( orientation( id4 )=0, 7400  ). holdsAt( appearance( id4 )=visible,  7400 ).
+0.235::holdsAt( orientation( id5 )=145, 7400  ). holdsAt( appearance( id5 )=visible,  7400 ).
+0.23::holdsAt( orientation( id6 )=140, 7400  ). holdsAt( appearance( id6 )=visible,  7400 ).
+
+% Frame number: 186
+0.0216::holdsAt( orientation( id1 )=155, 7440  ). holdsAt( appearance( id1 )=visible,  7440 ).
+0.172::holdsAt( orientation( id3 )=154, 7440  ). holdsAt( appearance( id3 )=visible,  7440 ).
+0.641::holdsAt( orientation( id4 )=0, 7440  ). holdsAt( appearance( id4 )=visible,  7440 ).
+0.382::holdsAt( orientation( id5 )=145, 7440  ). holdsAt( appearance( id5 )=visible,  7440 ).
+0.178::holdsAt( orientation( id6 )=140, 7440  ). holdsAt( appearance( id6 )=visible,  7440 ).
+
+% Frame number: 187
+0.112::holdsAt( orientation( id1 )=155, 7480  ). holdsAt( appearance( id1 )=visible,  7480 ).
+0.301::holdsAt( orientation( id3 )=154, 7480  ). holdsAt( appearance( id3 )=visible,  7480 ).
+0.0656::holdsAt( orientation( id4 )=0, 7480  ). holdsAt( appearance( id4 )=visible,  7480 ).
+0.213::holdsAt( orientation( id5 )=145, 7480  ). holdsAt( appearance( id5 )=visible,  7480 ).
+0.318::holdsAt( orientation( id6 )=140, 7480  ). holdsAt( appearance( id6 )=visible,  7480 ).
+
+% Frame number: 188
+0.346::holdsAt( orientation( id1 )=155, 7520  ). holdsAt( appearance( id1 )=visible,  7520 ).
+0.0214::holdsAt( orientation( id3 )=154, 7520  ). holdsAt( appearance( id3 )=visible,  7520 ).
+0.348::holdsAt( orientation( id4 )=0, 7520  ). holdsAt( appearance( id4 )=visible,  7520 ).
+0.627::holdsAt( orientation( id5 )=145, 7520  ). holdsAt( appearance( id5 )=visible,  7520 ).
+0.304::holdsAt( orientation( id6 )=140, 7520  ). holdsAt( appearance( id6 )=visible,  7520 ).
+
+% Frame number: 189
+0.111::holdsAt( orientation( id1 )=155, 7560  ). holdsAt( appearance( id1 )=visible,  7560 ).
+0.101::holdsAt( orientation( id3 )=154, 7560  ). holdsAt( appearance( id3 )=visible,  7560 ).
+0.0934::holdsAt( orientation( id4 )=0, 7560  ). holdsAt( appearance( id4 )=visible,  7560 ).
+0.168::holdsAt( orientation( id5 )=145, 7560  ). holdsAt( appearance( id5 )=visible,  7560 ).
+0.065::holdsAt( orientation( id6 )=140, 7560  ). holdsAt( appearance( id6 )=visible,  7560 ).
+
+% Frame number: 190
+0.265::holdsAt( orientation( id1 )=155, 7600  ). holdsAt( appearance( id1 )=visible,  7600 ).
+0.122::holdsAt( orientation( id3 )=154, 7600  ). holdsAt( appearance( id3 )=visible,  7600 ).
+0.57::holdsAt( orientation( id4 )=0, 7600  ). holdsAt( appearance( id4 )=visible,  7600 ).
+0.239::holdsAt( orientation( id5 )=145, 7600  ). holdsAt( appearance( id5 )=visible,  7600 ).
+0.216::holdsAt( orientation( id6 )=140, 7600  ). holdsAt( appearance( id6 )=visible,  7600 ).
+
+% Frame number: 191
+0.487::holdsAt( orientation( id1 )=155, 7640  ). holdsAt( appearance( id1 )=visible,  7640 ).
+0.0381::holdsAt( orientation( id3 )=158, 7640  ). holdsAt( appearance( id3 )=visible,  7640 ).
+0.0164::holdsAt( orientation( id4 )=0, 7640  ). holdsAt( appearance( id4 )=visible,  7640 ).
+0.0919::holdsAt( orientation( id5 )=145, 7640  ). holdsAt( appearance( id5 )=visible,  7640 ).
+0.00909::holdsAt( orientation( id6 )=140, 7640  ). holdsAt( appearance( id6 )=visible,  7640 ).
+
+% Frame number: 192
+0.267::holdsAt( orientation( id1 )=155, 7680  ). holdsAt( appearance( id1 )=visible,  7680 ).
+0.291::holdsAt( orientation( id3 )=160, 7680  ). holdsAt( appearance( id3 )=visible,  7680 ).
+0.351::holdsAt( orientation( id4 )=0, 7680  ). holdsAt( appearance( id4 )=visible,  7680 ).
+0.0461::holdsAt( orientation( id5 )=145, 7680  ). holdsAt( appearance( id5 )=visible,  7680 ).
+0.107::holdsAt( orientation( id6 )=140, 7680  ). holdsAt( appearance( id6 )=visible,  7680 ).
+
+% Frame number: 193
+0.767::holdsAt( orientation( id1 )=155, 7720  ). holdsAt( appearance( id1 )=visible,  7720 ).
+0.0972::holdsAt( orientation( id3 )=163, 7720  ). holdsAt( appearance( id3 )=visible,  7720 ).
+0.477::holdsAt( orientation( id4 )=0, 7720  ). holdsAt( appearance( id4 )=visible,  7720 ).
+0.471::holdsAt( orientation( id5 )=145, 7720  ). holdsAt( appearance( id5 )=visible,  7720 ).
+0.0904::holdsAt( orientation( id6 )=140, 7720  ). holdsAt( appearance( id6 )=visible,  7720 ).
+
+% Frame number: 194
+0.221::holdsAt( orientation( id1 )=155, 7760  ). holdsAt( appearance( id1 )=visible,  7760 ).
+0.0559::holdsAt( orientation( id3 )=162, 7760  ). holdsAt( appearance( id3 )=visible,  7760 ).
+0.341::holdsAt( orientation( id4 )=0, 7760  ). holdsAt( appearance( id4 )=visible,  7760 ).
+0.127::holdsAt( orientation( id5 )=145, 7760  ). holdsAt( appearance( id5 )=visible,  7760 ).
+0.0988::holdsAt( orientation( id6 )=140, 7760  ). holdsAt( appearance( id6 )=visible,  7760 ).
+
+% Frame number: 195
+0.496::holdsAt( orientation( id1 )=155, 7800  ). holdsAt( appearance( id1 )=visible,  7800 ).
+0.0279::holdsAt( orientation( id3 )=161, 7800  ). holdsAt( appearance( id3 )=visible,  7800 ).
+0.188::holdsAt( orientation( id4 )=0, 7800  ). holdsAt( appearance( id4 )=visible,  7800 ).
+0.409::holdsAt( orientation( id5 )=145, 7800  ). holdsAt( appearance( id5 )=visible,  7800 ).
+0.106::holdsAt( orientation( id6 )=140, 7800  ). holdsAt( appearance( id6 )=visible,  7800 ).
+
+% Frame number: 196
+0.0128::holdsAt( orientation( id1 )=155, 7840  ). holdsAt( appearance( id1 )=visible,  7840 ).
+0.599::holdsAt( orientation( id3 )=162, 7840  ). holdsAt( appearance( id3 )=visible,  7840 ).
+0.00353::holdsAt( orientation( id4 )=0, 7840  ). holdsAt( appearance( id4 )=visible,  7840 ).
+0.0941::holdsAt( orientation( id5 )=145, 7840  ). holdsAt( appearance( id5 )=visible,  7840 ).
+0.163::holdsAt( orientation( id6 )=140, 7840  ). holdsAt( appearance( id6 )=visible,  7840 ).
+
+% Frame number: 197
+0.376::holdsAt( orientation( id1 )=155, 7880  ). holdsAt( appearance( id1 )=visible,  7880 ).
+0.261::holdsAt( orientation( id3 )=162, 7880  ). holdsAt( appearance( id3 )=visible,  7880 ).
+0.0855::holdsAt( orientation( id4 )=0, 7880  ). holdsAt( appearance( id4 )=visible,  7880 ).
+0.095::holdsAt( orientation( id5 )=158, 7880  ). holdsAt( appearance( id5 )=visible,  7880 ).
+0.262::holdsAt( orientation( id6 )=140, 7880  ). holdsAt( appearance( id6 )=visible,  7880 ).
+
+% Frame number: 198
+0.105::holdsAt( orientation( id1 )=155, 7920  ). holdsAt( appearance( id1 )=visible,  7920 ).
+0.0178::holdsAt( orientation( id3 )=162, 7920  ). holdsAt( appearance( id3 )=visible,  7920 ).
+0.18::holdsAt( orientation( id4 )=0, 7920  ). holdsAt( appearance( id4 )=visible,  7920 ).
+0.66::holdsAt( orientation( id5 )=158, 7920  ). holdsAt( appearance( id5 )=visible,  7920 ).
+0.205::holdsAt( orientation( id6 )=140, 7920  ). holdsAt( appearance( id6 )=visible,  7920 ).
+
+% Frame number: 199
+0.0582::holdsAt( orientation( id1 )=155, 7960  ). holdsAt( appearance( id1 )=visible,  7960 ).
+0.0894::holdsAt( orientation( id3 )=162, 7960  ). holdsAt( appearance( id3 )=visible,  7960 ).
+0.329::holdsAt( orientation( id4 )=0, 7960  ). holdsAt( appearance( id4 )=visible,  7960 ).
+0.0644::holdsAt( orientation( id5 )=161, 7960  ). holdsAt( appearance( id5 )=visible,  7960 ).
+0.492::holdsAt( orientation( id6 )=140, 7960  ). holdsAt( appearance( id6 )=visible,  7960 ).
+
+% Frame number: 200
+0.238::holdsAt( orientation( id1 )=155, 8000  ). holdsAt( appearance( id1 )=visible,  8000 ).
+0.59::holdsAt( orientation( id3 )=162, 8000  ). holdsAt( appearance( id3 )=visible,  8000 ).
+0.133::holdsAt( orientation( id4 )=0, 8000  ). holdsAt( appearance( id4 )=visible,  8000 ).
+0.239::holdsAt( orientation( id5 )=161, 8000  ). holdsAt( appearance( id5 )=visible,  8000 ).
+0.0823::holdsAt( orientation( id6 )=140, 8000  ). holdsAt( appearance( id6 )=visible,  8000 ).
+
+% Frame number: 201
+0.429::holdsAt( orientation( id1 )=155, 8040  ). holdsAt( appearance( id1 )=visible,  8040 ).
+0.245::holdsAt( orientation( id3 )=162, 8040  ). holdsAt( appearance( id3 )=visible,  8040 ).
+0.0488::holdsAt( orientation( id4 )=0, 8040  ). holdsAt( appearance( id4 )=visible,  8040 ).
+0.58::holdsAt( orientation( id5 )=161, 8040  ). holdsAt( appearance( id5 )=visible,  8040 ).
+0.189::holdsAt( orientation( id6 )=140, 8040  ). holdsAt( appearance( id6 )=visible,  8040 ).
+
+% Frame number: 202
+0.333::holdsAt( orientation( id1 )=155, 8080  ). holdsAt( appearance( id1 )=visible,  8080 ).
+0.282::holdsAt( orientation( id3 )=162, 8080  ). holdsAt( appearance( id3 )=visible,  8080 ).
+0.0542::holdsAt( orientation( id4 )=0, 8080  ). holdsAt( appearance( id4 )=visible,  8080 ).
+0.0857::holdsAt( orientation( id5 )=161, 8080  ). holdsAt( appearance( id5 )=visible,  8080 ).
+0.243::holdsAt( orientation( id6 )=140, 8080  ). holdsAt( appearance( id6 )=visible,  8080 ).
+
+% Frame number: 203
+0.0441::holdsAt( orientation( id1 )=155, 8120  ). holdsAt( appearance( id1 )=visible,  8120 ).
+0.771::holdsAt( orientation( id3 )=162, 8120  ). holdsAt( appearance( id3 )=visible,  8120 ).
+0.219::holdsAt( orientation( id4 )=0, 8120  ). holdsAt( appearance( id4 )=visible,  8120 ).
+0.118::holdsAt( orientation( id5 )=161, 8120  ). holdsAt( appearance( id5 )=visible,  8120 ).
+0.0317::holdsAt( orientation( id6 )=140, 8120  ). holdsAt( appearance( id6 )=visible,  8120 ).
+
+% Frame number: 204
+0.105::holdsAt( orientation( id1 )=155, 8160  ). holdsAt( appearance( id1 )=visible,  8160 ).
+0.246::holdsAt( orientation( id3 )=162, 8160  ). holdsAt( appearance( id3 )=visible,  8160 ).
+0.0826::holdsAt( orientation( id4 )=0, 8160  ). holdsAt( appearance( id4 )=visible,  8160 ).
+0.171::holdsAt( orientation( id5 )=161, 8160  ). holdsAt( appearance( id5 )=visible,  8160 ).
+0.268::holdsAt( orientation( id6 )=140, 8160  ). holdsAt( appearance( id6 )=visible,  8160 ).
+
+% Frame number: 205
+0.204::holdsAt( orientation( id1 )=155, 8200  ). holdsAt( appearance( id1 )=visible,  8200 ).
+0.326::holdsAt( orientation( id3 )=162, 8200  ). holdsAt( appearance( id3 )=visible,  8200 ).
+0.104::holdsAt( orientation( id4 )=0, 8200  ). holdsAt( appearance( id4 )=disappear,  8200 ).
+0.0177::holdsAt( orientation( id5 )=161, 8200  ). holdsAt( appearance( id5 )=visible,  8200 ).
+0.209::holdsAt( orientation( id6 )=146, 8200  ). holdsAt( appearance( id6 )=visible,  8200 ).
+
+% Frame number: 206
+0.192::holdsAt( orientation( id1 )=155, 8240  ). holdsAt( appearance( id1 )=visible,  8240 ).
+0.147::holdsAt( orientation( id3 )=162, 8240  ). holdsAt( appearance( id3 )=visible,  8240 ).
+0.597::holdsAt( orientation( id5 )=161, 8240  ). holdsAt( appearance( id5 )=visible,  8240 ).
+0.216::holdsAt( orientation( id6 )=146, 8240  ). holdsAt( appearance( id6 )=visible,  8240 ).
+
+% Frame number: 207
+0.0735::holdsAt( orientation( id1 )=155, 8280  ). holdsAt( appearance( id1 )=visible,  8280 ).
+0.335::holdsAt( orientation( id3 )=162, 8280  ). holdsAt( appearance( id3 )=visible,  8280 ).
+0.569::holdsAt( orientation( id5 )=161, 8280  ). holdsAt( appearance( id5 )=visible,  8280 ).
+0.0323::holdsAt( orientation( id6 )=146, 8280  ). holdsAt( appearance( id6 )=visible,  8280 ).
+
+% Frame number: 208
+0.0711::holdsAt( orientation( id1 )=155, 8320  ). holdsAt( appearance( id1 )=visible,  8320 ).
+0.359::holdsAt( orientation( id3 )=162, 8320  ). holdsAt( appearance( id3 )=visible,  8320 ).
+0.293::holdsAt( orientation( id5 )=161, 8320  ). holdsAt( appearance( id5 )=visible,  8320 ).
+0.542::holdsAt( orientation( id6 )=146, 8320  ). holdsAt( appearance( id6 )=visible,  8320 ).
+
+% Frame number: 209
+0.117::holdsAt( orientation( id1 )=155, 8360  ). holdsAt( appearance( id1 )=visible,  8360 ).
+0.0782::holdsAt( orientation( id3 )=162, 8360  ). holdsAt( appearance( id3 )=visible,  8360 ).
+0.354::holdsAt( orientation( id5 )=161, 8360  ). holdsAt( appearance( id5 )=visible,  8360 ).
+0.319::holdsAt( orientation( id6 )=146, 8360  ). holdsAt( appearance( id6 )=visible,  8360 ).
+
+% Frame number: 210
+0.0801::holdsAt( orientation( id1 )=155, 8400  ). holdsAt( appearance( id1 )=visible,  8400 ).
+0.161::holdsAt( orientation( id3 )=162, 8400  ). holdsAt( appearance( id3 )=visible,  8400 ).
+0.0545::holdsAt( orientation( id5 )=161, 8400  ). holdsAt( appearance( id5 )=visible,  8400 ).
+0.24::holdsAt( orientation( id6 )=146, 8400  ). holdsAt( appearance( id6 )=visible,  8400 ).
+
+% Frame number: 211
+0.0853::holdsAt( orientation( id1 )=155, 8440  ). holdsAt( appearance( id1 )=visible,  8440 ).
+0.296::holdsAt( orientation( id3 )=162, 8440  ). holdsAt( appearance( id3 )=visible,  8440 ).
+0.321::holdsAt( orientation( id5 )=161, 8440  ). holdsAt( appearance( id5 )=visible,  8440 ).
+0.0416::holdsAt( orientation( id6 )=146, 8440  ). holdsAt( appearance( id6 )=visible,  8440 ).
+
+% Frame number: 212
+0.219::holdsAt( orientation( id1 )=155, 8480  ). holdsAt( appearance( id1 )=visible,  8480 ).
+0.417::holdsAt( orientation( id3 )=162, 8480  ). holdsAt( appearance( id3 )=visible,  8480 ).
+0.103::holdsAt( orientation( id5 )=161, 8480  ). holdsAt( appearance( id5 )=visible,  8480 ).
+0.0337::holdsAt( orientation( id6 )=146, 8480  ). holdsAt( appearance( id6 )=visible,  8480 ).
+
+% Frame number: 213
+0.198::holdsAt( orientation( id1 )=155, 8520  ). holdsAt( appearance( id1 )=visible,  8520 ).
+0.438::holdsAt( orientation( id3 )=162, 8520  ). holdsAt( appearance( id3 )=visible,  8520 ).
+0.296::holdsAt( orientation( id5 )=161, 8520  ). holdsAt( appearance( id5 )=visible,  8520 ).
+0.184::holdsAt( orientation( id6 )=146, 8520  ). holdsAt( appearance( id6 )=visible,  8520 ).
+
+% Frame number: 214
+0.332::holdsAt( orientation( id1 )=155, 8560  ). holdsAt( appearance( id1 )=visible,  8560 ).
+0.0241::holdsAt( orientation( id3 )=162, 8560  ). holdsAt( appearance( id3 )=visible,  8560 ).
+0.113::holdsAt( orientation( id5 )=161, 8560  ). holdsAt( appearance( id5 )=visible,  8560 ).
+0.231::holdsAt( orientation( id6 )=146, 8560  ). holdsAt( appearance( id6 )=visible,  8560 ).
+
+% Frame number: 215
+0.228::holdsAt( orientation( id1 )=155, 8600  ). holdsAt( appearance( id1 )=visible,  8600 ).
+0.0346::holdsAt( orientation( id3 )=162, 8600  ). holdsAt( appearance( id3 )=visible,  8600 ).
+0.0526::holdsAt( orientation( id5 )=161, 8600  ). holdsAt( appearance( id5 )=visible,  8600 ).
+0.713::holdsAt( orientation( id6 )=146, 8600  ). holdsAt( appearance( id6 )=visible,  8600 ).
+
+% Frame number: 216
+0.495::holdsAt( orientation( id1 )=155, 8640  ). holdsAt( appearance( id1 )=visible,  8640 ).
+0.00991::holdsAt( orientation( id3 )=162, 8640  ). holdsAt( appearance( id3 )=visible,  8640 ).
+0.629::holdsAt( orientation( id5 )=161, 8640  ). holdsAt( appearance( id5 )=visible,  8640 ).
+0.248::holdsAt( orientation( id6 )=146, 8640  ). holdsAt( appearance( id6 )=visible,  8640 ).
+
+% Frame number: 217
+0.397::holdsAt( orientation( id1 )=155, 8680  ). holdsAt( appearance( id1 )=visible,  8680 ).
+0.276::holdsAt( orientation( id3 )=162, 8680  ). holdsAt( appearance( id3 )=visible,  8680 ).
+0.259::holdsAt( orientation( id5 )=161, 8680  ). holdsAt( appearance( id5 )=visible,  8680 ).
+0.0146::holdsAt( orientation( id6 )=146, 8680  ). holdsAt( appearance( id6 )=visible,  8680 ).
+
+% Frame number: 218
+0.222::holdsAt( orientation( id1 )=155, 8720  ). holdsAt( appearance( id1 )=visible,  8720 ).
+0.0626::holdsAt( orientation( id3 )=162, 8720  ). holdsAt( appearance( id3 )=visible,  8720 ).
+0.184::holdsAt( orientation( id5 )=161, 8720  ). holdsAt( appearance( id5 )=visible,  8720 ).
+0.554::holdsAt( orientation( id6 )=146, 8720  ). holdsAt( appearance( id6 )=visible,  8720 ).
+
+% Frame number: 219
+0.46::holdsAt( orientation( id1 )=155, 8760  ). holdsAt( appearance( id1 )=visible,  8760 ).
+0.00525::holdsAt( orientation( id3 )=162, 8760  ). holdsAt( appearance( id3 )=visible,  8760 ).
+0.0901::holdsAt( orientation( id5 )=161, 8760  ). holdsAt( appearance( id5 )=visible,  8760 ).
+0.475::holdsAt( orientation( id6 )=146, 8760  ). holdsAt( appearance( id6 )=visible,  8760 ).
+
+% Frame number: 220
+0.0617::holdsAt( orientation( id1 )=155, 8800  ). holdsAt( appearance( id1 )=visible,  8800 ).
+0.576::holdsAt( orientation( id3 )=162, 8800  ). holdsAt( appearance( id3 )=visible,  8800 ).
+0.358::holdsAt( orientation( id5 )=161, 8800  ). holdsAt( appearance( id5 )=visible,  8800 ).
+0.35::holdsAt( orientation( id6 )=146, 8800  ). holdsAt( appearance( id6 )=visible,  8800 ).
+
+% Frame number: 221
+0.195::holdsAt( orientation( id1 )=155, 8840  ). holdsAt( appearance( id1 )=visible,  8840 ).
+0.108::holdsAt( orientation( id3 )=162, 8840  ). holdsAt( appearance( id3 )=visible,  8840 ).
+0.273::holdsAt( orientation( id5 )=161, 8840  ). holdsAt( appearance( id5 )=visible,  8840 ).
+0.225::holdsAt( orientation( id6 )=146, 8840  ). holdsAt( appearance( id6 )=visible,  8840 ).
+
+% Frame number: 222
+0.24::holdsAt( orientation( id1 )=155, 8880  ). holdsAt( appearance( id1 )=visible,  8880 ).
+0.534::holdsAt( orientation( id3 )=162, 8880  ). holdsAt( appearance( id3 )=visible,  8880 ).
+0.145::holdsAt( orientation( id5 )=161, 8880  ). holdsAt( appearance( id5 )=visible,  8880 ).
+0.245::holdsAt( orientation( id6 )=146, 8880  ). holdsAt( appearance( id6 )=visible,  8880 ).
+
+% Frame number: 223
+0.0372::holdsAt( orientation( id1 )=155, 8920  ). holdsAt( appearance( id1 )=visible,  8920 ).
+0.0595::holdsAt( orientation( id3 )=162, 8920  ). holdsAt( appearance( id3 )=visible,  8920 ).
+0.0319::holdsAt( orientation( id5 )=161, 8920  ). holdsAt( appearance( id5 )=visible,  8920 ).
+0.179::holdsAt( orientation( id6 )=146, 8920  ). holdsAt( appearance( id6 )=visible,  8920 ).
+
+% Frame number: 224
+0.194::holdsAt( orientation( id1 )=155, 8960  ). holdsAt( appearance( id1 )=visible,  8960 ).
+0.188::holdsAt( orientation( id3 )=162, 8960  ). holdsAt( appearance( id3 )=visible,  8960 ).
+0.338::holdsAt( orientation( id5 )=161, 8960  ). holdsAt( appearance( id5 )=visible,  8960 ).
+0.241::holdsAt( orientation( id6 )=146, 8960  ). holdsAt( appearance( id6 )=visible,  8960 ).
+
+% Frame number: 225
+0.241::holdsAt( orientation( id1 )=155, 9000  ). holdsAt( appearance( id1 )=visible,  9000 ).
+0.598::holdsAt( orientation( id3 )=162, 9000  ). holdsAt( appearance( id3 )=visible,  9000 ).
+0.279::holdsAt( orientation( id5 )=161, 9000  ). holdsAt( appearance( id5 )=visible,  9000 ).
+0.429::holdsAt( orientation( id6 )=146, 9000  ). holdsAt( appearance( id6 )=visible,  9000 ).
+
+% Frame number: 226
+0.271::holdsAt( orientation( id1 )=155, 9040  ). holdsAt( appearance( id1 )=visible,  9040 ).
+0.186::holdsAt( orientation( id3 )=162, 9040  ). holdsAt( appearance( id3 )=visible,  9040 ).
+0.108::holdsAt( orientation( id5 )=161, 9040  ). holdsAt( appearance( id5 )=visible,  9040 ).
+0.21::holdsAt( orientation( id6 )=146, 9040  ). holdsAt( appearance( id6 )=visible,  9040 ).
+
+% Frame number: 227
+0.515::holdsAt( orientation( id1 )=155, 9080  ). holdsAt( appearance( id1 )=visible,  9080 ).
+0.0137::holdsAt( orientation( id3 )=162, 9080  ). holdsAt( appearance( id3 )=visible,  9080 ).
+0.297::holdsAt( orientation( id5 )=161, 9080  ). holdsAt( appearance( id5 )=visible,  9080 ).
+0.0326::holdsAt( orientation( id6 )=146, 9080  ). holdsAt( appearance( id6 )=visible,  9080 ).
+
+% Frame number: 228
+0.133::holdsAt( orientation( id1 )=155, 9120  ). holdsAt( appearance( id1 )=visible,  9120 ).
+0.0942::holdsAt( orientation( id3 )=162, 9120  ). holdsAt( appearance( id3 )=visible,  9120 ).
+0.496::holdsAt( orientation( id5 )=161, 9120  ). holdsAt( appearance( id5 )=visible,  9120 ).
+0.194::holdsAt( orientation( id6 )=146, 9120  ). holdsAt( appearance( id6 )=visible,  9120 ).
+
+% Frame number: 229
+0.12::holdsAt( orientation( id1 )=155, 9160  ). holdsAt( appearance( id1 )=visible,  9160 ).
+0.133::holdsAt( orientation( id3 )=162, 9160  ). holdsAt( appearance( id3 )=visible,  9160 ).
+0.08::holdsAt( orientation( id5 )=161, 9160  ). holdsAt( appearance( id5 )=visible,  9160 ).
+0.14::holdsAt( orientation( id6 )=146, 9160  ). holdsAt( appearance( id6 )=visible,  9160 ).
+
+% Frame number: 230
+0.257::holdsAt( orientation( id1 )=155, 9200  ). holdsAt( appearance( id1 )=visible,  9200 ).
+0.598::holdsAt( orientation( id3 )=162, 9200  ). holdsAt( appearance( id3 )=visible,  9200 ).
+0.445::holdsAt( orientation( id5 )=161, 9200  ). holdsAt( appearance( id5 )=visible,  9200 ).
+0.0777::holdsAt( orientation( id6 )=146, 9200  ). holdsAt( appearance( id6 )=visible,  9200 ).
+
+% Frame number: 231
+0.0109::holdsAt( orientation( id1 )=155, 9240  ). holdsAt( appearance( id1 )=visible,  9240 ).
+0.111::holdsAt( orientation( id3 )=162, 9240  ). holdsAt( appearance( id3 )=visible,  9240 ).
+0.194::holdsAt( orientation( id5 )=161, 9240  ). holdsAt( appearance( id5 )=visible,  9240 ).
+0.164::holdsAt( orientation( id6 )=146, 9240  ). holdsAt( appearance( id6 )=visible,  9240 ).
+
+% Frame number: 232
+0.201::holdsAt( orientation( id1 )=155, 9280  ). holdsAt( appearance( id1 )=visible,  9280 ).
+0.126::holdsAt( orientation( id3 )=162, 9280  ). holdsAt( appearance( id3 )=visible,  9280 ).
+0.0804::holdsAt( orientation( id5 )=161, 9280  ). holdsAt( appearance( id5 )=visible,  9280 ).
+0.704::holdsAt( orientation( id6 )=146, 9280  ). holdsAt( appearance( id6 )=visible,  9280 ).
+
+% Frame number: 233
+0.0587::holdsAt( orientation( id1 )=155, 9320  ). holdsAt( appearance( id1 )=visible,  9320 ).
+0.0949::holdsAt( orientation( id3 )=162, 9320  ). holdsAt( appearance( id3 )=visible,  9320 ).
+0.301::holdsAt( orientation( id5 )=161, 9320  ). holdsAt( appearance( id5 )=visible,  9320 ).
+0.554::holdsAt( orientation( id6 )=146, 9320  ). holdsAt( appearance( id6 )=visible,  9320 ).
+
+% Frame number: 234
+0.0436::holdsAt( orientation( id1 )=155, 9360  ). holdsAt( appearance( id1 )=visible,  9360 ).
+0.496::holdsAt( orientation( id3 )=162, 9360  ). holdsAt( appearance( id3 )=visible,  9360 ).
+0.523::holdsAt( orientation( id5 )=161, 9360  ). holdsAt( appearance( id5 )=visible,  9360 ).
+0.0976::holdsAt( orientation( id6 )=146, 9360  ). holdsAt( appearance( id6 )=visible,  9360 ).
+
+% Frame number: 235
+0.278::holdsAt( orientation( id1 )=155, 9400  ). holdsAt( appearance( id1 )=visible,  9400 ).
+0.0786::holdsAt( orientation( id3 )=162, 9400  ). holdsAt( appearance( id3 )=visible,  9400 ).
+0.306::holdsAt( orientation( id5 )=161, 9400  ). holdsAt( appearance( id5 )=visible,  9400 ).
+0.0254::holdsAt( orientation( id6 )=146, 9400  ). holdsAt( appearance( id6 )=visible,  9400 ).
+
+% Frame number: 236
+0.453::holdsAt( orientation( id1 )=155, 9440  ). holdsAt( appearance( id1 )=visible,  9440 ).
+0.296::holdsAt( orientation( id3 )=157, 9440  ). holdsAt( appearance( id3 )=visible,  9440 ).
+0.496::holdsAt( orientation( id5 )=161, 9440  ). holdsAt( appearance( id5 )=visible,  9440 ).
+0.253::holdsAt( orientation( id6 )=146, 9440  ). holdsAt( appearance( id6 )=visible,  9440 ).
+
+% Frame number: 237
+0.0223::holdsAt( orientation( id1 )=155, 9480  ). holdsAt( appearance( id1 )=visible,  9480 ).
+0.0164::holdsAt( orientation( id3 )=157, 9480  ). holdsAt( appearance( id3 )=visible,  9480 ).
+0.096::holdsAt( orientation( id5 )=161, 9480  ). holdsAt( appearance( id5 )=visible,  9480 ).
+0.516::holdsAt( orientation( id6 )=146, 9480  ). holdsAt( appearance( id6 )=visible,  9480 ).
+
+% Frame number: 238
+0.199::holdsAt( orientation( id1 )=155, 9520  ). holdsAt( appearance( id1 )=visible,  9520 ).
+0.162::holdsAt( orientation( id3 )=157, 9520  ). holdsAt( appearance( id3 )=visible,  9520 ).
+0.00983::holdsAt( orientation( id5 )=161, 9520  ). holdsAt( appearance( id5 )=visible,  9520 ).
+0.231::holdsAt( orientation( id6 )=146, 9520  ). holdsAt( appearance( id6 )=visible,  9520 ).
+
+% Frame number: 239
+0.506::holdsAt( orientation( id1 )=155, 9560  ). holdsAt( appearance( id1 )=visible,  9560 ).
+0.562::holdsAt( orientation( id3 )=157, 9560  ). holdsAt( appearance( id3 )=visible,  9560 ).
+0.0556::holdsAt( orientation( id5 )=161, 9560  ). holdsAt( appearance( id5 )=visible,  9560 ).
+0.0365::holdsAt( orientation( id6 )=146, 9560  ). holdsAt( appearance( id6 )=visible,  9560 ).
+
+% Frame number: 240
+0.488::holdsAt( orientation( id1 )=155, 9600  ). holdsAt( appearance( id1 )=visible,  9600 ).
+0.0485::holdsAt( orientation( id3 )=157, 9600  ). holdsAt( appearance( id3 )=visible,  9600 ).
+0.344::holdsAt( orientation( id5 )=161, 9600  ). holdsAt( appearance( id5 )=visible,  9600 ).
+0.0425::holdsAt( orientation( id6 )=146, 9600  ). holdsAt( appearance( id6 )=visible,  9600 ).
+
+% Frame number: 241
+0.101::holdsAt( orientation( id1 )=155, 9640  ). holdsAt( appearance( id1 )=visible,  9640 ).
+0.46::holdsAt( orientation( id3 )=157, 9640  ). holdsAt( appearance( id3 )=visible,  9640 ).
+0.398::holdsAt( orientation( id5 )=161, 9640  ). holdsAt( appearance( id5 )=visible,  9640 ).
+0.0234::holdsAt( orientation( id6 )=146, 9640  ). holdsAt( appearance( id6 )=visible,  9640 ).
+
+% Frame number: 242
+0.28::holdsAt( orientation( id1 )=155, 9680  ). holdsAt( appearance( id1 )=visible,  9680 ).
+0.0404::holdsAt( orientation( id3 )=157, 9680  ). holdsAt( appearance( id3 )=visible,  9680 ).
+0.663::holdsAt( orientation( id5 )=161, 9680  ). holdsAt( appearance( id5 )=visible,  9680 ).
+0.0733::holdsAt( orientation( id6 )=146, 9680  ). holdsAt( appearance( id6 )=visible,  9680 ).
+
+% Frame number: 243
+0.413::holdsAt( orientation( id1 )=155, 9720  ). holdsAt( appearance( id1 )=visible,  9720 ).
+0.473::holdsAt( orientation( id3 )=157, 9720  ). holdsAt( appearance( id3 )=visible,  9720 ).
+0.572::holdsAt( orientation( id5 )=161, 9720  ). holdsAt( appearance( id5 )=visible,  9720 ).
+0.479::holdsAt( orientation( id6 )=146, 9720  ). holdsAt( appearance( id6 )=visible,  9720 ).
+
+% Frame number: 244
+0.0495::holdsAt( orientation( id1 )=155, 9760  ). holdsAt( appearance( id1 )=visible,  9760 ).
+0.678::holdsAt( orientation( id3 )=157, 9760  ). holdsAt( appearance( id3 )=visible,  9760 ).
+0.246::holdsAt( orientation( id5 )=161, 9760  ). holdsAt( appearance( id5 )=visible,  9760 ).
+0.271::holdsAt( orientation( id6 )=146, 9760  ). holdsAt( appearance( id6 )=visible,  9760 ).
+
+% Frame number: 245
+0.268::holdsAt( orientation( id1 )=155, 9800  ). holdsAt( appearance( id1 )=visible,  9800 ).
+0.573::holdsAt( orientation( id3 )=157, 9800  ). holdsAt( appearance( id3 )=visible,  9800 ).
+0.133::holdsAt( orientation( id5 )=161, 9800  ). holdsAt( appearance( id5 )=visible,  9800 ).
+0.00709::holdsAt( orientation( id6 )=146, 9800  ). holdsAt( appearance( id6 )=visible,  9800 ).
+
+% Frame number: 246
+0.491::holdsAt( orientation( id1 )=155, 9840  ). holdsAt( appearance( id1 )=visible,  9840 ).
+0.0932::holdsAt( orientation( id3 )=157, 9840  ). holdsAt( appearance( id3 )=visible,  9840 ).
+0.0402::holdsAt( orientation( id5 )=161, 9840  ). holdsAt( appearance( id5 )=visible,  9840 ).
+0.172::holdsAt( orientation( id6 )=146, 9840  ). holdsAt( appearance( id6 )=visible,  9840 ).
+
+% Frame number: 247
+0.0646::holdsAt( orientation( id1 )=155, 9880  ). holdsAt( appearance( id1 )=visible,  9880 ).
+0.0664::holdsAt( orientation( id3 )=157, 9880  ). holdsAt( appearance( id3 )=visible,  9880 ).
+0.017::holdsAt( orientation( id5 )=161, 9880  ). holdsAt( appearance( id5 )=visible,  9880 ).
+0.274::holdsAt( orientation( id6 )=146, 9880  ). holdsAt( appearance( id6 )=visible,  9880 ).
+
+% Frame number: 248
+0.247::holdsAt( orientation( id1 )=155, 9920  ). holdsAt( appearance( id1 )=visible,  9920 ).
+0.741::holdsAt( orientation( id3 )=157, 9920  ). holdsAt( appearance( id3 )=visible,  9920 ).
+0.0602::holdsAt( orientation( id5 )=161, 9920  ). holdsAt( appearance( id5 )=visible,  9920 ).
+0.0934::holdsAt( orientation( id6 )=146, 9920  ). holdsAt( appearance( id6 )=visible,  9920 ).
+
+% Frame number: 249
+0.174::holdsAt( orientation( id1 )=155, 9960  ). holdsAt( appearance( id1 )=visible,  9960 ).
+0.245::holdsAt( orientation( id3 )=157, 9960  ). holdsAt( appearance( id3 )=visible,  9960 ).
+0.157::holdsAt( orientation( id5 )=161, 9960  ). holdsAt( appearance( id5 )=visible,  9960 ).
+0.249::holdsAt( orientation( id6 )=146, 9960  ). holdsAt( appearance( id6 )=visible,  9960 ).
+
+% Frame number: 250
+0.0784::holdsAt( orientation( id1 )=155, 10000  ). holdsAt( appearance( id1 )=visible,  10000 ).
+0.0259::holdsAt( orientation( id3 )=157, 10000  ). holdsAt( appearance( id3 )=visible,  10000 ).
+0.562::holdsAt( orientation( id5 )=161, 10000  ). holdsAt( appearance( id5 )=visible,  10000 ).
+0.0645::holdsAt( orientation( id6 )=146, 10000  ). holdsAt( appearance( id6 )=visible,  10000 ).
+
+% Frame number: 251
+0.256::holdsAt( orientation( id1 )=155, 10040  ). holdsAt( appearance( id1 )=visible,  10040 ).
+0.373::holdsAt( orientation( id3 )=157, 10040  ). holdsAt( appearance( id3 )=visible,  10040 ).
+0.143::holdsAt( orientation( id5 )=161, 10040  ). holdsAt( appearance( id5 )=visible,  10040 ).
+0.473::holdsAt( orientation( id6 )=146, 10040  ). holdsAt( appearance( id6 )=visible,  10040 ).
+
+% Frame number: 252
+0.416::holdsAt( orientation( id1 )=155, 10080  ). holdsAt( appearance( id1 )=visible,  10080 ).
+0.00402::holdsAt( orientation( id3 )=157, 10080  ). holdsAt( appearance( id3 )=visible,  10080 ).
+0.069::holdsAt( orientation( id5 )=161, 10080  ). holdsAt( appearance( id5 )=visible,  10080 ).
+0.135::holdsAt( orientation( id6 )=146, 10080  ). holdsAt( appearance( id6 )=visible,  10080 ).
+
+% Frame number: 253
+0.102::holdsAt( orientation( id1 )=155, 10120  ). holdsAt( appearance( id1 )=visible,  10120 ).
+0.387::holdsAt( orientation( id3 )=157, 10120  ). holdsAt( appearance( id3 )=visible,  10120 ).
+0.204::holdsAt( orientation( id5 )=161, 10120  ). holdsAt( appearance( id5 )=visible,  10120 ).
+0.159::holdsAt( orientation( id6 )=146, 10120  ). holdsAt( appearance( id6 )=visible,  10120 ).
+
+% Frame number: 254
+0.227::holdsAt( orientation( id1 )=155, 10160  ). holdsAt( appearance( id1 )=visible,  10160 ).
+0.0862::holdsAt( orientation( id3 )=157, 10160  ). holdsAt( appearance( id3 )=visible,  10160 ).
+0.0146::holdsAt( orientation( id5 )=161, 10160  ). holdsAt( appearance( id5 )=visible,  10160 ).
+0.187::holdsAt( orientation( id6 )=146, 10160  ). holdsAt( appearance( id6 )=visible,  10160 ).
+
+% Frame number: 255
+0.456::holdsAt( orientation( id1 )=155, 10200  ). holdsAt( appearance( id1 )=visible,  10200 ).
+0.522::holdsAt( orientation( id3 )=157, 10200  ). holdsAt( appearance( id3 )=visible,  10200 ).
+0.112::holdsAt( orientation( id5 )=161, 10200  ). holdsAt( appearance( id5 )=visible,  10200 ).
+0.00094::holdsAt( orientation( id6 )=146, 10200  ). holdsAt( appearance( id6 )=visible,  10200 ).
+
+% Frame number: 256
+0.0834::holdsAt( orientation( id1 )=155, 10240  ). holdsAt( appearance( id1 )=visible,  10240 ).
+0.0466::holdsAt( orientation( id3 )=157, 10240  ). holdsAt( appearance( id3 )=visible,  10240 ).
+0.244::holdsAt( orientation( id5 )=161, 10240  ). holdsAt( appearance( id5 )=visible,  10240 ).
+0.0435::holdsAt( orientation( id6 )=146, 10240  ). holdsAt( appearance( id6 )=visible,  10240 ).
+
+% Frame number: 257
+0.0192::holdsAt( orientation( id1 )=155, 10280  ). holdsAt( appearance( id1 )=visible,  10280 ).
+0.477::holdsAt( orientation( id3 )=157, 10280  ). holdsAt( appearance( id3 )=visible,  10280 ).
+0.0383::holdsAt( orientation( id5 )=161, 10280  ). holdsAt( appearance( id5 )=visible,  10280 ).
+0.43::holdsAt( orientation( id6 )=146, 10280  ). holdsAt( appearance( id6 )=visible,  10280 ).
+
+% Frame number: 258
+0.041::holdsAt( orientation( id1 )=155, 10320  ). holdsAt( appearance( id1 )=visible,  10320 ).
+0.153::holdsAt( orientation( id3 )=157, 10320  ). holdsAt( appearance( id3 )=visible,  10320 ).
+0.268::holdsAt( orientation( id5 )=161, 10320  ). holdsAt( appearance( id5 )=visible,  10320 ).
+0.00932::holdsAt( orientation( id6 )=146, 10320  ). holdsAt( appearance( id6 )=visible,  10320 ).
+
+% Frame number: 259
+0.221::holdsAt( orientation( id1 )=155, 10360  ). holdsAt( appearance( id1 )=visible,  10360 ).
+0.153::holdsAt( orientation( id3 )=157, 10360  ). holdsAt( appearance( id3 )=visible,  10360 ).
+0.0244::holdsAt( orientation( id5 )=161, 10360  ). holdsAt( appearance( id5 )=visible,  10360 ).
+0.0914::holdsAt( orientation( id6 )=146, 10360  ). holdsAt( appearance( id6 )=visible,  10360 ).
+
+% Frame number: 260
+0.0782::holdsAt( orientation( id1 )=155, 10400  ). holdsAt( appearance( id1 )=visible,  10400 ).
+0.147::holdsAt( orientation( id3 )=157, 10400  ). holdsAt( appearance( id3 )=visible,  10400 ).
+0.0632::holdsAt( orientation( id5 )=161, 10400  ). holdsAt( appearance( id5 )=visible,  10400 ).
+0.108::holdsAt( orientation( id6 )=146, 10400  ). holdsAt( appearance( id6 )=visible,  10400 ).
+
+% Frame number: 261
+0.168::holdsAt( orientation( id1 )=155, 10440  ). holdsAt( appearance( id1 )=visible,  10440 ).
+0.152::holdsAt( orientation( id3 )=157, 10440  ). holdsAt( appearance( id3 )=visible,  10440 ).
+0.11::holdsAt( orientation( id5 )=161, 10440  ). holdsAt( appearance( id5 )=visible,  10440 ).
+0.536::holdsAt( orientation( id6 )=146, 10440  ). holdsAt( appearance( id6 )=visible,  10440 ).
+
+% Frame number: 262
+0.245::holdsAt( orientation( id1 )=155, 10480  ). holdsAt( appearance( id1 )=visible,  10480 ).
+0.00806::holdsAt( orientation( id3 )=157, 10480  ). holdsAt( appearance( id3 )=visible,  10480 ).
+0.05::holdsAt( orientation( id5 )=161, 10480  ). holdsAt( appearance( id5 )=visible,  10480 ).
+0.273::holdsAt( orientation( id6 )=146, 10480  ). holdsAt( appearance( id6 )=visible,  10480 ).
+
+% Frame number: 263
+0.2::holdsAt( orientation( id1 )=155, 10520  ). holdsAt( appearance( id1 )=visible,  10520 ).
+0.504::holdsAt( orientation( id3 )=157, 10520  ). holdsAt( appearance( id3 )=visible,  10520 ).
+0.293::holdsAt( orientation( id5 )=161, 10520  ). holdsAt( appearance( id5 )=visible,  10520 ).
+0.269::holdsAt( orientation( id6 )=146, 10520  ). holdsAt( appearance( id6 )=visible,  10520 ).
+
+% Frame number: 264
+0.23::holdsAt( orientation( id1 )=155, 10560  ). holdsAt( appearance( id1 )=visible,  10560 ).
+0.544::holdsAt( orientation( id3 )=157, 10560  ). holdsAt( appearance( id3 )=visible,  10560 ).
+0.0814::holdsAt( orientation( id5 )=161, 10560  ). holdsAt( appearance( id5 )=visible,  10560 ).
+0.173::holdsAt( orientation( id6 )=146, 10560  ). holdsAt( appearance( id6 )=visible,  10560 ).
+
+% Frame number: 265
+0.294::holdsAt( orientation( id1 )=155, 10600  ). holdsAt( appearance( id1 )=visible,  10600 ).
+0.0396::holdsAt( orientation( id3 )=157, 10600  ). holdsAt( appearance( id3 )=visible,  10600 ).
+0.223::holdsAt( orientation( id5 )=161, 10600  ). holdsAt( appearance( id5 )=visible,  10600 ).
+0.173::holdsAt( orientation( id6 )=146, 10600  ). holdsAt( appearance( id6 )=visible,  10600 ).
+
+% Frame number: 266
+0.0798::holdsAt( orientation( id1 )=155, 10640  ). holdsAt( appearance( id1 )=visible,  10640 ).
+0.283::holdsAt( orientation( id3 )=157, 10640  ). holdsAt( appearance( id3 )=visible,  10640 ).
+0.582::holdsAt( orientation( id5 )=161, 10640  ). holdsAt( appearance( id5 )=visible,  10640 ).
+0.235::holdsAt( orientation( id6 )=146, 10640  ). holdsAt( appearance( id6 )=visible,  10640 ).
+
+% Frame number: 267
+0.0272::holdsAt( orientation( id1 )=155, 10680  ). holdsAt( appearance( id1 )=visible,  10680 ).
+0.431::holdsAt( orientation( id3 )=157, 10680  ). holdsAt( appearance( id3 )=visible,  10680 ).
+0.137::holdsAt( orientation( id5 )=161, 10680  ). holdsAt( appearance( id5 )=visible,  10680 ).
+0.222::holdsAt( orientation( id6 )=146, 10680  ). holdsAt( appearance( id6 )=visible,  10680 ).
+
+% Frame number: 268
+0.0946::holdsAt( orientation( id1 )=155, 10720  ). holdsAt( appearance( id1 )=visible,  10720 ).
+0.112::holdsAt( orientation( id3 )=157, 10720  ). holdsAt( appearance( id3 )=visible,  10720 ).
+0.247::holdsAt( orientation( id5 )=161, 10720  ). holdsAt( appearance( id5 )=visible,  10720 ).
+0.0622::holdsAt( orientation( id6 )=146, 10720  ). holdsAt( appearance( id6 )=visible,  10720 ).
+
+% Frame number: 269
+0.228::holdsAt( orientation( id1 )=155, 10760  ). holdsAt( appearance( id1 )=visible,  10760 ).
+0.0227::holdsAt( orientation( id3 )=157, 10760  ). holdsAt( appearance( id3 )=visible,  10760 ).
+0.093::holdsAt( orientation( id5 )=161, 10760  ). holdsAt( appearance( id5 )=visible,  10760 ).
+0.0483::holdsAt( orientation( id6 )=146, 10760  ). holdsAt( appearance( id6 )=visible,  10760 ).
+
+% Frame number: 270
+0.0898::holdsAt( orientation( id1 )=155, 10800  ). holdsAt( appearance( id1 )=visible,  10800 ).
+0.222::holdsAt( orientation( id3 )=157, 10800  ). holdsAt( appearance( id3 )=visible,  10800 ).
+0.113::holdsAt( orientation( id5 )=161, 10800  ). holdsAt( appearance( id5 )=visible,  10800 ).
+0.704::holdsAt( orientation( id6 )=146, 10800  ). holdsAt( appearance( id6 )=visible,  10800 ).
+
+% Frame number: 271
+0.0965::holdsAt( orientation( id1 )=155, 10840  ). holdsAt( appearance( id1 )=visible,  10840 ).
+0.0648::holdsAt( orientation( id3 )=157, 10840  ). holdsAt( appearance( id3 )=visible,  10840 ).
+0.448::holdsAt( orientation( id5 )=161, 10840  ). holdsAt( appearance( id5 )=visible,  10840 ).
+0.000347::holdsAt( orientation( id6 )=146, 10840  ). holdsAt( appearance( id6 )=visible,  10840 ).
+
+% Frame number: 272
+0.358::holdsAt( orientation( id1 )=155, 10880  ). holdsAt( appearance( id1 )=visible,  10880 ).
+0.245::holdsAt( orientation( id3 )=157, 10880  ). holdsAt( appearance( id3 )=visible,  10880 ).
+0.278::holdsAt( orientation( id5 )=161, 10880  ). holdsAt( appearance( id5 )=visible,  10880 ).
+0.174::holdsAt( orientation( id6 )=146, 10880  ). holdsAt( appearance( id6 )=visible,  10880 ).
+
+% Frame number: 273
+0.382::holdsAt( orientation( id1 )=155, 10920  ). holdsAt( appearance( id1 )=visible,  10920 ).
+0.18::holdsAt( orientation( id3 )=157, 10920  ). holdsAt( appearance( id3 )=visible,  10920 ).
+0.422::holdsAt( orientation( id5 )=161, 10920  ). holdsAt( appearance( id5 )=visible,  10920 ).
+0.0228::holdsAt( orientation( id6 )=146, 10920  ). holdsAt( appearance( id6 )=visible,  10920 ).
+
+% Frame number: 274
+0.0931::holdsAt( orientation( id1 )=155, 10960  ). holdsAt( appearance( id1 )=visible,  10960 ).
+0.195::holdsAt( orientation( id3 )=155, 10960  ). holdsAt( appearance( id3 )=visible,  10960 ).
+0.105::holdsAt( orientation( id5 )=161, 10960  ). holdsAt( appearance( id5 )=visible,  10960 ).
+0.0248::holdsAt( orientation( id6 )=146, 10960  ). holdsAt( appearance( id6 )=visible,  10960 ).
+
+% Frame number: 275
+0.368::holdsAt( orientation( id1 )=155, 11000  ). holdsAt( appearance( id1 )=visible,  11000 ).
+9.48e-06::holdsAt( orientation( id3 )=155, 11000  ). holdsAt( appearance( id3 )=visible,  11000 ).
+0.147::holdsAt( orientation( id5 )=161, 11000  ). holdsAt( appearance( id5 )=visible,  11000 ).
+0.0151::holdsAt( orientation( id6 )=146, 11000  ). holdsAt( appearance( id6 )=visible,  11000 ).
+
+% Frame number: 276
+0.624::holdsAt( orientation( id1 )=155, 11040  ). holdsAt( appearance( id1 )=visible,  11040 ).
+0.153::holdsAt( orientation( id3 )=155, 11040  ). holdsAt( appearance( id3 )=visible,  11040 ).
+0.482::holdsAt( orientation( id5 )=161, 11040  ). holdsAt( appearance( id5 )=visible,  11040 ).
+0.433::holdsAt( orientation( id6 )=146, 11040  ). holdsAt( appearance( id6 )=visible,  11040 ).
+
+% Frame number: 277
+0.193::holdsAt( orientation( id1 )=155, 11080  ). holdsAt( appearance( id1 )=visible,  11080 ).
+0.0716::holdsAt( orientation( id3 )=155, 11080  ). holdsAt( appearance( id3 )=visible,  11080 ).
+0.122::holdsAt( orientation( id5 )=161, 11080  ). holdsAt( appearance( id5 )=visible,  11080 ).
+0.491::holdsAt( orientation( id6 )=146, 11080  ). holdsAt( appearance( id6 )=visible,  11080 ).
+
+% Frame number: 278
+0.202::holdsAt( orientation( id1 )=155, 11120  ). holdsAt( appearance( id1 )=visible,  11120 ).
+0.406::holdsAt( orientation( id3 )=155, 11120  ). holdsAt( appearance( id3 )=visible,  11120 ).
+0.134::holdsAt( orientation( id5 )=161, 11120  ). holdsAt( appearance( id5 )=visible,  11120 ).
+0.597::holdsAt( orientation( id6 )=146, 11120  ). holdsAt( appearance( id6 )=visible,  11120 ).
+
+% Frame number: 279
+4.37e-05::holdsAt( orientation( id1 )=155, 11160  ). holdsAt( appearance( id1 )=visible,  11160 ).
+0.0443::holdsAt( orientation( id3 )=155, 11160  ). holdsAt( appearance( id3 )=visible,  11160 ).
+0.525::holdsAt( orientation( id5 )=161, 11160  ). holdsAt( appearance( id5 )=visible,  11160 ).
+0.0668::holdsAt( orientation( id6 )=146, 11160  ). holdsAt( appearance( id6 )=visible,  11160 ).
+
+% Frame number: 280
+0.444::holdsAt( orientation( id1 )=155, 11200  ). holdsAt( appearance( id1 )=visible,  11200 ).
+0.162::holdsAt( orientation( id3 )=155, 11200  ). holdsAt( appearance( id3 )=visible,  11200 ).
+0.264::holdsAt( orientation( id5 )=161, 11200  ). holdsAt( appearance( id5 )=visible,  11200 ).
+0.391::holdsAt( orientation( id6 )=146, 11200  ). holdsAt( appearance( id6 )=visible,  11200 ).
+
+% Frame number: 281
+0.111::holdsAt( orientation( id1 )=155, 11240  ). holdsAt( appearance( id1 )=visible,  11240 ).
+0.749::holdsAt( orientation( id3 )=155, 11240  ). holdsAt( appearance( id3 )=visible,  11240 ).
+0.669::holdsAt( orientation( id5 )=161, 11240  ). holdsAt( appearance( id5 )=visible,  11240 ).
+0.108::holdsAt( orientation( id6 )=146, 11240  ). holdsAt( appearance( id6 )=visible,  11240 ).
+
+% Frame number: 282
+0.582::holdsAt( orientation( id1 )=155, 11280  ). holdsAt( appearance( id1 )=visible,  11280 ).
+0.123::holdsAt( orientation( id3 )=155, 11280  ). holdsAt( appearance( id3 )=visible,  11280 ).
+0.158::holdsAt( orientation( id5 )=161, 11280  ). holdsAt( appearance( id5 )=visible,  11280 ).
+0.249::holdsAt( orientation( id6 )=146, 11280  ). holdsAt( appearance( id6 )=visible,  11280 ).
+
+% Frame number: 283
+0.0614::holdsAt( orientation( id1 )=155, 11320  ). holdsAt( appearance( id1 )=visible,  11320 ).
+0.108::holdsAt( orientation( id3 )=155, 11320  ). holdsAt( appearance( id3 )=visible,  11320 ).
+0.209::holdsAt( orientation( id5 )=161, 11320  ). holdsAt( appearance( id5 )=visible,  11320 ).
+0.0964::holdsAt( orientation( id6 )=146, 11320  ). holdsAt( appearance( id6 )=visible,  11320 ).
+
+% Frame number: 284
+0.201::holdsAt( orientation( id1 )=155, 11360  ). holdsAt( appearance( id1 )=visible,  11360 ).
+0.0959::holdsAt( orientation( id3 )=155, 11360  ). holdsAt( appearance( id3 )=visible,  11360 ).
+0.0188::holdsAt( orientation( id5 )=161, 11360  ). holdsAt( appearance( id5 )=visible,  11360 ).
+0.24::holdsAt( orientation( id6 )=146, 11360  ). holdsAt( appearance( id6 )=visible,  11360 ).
+
+% Frame number: 285
+0.567::holdsAt( orientation( id1 )=155, 11400  ). holdsAt( appearance( id1 )=visible,  11400 ).
+0.122::holdsAt( orientation( id3 )=155, 11400  ). holdsAt( appearance( id3 )=visible,  11400 ).
+0.524::holdsAt( orientation( id5 )=161, 11400  ). holdsAt( appearance( id5 )=visible,  11400 ).
+0.0741::holdsAt( orientation( id6 )=146, 11400  ). holdsAt( appearance( id6 )=visible,  11400 ).
+
+% Frame number: 286
+0.205::holdsAt( orientation( id1 )=155, 11440  ). holdsAt( appearance( id1 )=visible,  11440 ).
+0.0744::holdsAt( orientation( id3 )=155, 11440  ). holdsAt( appearance( id3 )=visible,  11440 ).
+0.193::holdsAt( orientation( id5 )=161, 11440  ). holdsAt( appearance( id5 )=visible,  11440 ).
+0.059::holdsAt( orientation( id6 )=146, 11440  ). holdsAt( appearance( id6 )=visible,  11440 ).
+
+% Frame number: 287
+0.219::holdsAt( orientation( id1 )=155, 11480  ). holdsAt( appearance( id1 )=visible,  11480 ).
+0.65::holdsAt( orientation( id3 )=155, 11480  ). holdsAt( appearance( id3 )=visible,  11480 ).
+0.801::holdsAt( orientation( id5 )=161, 11480  ). holdsAt( appearance( id5 )=visible,  11480 ).
+0.105::holdsAt( orientation( id6 )=146, 11480  ). holdsAt( appearance( id6 )=visible,  11480 ).
+
+% Frame number: 288
+0.147::holdsAt( orientation( id1 )=155, 11520  ). holdsAt( appearance( id1 )=visible,  11520 ).
+0.312::holdsAt( orientation( id3 )=155, 11520  ). holdsAt( appearance( id3 )=visible,  11520 ).
+0.0853::holdsAt( orientation( id5 )=161, 11520  ). holdsAt( appearance( id5 )=visible,  11520 ).
+0.111::holdsAt( orientation( id6 )=146, 11520  ). holdsAt( appearance( id6 )=visible,  11520 ).
+
+% Frame number: 289
+0.479::holdsAt( orientation( id1 )=155, 11560  ). holdsAt( appearance( id1 )=visible,  11560 ).
+0.231::holdsAt( orientation( id3 )=155, 11560  ). holdsAt( appearance( id3 )=visible,  11560 ).
+0.183::holdsAt( orientation( id5 )=161, 11560  ). holdsAt( appearance( id5 )=visible,  11560 ).
+0.354::holdsAt( orientation( id6 )=146, 11560  ). holdsAt( appearance( id6 )=visible,  11560 ).
+
+% Frame number: 290
+0.321::holdsAt( orientation( id1 )=155, 11600  ). holdsAt( appearance( id1 )=visible,  11600 ).
+0.0643::holdsAt( orientation( id3 )=155, 11600  ). holdsAt( appearance( id3 )=visible,  11600 ).
+0.2::holdsAt( orientation( id5 )=161, 11600  ). holdsAt( appearance( id5 )=visible,  11600 ).
+0.0183::holdsAt( orientation( id6 )=146, 11600  ). holdsAt( appearance( id6 )=visible,  11600 ).
+
+% Frame number: 291
+0.103::holdsAt( orientation( id1 )=155, 11640  ). holdsAt( appearance( id1 )=visible,  11640 ).
+0.155::holdsAt( orientation( id3 )=155, 11640  ). holdsAt( appearance( id3 )=visible,  11640 ).
+0.0464::holdsAt( orientation( id5 )=168, 11640  ). holdsAt( appearance( id5 )=visible,  11640 ).
+0.00301::holdsAt( orientation( id6 )=146, 11640  ). holdsAt( appearance( id6 )=visible,  11640 ).
+
+% Frame number: 292
+0.118::holdsAt( orientation( id1 )=155, 11680  ). holdsAt( appearance( id1 )=visible,  11680 ).
+0.0713::holdsAt( orientation( id3 )=155, 11680  ). holdsAt( appearance( id3 )=visible,  11680 ).
+0.311::holdsAt( orientation( id5 )=168, 11680  ). holdsAt( appearance( id5 )=visible,  11680 ).
+0.0842::holdsAt( orientation( id6 )=146, 11680  ). holdsAt( appearance( id6 )=visible,  11680 ).
+
+% Frame number: 293
+0.249::holdsAt( orientation( id1 )=155, 11720  ). holdsAt( appearance( id1 )=visible,  11720 ).
+0.215::holdsAt( orientation( id3 )=158, 11720  ). holdsAt( appearance( id3 )=visible,  11720 ).
+0.252::holdsAt( orientation( id5 )=168, 11720  ). holdsAt( appearance( id5 )=visible,  11720 ).
+0.0566::holdsAt( orientation( id6 )=146, 11720  ). holdsAt( appearance( id6 )=visible,  11720 ).
+
+% Frame number: 294
+0.011::holdsAt( orientation( id1 )=155, 11760  ). holdsAt( appearance( id1 )=visible,  11760 ).
+0.184::holdsAt( orientation( id3 )=158, 11760  ). holdsAt( appearance( id3 )=visible,  11760 ).
+0.136::holdsAt( orientation( id5 )=168, 11760  ). holdsAt( appearance( id5 )=visible,  11760 ).
+0.091::holdsAt( orientation( id6 )=146, 11760  ). holdsAt( appearance( id6 )=visible,  11760 ).
+
+% Frame number: 295
+0.235::holdsAt( orientation( id1 )=155, 11800  ). holdsAt( appearance( id1 )=visible,  11800 ).
+0.429::holdsAt( orientation( id3 )=158, 11800  ). holdsAt( appearance( id3 )=visible,  11800 ).
+0.166::holdsAt( orientation( id5 )=168, 11800  ). holdsAt( appearance( id5 )=visible,  11800 ).
+0.177::holdsAt( orientation( id6 )=146, 11800  ). holdsAt( appearance( id6 )=visible,  11800 ).
+
+% Frame number: 296
+0.144::holdsAt( orientation( id1 )=155, 11840  ). holdsAt( appearance( id1 )=visible,  11840 ).
+0.182::holdsAt( orientation( id3 )=158, 11840  ). holdsAt( appearance( id3 )=visible,  11840 ).
+0.0952::holdsAt( orientation( id5 )=168, 11840  ). holdsAt( appearance( id5 )=visible,  11840 ).
+0.154::holdsAt( orientation( id6 )=146, 11840  ). holdsAt( appearance( id6 )=visible,  11840 ).
+
+% Frame number: 297
+0.227::holdsAt( orientation( id1 )=155, 11880  ). holdsAt( appearance( id1 )=visible,  11880 ).
+0.301::holdsAt( orientation( id3 )=158, 11880  ). holdsAt( appearance( id3 )=visible,  11880 ).
+0.396::holdsAt( orientation( id5 )=168, 11880  ). holdsAt( appearance( id5 )=visible,  11880 ).
+0.486::holdsAt( orientation( id6 )=146, 11880  ). holdsAt( appearance( id6 )=visible,  11880 ).
+
+% Frame number: 298
+0.214::holdsAt( orientation( id1 )=155, 11920  ). holdsAt( appearance( id1 )=visible,  11920 ).
+0.329::holdsAt( orientation( id3 )=158, 11920  ). holdsAt( appearance( id3 )=visible,  11920 ).
+0.146::holdsAt( orientation( id5 )=168, 11920  ). holdsAt( appearance( id5 )=visible,  11920 ).
+0.0609::holdsAt( orientation( id6 )=146, 11920  ). holdsAt( appearance( id6 )=visible,  11920 ).
+
+% Frame number: 299
+0.168::holdsAt( orientation( id1 )=155, 11960  ). holdsAt( appearance( id1 )=visible,  11960 ).
+0.103::holdsAt( orientation( id3 )=158, 11960  ). holdsAt( appearance( id3 )=visible,  11960 ).
+0.00528::holdsAt( orientation( id5 )=168, 11960  ). holdsAt( appearance( id5 )=visible,  11960 ).
+0.221::holdsAt( orientation( id6 )=146, 11960  ). holdsAt( appearance( id6 )=visible,  11960 ).
+
+% Frame number: 300
+0.391::holdsAt( orientation( id1 )=155, 12000  ). holdsAt( appearance( id1 )=visible,  12000 ).
+0.0986::holdsAt( orientation( id3 )=158, 12000  ). holdsAt( appearance( id3 )=visible,  12000 ).
+0.466::holdsAt( orientation( id5 )=168, 12000  ). holdsAt( appearance( id5 )=visible,  12000 ).
+0.191::holdsAt( orientation( id6 )=146, 12000  ). holdsAt( appearance( id6 )=visible,  12000 ).
+
+% Frame number: 301
+0.213::holdsAt( orientation( id1 )=155, 12040  ). holdsAt( appearance( id1 )=visible,  12040 ).
+0.273::holdsAt( orientation( id3 )=158, 12040  ). holdsAt( appearance( id3 )=visible,  12040 ).
+0.121::holdsAt( orientation( id5 )=168, 12040  ). holdsAt( appearance( id5 )=visible,  12040 ).
+0.264::holdsAt( orientation( id6 )=146, 12040  ). holdsAt( appearance( id6 )=visible,  12040 ).
+
+% Frame number: 302
+0.237::holdsAt( orientation( id1 )=155, 12080  ). holdsAt( appearance( id1 )=visible,  12080 ).
+0.0829::holdsAt( orientation( id3 )=158, 12080  ). holdsAt( appearance( id3 )=visible,  12080 ).
+0.599::holdsAt( orientation( id5 )=168, 12080  ). holdsAt( appearance( id5 )=visible,  12080 ).
+0.188::holdsAt( orientation( id6 )=146, 12080  ). holdsAt( appearance( id6 )=visible,  12080 ).
+
+% Frame number: 303
+0.647::holdsAt( orientation( id1 )=155, 12120  ). holdsAt( appearance( id1 )=visible,  12120 ).
+0.00707::holdsAt( orientation( id3 )=158, 12120  ). holdsAt( appearance( id3 )=visible,  12120 ).
+0.21::holdsAt( orientation( id5 )=168, 12120  ). holdsAt( appearance( id5 )=visible,  12120 ).
+0.0699::holdsAt( orientation( id6 )=146, 12120  ). holdsAt( appearance( id6 )=visible,  12120 ).
+0.0205::holdsAt( orientation( id7 )=14, 12120  ). holdsAt( appearance( id7 )=appear,  12120 ).
+
+% Frame number: 304
+0.232::holdsAt( orientation( id1 )=155, 12160  ). holdsAt( appearance( id1 )=visible,  12160 ).
+0.117::holdsAt( orientation( id3 )=158, 12160  ). holdsAt( appearance( id3 )=visible,  12160 ).
+0.079::holdsAt( orientation( id5 )=168, 12160  ). holdsAt( appearance( id5 )=visible,  12160 ).
+0.317::holdsAt( orientation( id6 )=146, 12160  ). holdsAt( appearance( id6 )=visible,  12160 ).
+0.237::holdsAt( orientation( id7 )=14, 12160  ). holdsAt( appearance( id7 )=visible,  12160 ).
+
+% Frame number: 305
+0.175::holdsAt( orientation( id1 )=155, 12200  ). holdsAt( appearance( id1 )=visible,  12200 ).
+0.0767::holdsAt( orientation( id3 )=158, 12200  ). holdsAt( appearance( id3 )=visible,  12200 ).
+0.133::holdsAt( orientation( id5 )=168, 12200  ). holdsAt( appearance( id5 )=visible,  12200 ).
+0.134::holdsAt( orientation( id6 )=146, 12200  ). holdsAt( appearance( id6 )=visible,  12200 ).
+0.0736::holdsAt( orientation( id7 )=14, 12200  ). holdsAt( appearance( id7 )=visible,  12200 ).
+
+% Frame number: 306
+0.631::holdsAt( orientation( id1 )=155, 12240  ). holdsAt( appearance( id1 )=visible,  12240 ).
+0.19::holdsAt( orientation( id3 )=158, 12240  ). holdsAt( appearance( id3 )=visible,  12240 ).
+0.197::holdsAt( orientation( id5 )=168, 12240  ). holdsAt( appearance( id5 )=visible,  12240 ).
+0.182::holdsAt( orientation( id6 )=146, 12240  ). holdsAt( appearance( id6 )=visible,  12240 ).
+0.3::holdsAt( orientation( id7 )=14, 12240  ). holdsAt( appearance( id7 )=visible,  12240 ).
+
+% Frame number: 307
+0.492::holdsAt( orientation( id1 )=155, 12280  ). holdsAt( appearance( id1 )=visible,  12280 ).
+0.494::holdsAt( orientation( id3 )=158, 12280  ). holdsAt( appearance( id3 )=visible,  12280 ).
+0.015::holdsAt( orientation( id5 )=168, 12280  ). holdsAt( appearance( id5 )=visible,  12280 ).
+0.00463::holdsAt( orientation( id6 )=146, 12280  ). holdsAt( appearance( id6 )=visible,  12280 ).
+0.0998::holdsAt( orientation( id7 )=14, 12280  ). holdsAt( appearance( id7 )=visible,  12280 ).
+
+% Frame number: 308
+0.141::holdsAt( orientation( id1 )=155, 12320  ). holdsAt( appearance( id1 )=visible,  12320 ).
+0.506::holdsAt( orientation( id3 )=158, 12320  ). holdsAt( appearance( id3 )=visible,  12320 ).
+0.39::holdsAt( orientation( id5 )=168, 12320  ). holdsAt( appearance( id5 )=visible,  12320 ).
+0.211::holdsAt( orientation( id6 )=146, 12320  ). holdsAt( appearance( id6 )=visible,  12320 ).
+0.202::holdsAt( orientation( id7 )=14, 12320  ). holdsAt( appearance( id7 )=visible,  12320 ).
+
+% Frame number: 309
+0.00912::holdsAt( orientation( id1 )=155, 12360  ). holdsAt( appearance( id1 )=visible,  12360 ).
+0.0452::holdsAt( orientation( id3 )=158, 12360  ). holdsAt( appearance( id3 )=visible,  12360 ).
+0.581::holdsAt( orientation( id5 )=168, 12360  ). holdsAt( appearance( id5 )=visible,  12360 ).
+0.545::holdsAt( orientation( id6 )=146, 12360  ). holdsAt( appearance( id6 )=visible,  12360 ).
+0.0703::holdsAt( orientation( id7 )=14, 12360  ). holdsAt( appearance( id7 )=visible,  12360 ).
+
+% Frame number: 310
+0.303::holdsAt( orientation( id1 )=155, 12400  ). holdsAt( appearance( id1 )=visible,  12400 ).
+0.0395::holdsAt( orientation( id3 )=158, 12400  ). holdsAt( appearance( id3 )=visible,  12400 ).
+0.191::holdsAt( orientation( id5 )=168, 12400  ). holdsAt( appearance( id5 )=visible,  12400 ).
+0.189::holdsAt( orientation( id6 )=146, 12400  ). holdsAt( appearance( id6 )=visible,  12400 ).
+0.113::holdsAt( orientation( id7 )=14, 12400  ). holdsAt( appearance( id7 )=visible,  12400 ).
+
+% Frame number: 311
+0.205::holdsAt( orientation( id1 )=155, 12440  ). holdsAt( appearance( id1 )=visible,  12440 ).
+0.351::holdsAt( orientation( id3 )=158, 12440  ). holdsAt( appearance( id3 )=visible,  12440 ).
+0.501::holdsAt( orientation( id5 )=168, 12440  ). holdsAt( appearance( id5 )=visible,  12440 ).
+0.482::holdsAt( orientation( id6 )=146, 12440  ). holdsAt( appearance( id6 )=visible,  12440 ).
+0.0506::holdsAt( orientation( id7 )=14, 12440  ). holdsAt( appearance( id7 )=visible,  12440 ).
+
+% Frame number: 312
+0.107::holdsAt( orientation( id1 )=155, 12480  ). holdsAt( appearance( id1 )=visible,  12480 ).
+0.186::holdsAt( orientation( id3 )=158, 12480  ). holdsAt( appearance( id3 )=visible,  12480 ).
+0.115::holdsAt( orientation( id5 )=168, 12480  ). holdsAt( appearance( id5 )=visible,  12480 ).
+0.523::holdsAt( orientation( id6 )=146, 12480  ). holdsAt( appearance( id6 )=visible,  12480 ).
+0.0124::holdsAt( orientation( id7 )=14, 12480  ). holdsAt( appearance( id7 )=visible,  12480 ).
+
+% Frame number: 313
+0.465::holdsAt( orientation( id1 )=155, 12520  ). holdsAt( appearance( id1 )=visible,  12520 ).
+0.548::holdsAt( orientation( id3 )=158, 12520  ). holdsAt( appearance( id3 )=visible,  12520 ).
+0.401::holdsAt( orientation( id5 )=168, 12520  ). holdsAt( appearance( id5 )=visible,  12520 ).
+0.082::holdsAt( orientation( id6 )=146, 12520  ). holdsAt( appearance( id6 )=visible,  12520 ).
+0.483::holdsAt( orientation( id7 )=14, 12520  ). holdsAt( appearance( id7 )=visible,  12520 ).
+
+% Frame number: 314
+0.0433::holdsAt( orientation( id1 )=155, 12560  ). holdsAt( appearance( id1 )=visible,  12560 ).
+0.369::holdsAt( orientation( id3 )=158, 12560  ). holdsAt( appearance( id3 )=visible,  12560 ).
+0.215::holdsAt( orientation( id5 )=168, 12560  ). holdsAt( appearance( id5 )=visible,  12560 ).
+0.796::holdsAt( orientation( id6 )=146, 12560  ). holdsAt( appearance( id6 )=visible,  12560 ).
+0.259::holdsAt( orientation( id7 )=14, 12560  ). holdsAt( appearance( id7 )=visible,  12560 ).
+
+% Frame number: 315
+0.184::holdsAt( orientation( id1 )=155, 12600  ). holdsAt( appearance( id1 )=visible,  12600 ).
+0.0131::holdsAt( orientation( id3 )=158, 12600  ). holdsAt( appearance( id3 )=visible,  12600 ).
+0.0926::holdsAt( orientation( id5 )=168, 12600  ). holdsAt( appearance( id5 )=visible,  12600 ).
+0.0649::holdsAt( orientation( id6 )=146, 12600  ). holdsAt( appearance( id6 )=visible,  12600 ).
+0.131::holdsAt( orientation( id7 )=14, 12600  ). holdsAt( appearance( id7 )=visible,  12600 ).
+
+% Frame number: 316
+0.0324::holdsAt( orientation( id1 )=155, 12640  ). holdsAt( appearance( id1 )=visible,  12640 ).
+0.0784::holdsAt( orientation( id3 )=158, 12640  ). holdsAt( appearance( id3 )=visible,  12640 ).
+0.223::holdsAt( orientation( id5 )=168, 12640  ). holdsAt( appearance( id5 )=visible,  12640 ).
+0.533::holdsAt( orientation( id6 )=146, 12640  ). holdsAt( appearance( id6 )=visible,  12640 ).
+0.714::holdsAt( orientation( id7 )=14, 12640  ). holdsAt( appearance( id7 )=visible,  12640 ).
+
+% Frame number: 317
+0.171::holdsAt( orientation( id1 )=155, 12680  ). holdsAt( appearance( id1 )=visible,  12680 ).
+0.0211::holdsAt( orientation( id3 )=158, 12680  ). holdsAt( appearance( id3 )=visible,  12680 ).
+0.101::holdsAt( orientation( id5 )=168, 12680  ). holdsAt( appearance( id5 )=visible,  12680 ).
+0.108::holdsAt( orientation( id6 )=146, 12680  ). holdsAt( appearance( id6 )=visible,  12680 ).
+0.569::holdsAt( orientation( id7 )=14, 12680  ). holdsAt( appearance( id7 )=visible,  12680 ).
+
+% Frame number: 318
+0.234::holdsAt( orientation( id1 )=155, 12720  ). holdsAt( appearance( id1 )=visible,  12720 ).
+0.176::holdsAt( orientation( id3 )=158, 12720  ). holdsAt( appearance( id3 )=visible,  12720 ).
+0.212::holdsAt( orientation( id5 )=168, 12720  ). holdsAt( appearance( id5 )=visible,  12720 ).
+0.0451::holdsAt( orientation( id6 )=146, 12720  ). holdsAt( appearance( id6 )=visible,  12720 ).
+0.148::holdsAt( orientation( id7 )=14, 12720  ). holdsAt( appearance( id7 )=visible,  12720 ).
+
+% Frame number: 319
+0.385::holdsAt( orientation( id1 )=155, 12760  ). holdsAt( appearance( id1 )=visible,  12760 ).
+0.186::holdsAt( orientation( id3 )=158, 12760  ). holdsAt( appearance( id3 )=visible,  12760 ).
+0.0335::holdsAt( orientation( id5 )=168, 12760  ). holdsAt( appearance( id5 )=visible,  12760 ).
+0.00277::holdsAt( orientation( id6 )=146, 12760  ). holdsAt( appearance( id6 )=visible,  12760 ).
+0.138::holdsAt( orientation( id7 )=14, 12760  ). holdsAt( appearance( id7 )=visible,  12760 ).
+
+% Frame number: 320
+0.245::holdsAt( orientation( id1 )=155, 12800  ). holdsAt( appearance( id1 )=visible,  12800 ).
+0.368::holdsAt( orientation( id3 )=158, 12800  ). holdsAt( appearance( id3 )=visible,  12800 ).
+0.506::holdsAt( orientation( id5 )=168, 12800  ). holdsAt( appearance( id5 )=visible,  12800 ).
+0.0758::holdsAt( orientation( id6 )=146, 12800  ). holdsAt( appearance( id6 )=visible,  12800 ).
+0.104::holdsAt( orientation( id7 )=14, 12800  ). holdsAt( appearance( id7 )=visible,  12800 ).
+
+% Frame number: 321
+0.243::holdsAt( orientation( id1 )=155, 12840  ). holdsAt( appearance( id1 )=visible,  12840 ).
+0.305::holdsAt( orientation( id3 )=158, 12840  ). holdsAt( appearance( id3 )=visible,  12840 ).
+0.00848::holdsAt( orientation( id5 )=168, 12840  ). holdsAt( appearance( id5 )=visible,  12840 ).
+0.0493::holdsAt( orientation( id6 )=146, 12840  ). holdsAt( appearance( id6 )=visible,  12840 ).
+0.298::holdsAt( orientation( id7 )=14, 12840  ). holdsAt( appearance( id7 )=visible,  12840 ).
+
+% Frame number: 322
+0.452::holdsAt( orientation( id1 )=155, 12880  ). holdsAt( appearance( id1 )=visible,  12880 ).
+0.218::holdsAt( orientation( id3 )=165, 12880  ). holdsAt( appearance( id3 )=visible,  12880 ).
+0.151::holdsAt( orientation( id5 )=168, 12880  ). holdsAt( appearance( id5 )=visible,  12880 ).
+0.126::holdsAt( orientation( id6 )=146, 12880  ). holdsAt( appearance( id6 )=visible,  12880 ).
+0.491::holdsAt( orientation( id7 )=14, 12880  ). holdsAt( appearance( id7 )=visible,  12880 ).
+
+% Frame number: 323
+0.0195::holdsAt( orientation( id1 )=155, 12920  ). holdsAt( appearance( id1 )=visible,  12920 ).
+0.184::holdsAt( orientation( id3 )=165, 12920  ). holdsAt( appearance( id3 )=visible,  12920 ).
+0.326::holdsAt( orientation( id5 )=168, 12920  ). holdsAt( appearance( id5 )=visible,  12920 ).
+0.184::holdsAt( orientation( id6 )=146, 12920  ). holdsAt( appearance( id6 )=visible,  12920 ).
+0.231::holdsAt( orientation( id7 )=14, 12920  ). holdsAt( appearance( id7 )=visible,  12920 ).
+
+% Frame number: 324
+0.0407::holdsAt( orientation( id1 )=155, 12960  ). holdsAt( appearance( id1 )=visible,  12960 ).
+0.141::holdsAt( orientation( id3 )=165, 12960  ). holdsAt( appearance( id3 )=visible,  12960 ).
+0.331::holdsAt( orientation( id5 )=168, 12960  ). holdsAt( appearance( id5 )=visible,  12960 ).
+0.193::holdsAt( orientation( id6 )=146, 12960  ). holdsAt( appearance( id6 )=visible,  12960 ).
+0.284::holdsAt( orientation( id7 )=0, 12960  ). holdsAt( appearance( id7 )=visible,  12960 ).
+
+% Frame number: 325
+0.33::holdsAt( orientation( id1 )=155, 13000  ). holdsAt( appearance( id1 )=visible,  13000 ).
+0.147::holdsAt( orientation( id3 )=165, 13000  ). holdsAt( appearance( id3 )=visible,  13000 ).
+0.0585::holdsAt( orientation( id5 )=168, 13000  ). holdsAt( appearance( id5 )=visible,  13000 ).
+0.0552::holdsAt( orientation( id6 )=146, 13000  ). holdsAt( appearance( id6 )=visible,  13000 ).
+0.225::holdsAt( orientation( id7 )=0, 13000  ). holdsAt( appearance( id7 )=visible,  13000 ).
+
+% Frame number: 326
+0.505::holdsAt( orientation( id1 )=155, 13040  ). holdsAt( appearance( id1 )=visible,  13040 ).
+0.234::holdsAt( orientation( id3 )=165, 13040  ). holdsAt( appearance( id3 )=visible,  13040 ).
+0.211::holdsAt( orientation( id5 )=168, 13040  ). holdsAt( appearance( id5 )=visible,  13040 ).
+0.000658::holdsAt( orientation( id6 )=146, 13040  ). holdsAt( appearance( id6 )=visible,  13040 ).
+0.139::holdsAt( orientation( id7 )=170, 13040  ). holdsAt( appearance( id7 )=visible,  13040 ).
+
+% Frame number: 327
+0.00798::holdsAt( orientation( id1 )=155, 13080  ). holdsAt( appearance( id1 )=visible,  13080 ).
+0.362::holdsAt( orientation( id3 )=165, 13080  ). holdsAt( appearance( id3 )=visible,  13080 ).
+0.425::holdsAt( orientation( id5 )=168, 13080  ). holdsAt( appearance( id5 )=disappear,  13080 ).
+0.231::holdsAt( orientation( id6 )=146, 13080  ). holdsAt( appearance( id6 )=visible,  13080 ).
+0.0836::holdsAt( orientation( id7 )=162, 13080  ). holdsAt( appearance( id7 )=visible,  13080 ).
+
+% Frame number: 328
+0.194::holdsAt( orientation( id1 )=155, 13120  ). holdsAt( appearance( id1 )=visible,  13120 ).
+0.375::holdsAt( orientation( id3 )=165, 13120  ). holdsAt( appearance( id3 )=visible,  13120 ).
+0.42::holdsAt( orientation( id6 )=146, 13120  ). holdsAt( appearance( id6 )=visible,  13120 ).
+0.616::holdsAt( orientation( id7 )=167, 13120  ). holdsAt( appearance( id7 )=visible,  13120 ).
+
+% Frame number: 329
+0.0211::holdsAt( orientation( id1 )=155, 13160  ). holdsAt( appearance( id1 )=visible,  13160 ).
+0.347::holdsAt( orientation( id3 )=165, 13160  ). holdsAt( appearance( id3 )=visible,  13160 ).
+0.339::holdsAt( orientation( id6 )=146, 13160  ). holdsAt( appearance( id6 )=visible,  13160 ).
+0.143::holdsAt( orientation( id7 )=167, 13160  ). holdsAt( appearance( id7 )=visible,  13160 ).
+
+% Frame number: 330
+0.318::holdsAt( orientation( id1 )=155, 13200  ). holdsAt( appearance( id1 )=visible,  13200 ).
+0.13::holdsAt( orientation( id3 )=165, 13200  ). holdsAt( appearance( id3 )=visible,  13200 ).
+0.429::holdsAt( orientation( id6 )=146, 13200  ). holdsAt( appearance( id6 )=visible,  13200 ).
+0.0814::holdsAt( orientation( id7 )=167, 13200  ). holdsAt( appearance( id7 )=visible,  13200 ).
+
+% Frame number: 331
+0.00438::holdsAt( orientation( id1 )=155, 13240  ). holdsAt( appearance( id1 )=visible,  13240 ).
+0.669::holdsAt( orientation( id3 )=165, 13240  ). holdsAt( appearance( id3 )=visible,  13240 ).
+0.575::holdsAt( orientation( id6 )=146, 13240  ). holdsAt( appearance( id6 )=visible,  13240 ).
+0.247::holdsAt( orientation( id7 )=167, 13240  ). holdsAt( appearance( id7 )=visible,  13240 ).
+
+% Frame number: 332
+0.164::holdsAt( orientation( id1 )=155, 13280  ). holdsAt( appearance( id1 )=visible,  13280 ).
+0.0451::holdsAt( orientation( id3 )=165, 13280  ). holdsAt( appearance( id3 )=visible,  13280 ).
+0.0742::holdsAt( orientation( id6 )=146, 13280  ). holdsAt( appearance( id6 )=visible,  13280 ).
+0.000312::holdsAt( orientation( id7 )=167, 13280  ). holdsAt( appearance( id7 )=visible,  13280 ).
+
+% Frame number: 333
+0.162::holdsAt( orientation( id1 )=155, 13320  ). holdsAt( appearance( id1 )=visible,  13320 ).
+0.0371::holdsAt( orientation( id3 )=165, 13320  ). holdsAt( appearance( id3 )=visible,  13320 ).
+0.7::holdsAt( orientation( id6 )=146, 13320  ). holdsAt( appearance( id6 )=visible,  13320 ).
+0.0782::holdsAt( orientation( id7 )=167, 13320  ). holdsAt( appearance( id7 )=visible,  13320 ).
+
+% Frame number: 334
+0.0445::holdsAt( orientation( id1 )=155, 13360  ). holdsAt( appearance( id1 )=visible,  13360 ).
+0.291::holdsAt( orientation( id3 )=165, 13360  ). holdsAt( appearance( id3 )=visible,  13360 ).
+0.271::holdsAt( orientation( id6 )=146, 13360  ). holdsAt( appearance( id6 )=visible,  13360 ).
+0.219::holdsAt( orientation( id7 )=167, 13360  ). holdsAt( appearance( id7 )=visible,  13360 ).
+
+% Frame number: 335
+0.146::holdsAt( orientation( id1 )=155, 13400  ). holdsAt( appearance( id1 )=visible,  13400 ).
+0.135::holdsAt( orientation( id3 )=165, 13400  ). holdsAt( appearance( id3 )=visible,  13400 ).
+0.165::holdsAt( orientation( id6 )=146, 13400  ). holdsAt( appearance( id6 )=visible,  13400 ).
+0.108::holdsAt( orientation( id7 )=167, 13400  ). holdsAt( appearance( id7 )=visible,  13400 ).
+
+% Frame number: 336
+0.222::holdsAt( orientation( id1 )=155, 13440  ). holdsAt( appearance( id1 )=visible,  13440 ).
+0.0222::holdsAt( orientation( id3 )=165, 13440  ). holdsAt( appearance( id3 )=visible,  13440 ).
+0.0164::holdsAt( orientation( id6 )=146, 13440  ). holdsAt( appearance( id6 )=visible,  13440 ).
+0.0967::holdsAt( orientation( id7 )=167, 13440  ). holdsAt( appearance( id7 )=visible,  13440 ).
+
+% Frame number: 337
+0.298::holdsAt( orientation( id1 )=155, 13480  ). holdsAt( appearance( id1 )=visible,  13480 ).
+0.746::holdsAt( orientation( id3 )=165, 13480  ). holdsAt( appearance( id3 )=visible,  13480 ).
+0.301::holdsAt( orientation( id6 )=146, 13480  ). holdsAt( appearance( id6 )=visible,  13480 ).
+0.384::holdsAt( orientation( id7 )=167, 13480  ). holdsAt( appearance( id7 )=visible,  13480 ).
+
+% Frame number: 338
+0.185::holdsAt( orientation( id1 )=155, 13520  ). holdsAt( appearance( id1 )=visible,  13520 ).
+0.277::holdsAt( orientation( id3 )=165, 13520  ). holdsAt( appearance( id3 )=visible,  13520 ).
+0.321::holdsAt( orientation( id6 )=146, 13520  ). holdsAt( appearance( id6 )=visible,  13520 ).
+0.205::holdsAt( orientation( id7 )=167, 13520  ). holdsAt( appearance( id7 )=visible,  13520 ).
+
+% Frame number: 339
+0.215::holdsAt( orientation( id1 )=155, 13560  ). holdsAt( appearance( id1 )=visible,  13560 ).
+0.219::holdsAt( orientation( id3 )=165, 13560  ). holdsAt( appearance( id3 )=visible,  13560 ).
+0.322::holdsAt( orientation( id6 )=146, 13560  ). holdsAt( appearance( id6 )=visible,  13560 ).
+0.324::holdsAt( orientation( id7 )=167, 13560  ). holdsAt( appearance( id7 )=visible,  13560 ).
+
+% Frame number: 340
+0.186::holdsAt( orientation( id1 )=143, 13600  ). holdsAt( appearance( id1 )=visible,  13600 ).
+0.247::holdsAt( orientation( id3 )=165, 13600  ). holdsAt( appearance( id3 )=visible,  13600 ).
+0.382::holdsAt( orientation( id6 )=160, 13600  ). holdsAt( appearance( id6 )=visible,  13600 ).
+0.395::holdsAt( orientation( id7 )=167, 13600  ). holdsAt( appearance( id7 )=visible,  13600 ).
+
+% Frame number: 341
+0.253::holdsAt( orientation( id1 )=143, 13640  ). holdsAt( appearance( id1 )=visible,  13640 ).
+0.405::holdsAt( orientation( id3 )=165, 13640  ). holdsAt( appearance( id3 )=visible,  13640 ).
+0.115::holdsAt( orientation( id6 )=160, 13640  ). holdsAt( appearance( id6 )=visible,  13640 ).
+0.141::holdsAt( orientation( id7 )=167, 13640  ). holdsAt( appearance( id7 )=visible,  13640 ).
+
+% Frame number: 342
+0.215::holdsAt( orientation( id1 )=143, 13680  ). holdsAt( appearance( id1 )=visible,  13680 ).
+0.139::holdsAt( orientation( id3 )=165, 13680  ). holdsAt( appearance( id3 )=visible,  13680 ).
+0.137::holdsAt( orientation( id6 )=160, 13680  ). holdsAt( appearance( id6 )=visible,  13680 ).
+0.345::holdsAt( orientation( id7 )=174, 13680  ). holdsAt( appearance( id7 )=visible,  13680 ).
+
+% Frame number: 343
+0.123::holdsAt( orientation( id1 )=143, 13720  ). holdsAt( appearance( id1 )=visible,  13720 ).
+0.147::holdsAt( orientation( id3 )=165, 13720  ). holdsAt( appearance( id3 )=visible,  13720 ).
+0.153::holdsAt( orientation( id6 )=160, 13720  ). holdsAt( appearance( id6 )=visible,  13720 ).
+0.203::holdsAt( orientation( id7 )=174, 13720  ). holdsAt( appearance( id7 )=visible,  13720 ).
+
+% Frame number: 344
+0.0945::holdsAt( orientation( id1 )=143, 13760  ). holdsAt( appearance( id1 )=visible,  13760 ).
+0.0867::holdsAt( orientation( id3 )=165, 13760  ). holdsAt( appearance( id3 )=visible,  13760 ).
+0.0253::holdsAt( orientation( id6 )=160, 13760  ). holdsAt( appearance( id6 )=visible,  13760 ).
+0.0708::holdsAt( orientation( id7 )=174, 13760  ). holdsAt( appearance( id7 )=visible,  13760 ).
+
+% Frame number: 345
+0.426::holdsAt( orientation( id1 )=143, 13800  ). holdsAt( appearance( id1 )=visible,  13800 ).
+0.18::holdsAt( orientation( id3 )=165, 13800  ). holdsAt( appearance( id3 )=visible,  13800 ).
+0.245::holdsAt( orientation( id6 )=160, 13800  ). holdsAt( appearance( id6 )=visible,  13800 ).
+0.299::holdsAt( orientation( id7 )=174, 13800  ). holdsAt( appearance( id7 )=visible,  13800 ).
+
+% Frame number: 346
+0.17::holdsAt( orientation( id1 )=143, 13840  ). holdsAt( appearance( id1 )=visible,  13840 ).
+0.134::holdsAt( orientation( id3 )=165, 13840  ). holdsAt( appearance( id3 )=visible,  13840 ).
+0.0395::holdsAt( orientation( id6 )=160, 13840  ). holdsAt( appearance( id6 )=visible,  13840 ).
+0.435::holdsAt( orientation( id7 )=174, 13840  ). holdsAt( appearance( id7 )=visible,  13840 ).
+
+% Frame number: 347
+0.219::holdsAt( orientation( id1 )=143, 13880  ). holdsAt( appearance( id1 )=visible,  13880 ).
+0.0375::holdsAt( orientation( id3 )=165, 13880  ). holdsAt( appearance( id3 )=visible,  13880 ).
+0.105::holdsAt( orientation( id6 )=160, 13880  ). holdsAt( appearance( id6 )=visible,  13880 ).
+0.0759::holdsAt( orientation( id7 )=174, 13880  ). holdsAt( appearance( id7 )=visible,  13880 ).
+
+% Frame number: 348
+0.109::holdsAt( orientation( id1 )=143, 13920  ). holdsAt( appearance( id1 )=visible,  13920 ).
+0.235::holdsAt( orientation( id3 )=165, 13920  ). holdsAt( appearance( id3 )=visible,  13920 ).
+0.15::holdsAt( orientation( id6 )=160, 13920  ). holdsAt( appearance( id6 )=visible,  13920 ).
+0.397::holdsAt( orientation( id7 )=174, 13920  ). holdsAt( appearance( id7 )=visible,  13920 ).
+
+% Frame number: 349
+0.2::holdsAt( orientation( id1 )=143, 13960  ). holdsAt( appearance( id1 )=visible,  13960 ).
+0.455::holdsAt( orientation( id3 )=165, 13960  ). holdsAt( appearance( id3 )=visible,  13960 ).
+0.055::holdsAt( orientation( id6 )=160, 13960  ). holdsAt( appearance( id6 )=visible,  13960 ).
+0.621::holdsAt( orientation( id7 )=174, 13960  ). holdsAt( appearance( id7 )=visible,  13960 ).
+
+% Frame number: 350
+0.0345::holdsAt( orientation( id1 )=143, 14000  ). holdsAt( appearance( id1 )=visible,  14000 ).
+0.32::holdsAt( orientation( id3 )=165, 14000  ). holdsAt( appearance( id3 )=visible,  14000 ).
+0.604::holdsAt( orientation( id6 )=160, 14000  ). holdsAt( appearance( id6 )=visible,  14000 ).
+0.0167::holdsAt( orientation( id7 )=174, 14000  ). holdsAt( appearance( id7 )=visible,  14000 ).
+
+% Frame number: 351
+0.0569::holdsAt( orientation( id1 )=143, 14040  ). holdsAt( appearance( id1 )=visible,  14040 ).
+0.0135::holdsAt( orientation( id3 )=165, 14040  ). holdsAt( appearance( id3 )=visible,  14040 ).
+0.0673::holdsAt( orientation( id6 )=160, 14040  ). holdsAt( appearance( id6 )=visible,  14040 ).
+0.239::holdsAt( orientation( id7 )=174, 14040  ). holdsAt( appearance( id7 )=visible,  14040 ).
+
+% Frame number: 352
+0.491::holdsAt( orientation( id1 )=143, 14080  ). holdsAt( appearance( id1 )=visible,  14080 ).
+0.328::holdsAt( orientation( id3 )=165, 14080  ). holdsAt( appearance( id3 )=visible,  14080 ).
+0.303::holdsAt( orientation( id6 )=160, 14080  ). holdsAt( appearance( id6 )=visible,  14080 ).
+0.0278::holdsAt( orientation( id7 )=174, 14080  ). holdsAt( appearance( id7 )=visible,  14080 ).
+
+% Frame number: 353
+0.214::holdsAt( orientation( id1 )=143, 14120  ). holdsAt( appearance( id1 )=visible,  14120 ).
+0.0199::holdsAt( orientation( id3 )=165, 14120  ). holdsAt( appearance( id3 )=visible,  14120 ).
+0.124::holdsAt( orientation( id6 )=160, 14120  ). holdsAt( appearance( id6 )=visible,  14120 ).
+0.441::holdsAt( orientation( id7 )=174, 14120  ). holdsAt( appearance( id7 )=visible,  14120 ).
+
+% Frame number: 354
+0.463::holdsAt( orientation( id1 )=143, 14160  ). holdsAt( appearance( id1 )=visible,  14160 ).
+0.378::holdsAt( orientation( id3 )=165, 14160  ). holdsAt( appearance( id3 )=visible,  14160 ).
+0.183::holdsAt( orientation( id6 )=160, 14160  ). holdsAt( appearance( id6 )=visible,  14160 ).
+0.226::holdsAt( orientation( id7 )=174, 14160  ). holdsAt( appearance( id7 )=visible,  14160 ).
+
+% Frame number: 355
+0.214::holdsAt( orientation( id1 )=143, 14200  ). holdsAt( appearance( id1 )=visible,  14200 ).
+0.295::holdsAt( orientation( id3 )=165, 14200  ). holdsAt( appearance( id3 )=visible,  14200 ).
+0.221::holdsAt( orientation( id6 )=160, 14200  ). holdsAt( appearance( id6 )=visible,  14200 ).
+0.287::holdsAt( orientation( id7 )=174, 14200  ). holdsAt( appearance( id7 )=visible,  14200 ).
+
+% Frame number: 356
+0.316::holdsAt( orientation( id1 )=143, 14240  ). holdsAt( appearance( id1 )=visible,  14240 ).
+0.196::holdsAt( orientation( id3 )=165, 14240  ). holdsAt( appearance( id3 )=visible,  14240 ).
+0.126::holdsAt( orientation( id6 )=160, 14240  ). holdsAt( appearance( id6 )=visible,  14240 ).
+0.0887::holdsAt( orientation( id7 )=174, 14240  ). holdsAt( appearance( id7 )=visible,  14240 ).
+
+% Frame number: 357
+0.3::holdsAt( orientation( id1 )=143, 14280  ). holdsAt( appearance( id1 )=visible,  14280 ).
+0.0231::holdsAt( orientation( id3 )=165, 14280  ). holdsAt( appearance( id3 )=visible,  14280 ).
+0.114::holdsAt( orientation( id6 )=160, 14280  ). holdsAt( appearance( id6 )=visible,  14280 ).
+0.105::holdsAt( orientation( id7 )=174, 14280  ). holdsAt( appearance( id7 )=visible,  14280 ).
+
+% Frame number: 358
+0.249::holdsAt( orientation( id1 )=143, 14320  ). holdsAt( appearance( id1 )=visible,  14320 ).
+0.634::holdsAt( orientation( id3 )=165, 14320  ). holdsAt( appearance( id3 )=visible,  14320 ).
+0.28::holdsAt( orientation( id6 )=160, 14320  ). holdsAt( appearance( id6 )=visible,  14320 ).
+0.0752::holdsAt( orientation( id7 )=174, 14320  ). holdsAt( appearance( id7 )=visible,  14320 ).
+
+% Frame number: 359
+0.47::holdsAt( orientation( id1 )=143, 14360  ). holdsAt( appearance( id1 )=visible,  14360 ).
+0.211::holdsAt( orientation( id3 )=165, 14360  ). holdsAt( appearance( id3 )=visible,  14360 ).
+0.0235::holdsAt( orientation( id6 )=160, 14360  ). holdsAt( appearance( id6 )=visible,  14360 ).
+0.0619::holdsAt( orientation( id7 )=174, 14360  ). holdsAt( appearance( id7 )=visible,  14360 ).
+
+% Frame number: 360
+0.0966::holdsAt( orientation( id1 )=143, 14400  ). holdsAt( appearance( id1 )=visible,  14400 ).
+0.122::holdsAt( orientation( id3 )=165, 14400  ). holdsAt( appearance( id3 )=visible,  14400 ).
+0.293::holdsAt( orientation( id6 )=160, 14400  ). holdsAt( appearance( id6 )=visible,  14400 ).
+0.329::holdsAt( orientation( id7 )=174, 14400  ). holdsAt( appearance( id7 )=visible,  14400 ).
+
+% Frame number: 361
+0.0216::holdsAt( orientation( id1 )=143, 14440  ). holdsAt( appearance( id1 )=visible,  14440 ).
+0.734::holdsAt( orientation( id3 )=165, 14440  ). holdsAt( appearance( id3 )=visible,  14440 ).
+0.0386::holdsAt( orientation( id6 )=160, 14440  ). holdsAt( appearance( id6 )=visible,  14440 ).
+0.361::holdsAt( orientation( id7 )=174, 14440  ). holdsAt( appearance( id7 )=visible,  14440 ).
+
+% Frame number: 362
+0.223::holdsAt( orientation( id1 )=143, 14480  ). holdsAt( appearance( id1 )=visible,  14480 ).
+0.2::holdsAt( orientation( id3 )=165, 14480  ). holdsAt( appearance( id3 )=visible,  14480 ).
+0.331::holdsAt( orientation( id6 )=160, 14480  ). holdsAt( appearance( id6 )=visible,  14480 ).
+0.15::holdsAt( orientation( id7 )=174, 14480  ). holdsAt( appearance( id7 )=visible,  14480 ).
+
+% Frame number: 363
+0.023::holdsAt( orientation( id1 )=143, 14520  ). holdsAt( appearance( id1 )=visible,  14520 ).
+0.739::holdsAt( orientation( id3 )=165, 14520  ). holdsAt( appearance( id3 )=visible,  14520 ).
+0.407::holdsAt( orientation( id6 )=160, 14520  ). holdsAt( appearance( id6 )=visible,  14520 ).
+0.215::holdsAt( orientation( id7 )=174, 14520  ). holdsAt( appearance( id7 )=visible,  14520 ).
+
+% Frame number: 364
+0.287::holdsAt( orientation( id1 )=143, 14560  ). holdsAt( appearance( id1 )=visible,  14560 ).
+0.183::holdsAt( orientation( id3 )=165, 14560  ). holdsAt( appearance( id3 )=visible,  14560 ).
+0.144::holdsAt( orientation( id6 )=160, 14560  ). holdsAt( appearance( id6 )=visible,  14560 ).
+0.0143::holdsAt( orientation( id7 )=174, 14560  ). holdsAt( appearance( id7 )=visible,  14560 ).
+
+% Frame number: 365
+0.0354::holdsAt( orientation( id1 )=143, 14600  ). holdsAt( appearance( id1 )=visible,  14600 ).
+0.256::holdsAt( orientation( id3 )=165, 14600  ). holdsAt( appearance( id3 )=visible,  14600 ).
+0.479::holdsAt( orientation( id6 )=160, 14600  ). holdsAt( appearance( id6 )=visible,  14600 ).
+0.0316::holdsAt( orientation( id7 )=174, 14600  ). holdsAt( appearance( id7 )=visible,  14600 ).
+
+% Frame number: 366
+0.566::holdsAt( orientation( id1 )=143, 14640  ). holdsAt( appearance( id1 )=visible,  14640 ).
+0.305::holdsAt( orientation( id3 )=165, 14640  ). holdsAt( appearance( id3 )=visible,  14640 ).
+0.263::holdsAt( orientation( id6 )=160, 14640  ). holdsAt( appearance( id6 )=visible,  14640 ).
+0.172::holdsAt( orientation( id7 )=174, 14640  ). holdsAt( appearance( id7 )=visible,  14640 ).
+
+% Frame number: 367
+0.0114::holdsAt( orientation( id1 )=143, 14680  ). holdsAt( appearance( id1 )=visible,  14680 ).
+0.0636::holdsAt( orientation( id3 )=165, 14680  ). holdsAt( appearance( id3 )=visible,  14680 ).
+0.224::holdsAt( orientation( id6 )=160, 14680  ). holdsAt( appearance( id6 )=visible,  14680 ).
+0.139::holdsAt( orientation( id7 )=174, 14680  ). holdsAt( appearance( id7 )=visible,  14680 ).
+
+% Frame number: 368
+0.252::holdsAt( orientation( id1 )=143, 14720  ). holdsAt( appearance( id1 )=visible,  14720 ).
+0.329::holdsAt( orientation( id3 )=165, 14720  ). holdsAt( appearance( id3 )=visible,  14720 ).
+0.15::holdsAt( orientation( id6 )=160, 14720  ). holdsAt( appearance( id6 )=visible,  14720 ).
+0.294::holdsAt( orientation( id7 )=174, 14720  ). holdsAt( appearance( id7 )=visible,  14720 ).
+
+% Frame number: 369
+0.0526::holdsAt( orientation( id1 )=143, 14760  ). holdsAt( appearance( id1 )=visible,  14760 ).
+0.0813::holdsAt( orientation( id3 )=165, 14760  ). holdsAt( appearance( id3 )=visible,  14760 ).
+0.17::holdsAt( orientation( id6 )=160, 14760  ). holdsAt( appearance( id6 )=visible,  14760 ).
+0.158::holdsAt( orientation( id7 )=174, 14760  ). holdsAt( appearance( id7 )=visible,  14760 ).
+
+% Frame number: 370
+0.0184::holdsAt( orientation( id1 )=143, 14800  ). holdsAt( appearance( id1 )=visible,  14800 ).
+0.214::holdsAt( orientation( id3 )=165, 14800  ). holdsAt( appearance( id3 )=visible,  14800 ).
+0.13::holdsAt( orientation( id6 )=160, 14800  ). holdsAt( appearance( id6 )=visible,  14800 ).
+0.0454::holdsAt( orientation( id7 )=174, 14800  ). holdsAt( appearance( id7 )=visible,  14800 ).
+
+% Frame number: 371
+0.052::holdsAt( orientation( id1 )=143, 14840  ). holdsAt( appearance( id1 )=visible,  14840 ).
+0.078::holdsAt( orientation( id3 )=165, 14840  ). holdsAt( appearance( id3 )=visible,  14840 ).
+0.0234::holdsAt( orientation( id6 )=160, 14840  ). holdsAt( appearance( id6 )=visible,  14840 ).
+0.285::holdsAt( orientation( id7 )=174, 14840  ). holdsAt( appearance( id7 )=visible,  14840 ).
+
+% Frame number: 372
+0.0697::holdsAt( orientation( id1 )=143, 14880  ). holdsAt( appearance( id1 )=visible,  14880 ).
+0.0507::holdsAt( orientation( id3 )=165, 14880  ). holdsAt( appearance( id3 )=visible,  14880 ).
+0.122::holdsAt( orientation( id6 )=160, 14880  ). holdsAt( appearance( id6 )=visible,  14880 ).
+0.292::holdsAt( orientation( id7 )=174, 14880  ). holdsAt( appearance( id7 )=visible,  14880 ).
+
+% Frame number: 373
+0.187::holdsAt( orientation( id1 )=143, 14920  ). holdsAt( appearance( id1 )=visible,  14920 ).
+0.491::holdsAt( orientation( id3 )=165, 14920  ). holdsAt( appearance( id3 )=visible,  14920 ).
+0.111::holdsAt( orientation( id6 )=160, 14920  ). holdsAt( appearance( id6 )=visible,  14920 ).
+0.0438::holdsAt( orientation( id7 )=174, 14920  ). holdsAt( appearance( id7 )=visible,  14920 ).
+
+% Frame number: 374
+0.0253::holdsAt( orientation( id1 )=143, 14960  ). holdsAt( appearance( id1 )=visible,  14960 ).
+0.179::holdsAt( orientation( id3 )=165, 14960  ). holdsAt( appearance( id3 )=visible,  14960 ).
+0.115::holdsAt( orientation( id6 )=160, 14960  ). holdsAt( appearance( id6 )=visible,  14960 ).
+0.249::holdsAt( orientation( id7 )=174, 14960  ). holdsAt( appearance( id7 )=visible,  14960 ).
+
+% Frame number: 375
+0.154::holdsAt( orientation( id1 )=143, 15000  ). holdsAt( appearance( id1 )=visible,  15000 ).
+0.221::holdsAt( orientation( id3 )=165, 15000  ). holdsAt( appearance( id3 )=visible,  15000 ).
+0.0448::holdsAt( orientation( id6 )=160, 15000  ). holdsAt( appearance( id6 )=visible,  15000 ).
+0.123::holdsAt( orientation( id7 )=174, 15000  ). holdsAt( appearance( id7 )=visible,  15000 ).
+
+% Frame number: 376
+0.252::holdsAt( orientation( id1 )=143, 15040  ). holdsAt( appearance( id1 )=visible,  15040 ).
+0.0325::holdsAt( orientation( id3 )=165, 15040  ). holdsAt( appearance( id3 )=visible,  15040 ).
+0.379::holdsAt( orientation( id6 )=160, 15040  ). holdsAt( appearance( id6 )=disappear,  15040 ).
+0.243::holdsAt( orientation( id7 )=174, 15040  ). holdsAt( appearance( id7 )=visible,  15040 ).
+
+% Frame number: 377
+0.0449::holdsAt( orientation( id1 )=143, 15080  ). holdsAt( appearance( id1 )=visible,  15080 ).
+0.215::holdsAt( orientation( id3 )=165, 15080  ). holdsAt( appearance( id3 )=visible,  15080 ).
+0.486::holdsAt( orientation( id7 )=174, 15080  ). holdsAt( appearance( id7 )=visible,  15080 ).
+
+% Frame number: 378
+0.116::holdsAt( orientation( id1 )=143, 15120  ). holdsAt( appearance( id1 )=visible,  15120 ).
+0.133::holdsAt( orientation( id3 )=165, 15120  ). holdsAt( appearance( id3 )=visible,  15120 ).
+0.204::holdsAt( orientation( id7 )=174, 15120  ). holdsAt( appearance( id7 )=visible,  15120 ).
+
+% Frame number: 379
+0.0356::holdsAt( orientation( id1 )=143, 15160  ). holdsAt( appearance( id1 )=visible,  15160 ).
+0.445::holdsAt( orientation( id3 )=165, 15160  ). holdsAt( appearance( id3 )=visible,  15160 ).
+0.0322::holdsAt( orientation( id7 )=174, 15160  ). holdsAt( appearance( id7 )=visible,  15160 ).
+
+% Frame number: 380
+0.0479::holdsAt( orientation( id1 )=143, 15200  ). holdsAt( appearance( id1 )=visible,  15200 ).
+0.314::holdsAt( orientation( id3 )=165, 15200  ). holdsAt( appearance( id3 )=visible,  15200 ).
+0.0995::holdsAt( orientation( id7 )=174, 15200  ). holdsAt( appearance( id7 )=visible,  15200 ).
+
+% Frame number: 381
+0.0387::holdsAt( orientation( id1 )=143, 15240  ). holdsAt( appearance( id1 )=visible,  15240 ).
+0.273::holdsAt( orientation( id3 )=165, 15240  ). holdsAt( appearance( id3 )=visible,  15240 ).
+0.0075::holdsAt( orientation( id7 )=174, 15240  ). holdsAt( appearance( id7 )=visible,  15240 ).
+
+% Frame number: 382
+0.0905::holdsAt( orientation( id1 )=143, 15280  ). holdsAt( appearance( id1 )=visible,  15280 ).
+0.113::holdsAt( orientation( id3 )=165, 15280  ). holdsAt( appearance( id3 )=visible,  15280 ).
+0.749::holdsAt( orientation( id7 )=174, 15280  ). holdsAt( appearance( id7 )=visible,  15280 ).
+
+% Frame number: 383
+0.145::holdsAt( orientation( id1 )=143, 15320  ). holdsAt( appearance( id1 )=visible,  15320 ).
+0.574::holdsAt( orientation( id3 )=165, 15320  ). holdsAt( appearance( id3 )=visible,  15320 ).
+0.28::holdsAt( orientation( id7 )=174, 15320  ). holdsAt( appearance( id7 )=visible,  15320 ).
+
+% Frame number: 384
+0.366::holdsAt( orientation( id1 )=143, 15360  ). holdsAt( appearance( id1 )=visible,  15360 ).
+0.466::holdsAt( orientation( id3 )=165, 15360  ). holdsAt( appearance( id3 )=visible,  15360 ).
+0.198::holdsAt( orientation( id7 )=174, 15360  ). holdsAt( appearance( id7 )=visible,  15360 ).
+
+% Frame number: 385
+0.556::holdsAt( orientation( id1 )=143, 15400  ). holdsAt( appearance( id1 )=visible,  15400 ).
+0.359::holdsAt( orientation( id3 )=165, 15400  ). holdsAt( appearance( id3 )=visible,  15400 ).
+0.0582::holdsAt( orientation( id7 )=174, 15400  ). holdsAt( appearance( id7 )=visible,  15400 ).
+
+% Frame number: 386
+0.182::holdsAt( orientation( id1 )=143, 15440  ). holdsAt( appearance( id1 )=visible,  15440 ).
+0.636::holdsAt( orientation( id3 )=165, 15440  ). holdsAt( appearance( id3 )=visible,  15440 ).
+0.029::holdsAt( orientation( id7 )=174, 15440  ). holdsAt( appearance( id7 )=visible,  15440 ).
+
+% Frame number: 387
+0.439::holdsAt( orientation( id1 )=143, 15480  ). holdsAt( appearance( id1 )=visible,  15480 ).
+0.102::holdsAt( orientation( id3 )=165, 15480  ). holdsAt( appearance( id3 )=visible,  15480 ).
+0.106::holdsAt( orientation( id7 )=174, 15480  ). holdsAt( appearance( id7 )=visible,  15480 ).
+
+% Frame number: 388
+0.0978::holdsAt( orientation( id1 )=143, 15520  ). holdsAt( appearance( id1 )=visible,  15520 ).
+0.291::holdsAt( orientation( id3 )=165, 15520  ). holdsAt( appearance( id3 )=visible,  15520 ).
+0.233::holdsAt( orientation( id7 )=174, 15520  ). holdsAt( appearance( id7 )=visible,  15520 ).
+
+% Frame number: 389
+0.0345::holdsAt( orientation( id1 )=143, 15560  ). holdsAt( appearance( id1 )=visible,  15560 ).
+0.273::holdsAt( orientation( id3 )=165, 15560  ). holdsAt( appearance( id3 )=visible,  15560 ).
+0.142::holdsAt( orientation( id7 )=174, 15560  ). holdsAt( appearance( id7 )=visible,  15560 ).
+
+% Frame number: 390
+0.115::holdsAt( orientation( id1 )=143, 15600  ). holdsAt( appearance( id1 )=visible,  15600 ).
+0.0958::holdsAt( orientation( id3 )=165, 15600  ). holdsAt( appearance( id3 )=visible,  15600 ).
+0.0123::holdsAt( orientation( id7 )=174, 15600  ). holdsAt( appearance( id7 )=visible,  15600 ).
+
+% Frame number: 391
+0.283::holdsAt( orientation( id1 )=143, 15640  ). holdsAt( appearance( id1 )=visible,  15640 ).
+0.463::holdsAt( orientation( id3 )=165, 15640  ). holdsAt( appearance( id3 )=visible,  15640 ).
+0.496::holdsAt( orientation( id7 )=174, 15640  ). holdsAt( appearance( id7 )=visible,  15640 ).
+
+% Frame number: 392
+0.175::holdsAt( orientation( id1 )=143, 15680  ). holdsAt( appearance( id1 )=visible,  15680 ).
+0.184::holdsAt( orientation( id3 )=165, 15680  ). holdsAt( appearance( id3 )=visible,  15680 ).
+0.279::holdsAt( orientation( id7 )=174, 15680  ). holdsAt( appearance( id7 )=visible,  15680 ).
+
+% Frame number: 393
+0.166::holdsAt( orientation( id1 )=143, 15720  ). holdsAt( appearance( id1 )=visible,  15720 ).
+0.649::holdsAt( orientation( id3 )=165, 15720  ). holdsAt( appearance( id3 )=visible,  15720 ).
+0.000861::holdsAt( orientation( id7 )=174, 15720  ). holdsAt( appearance( id7 )=visible,  15720 ).
+
+% Frame number: 394
+0.467::holdsAt( orientation( id1 )=143, 15760  ). holdsAt( appearance( id1 )=visible,  15760 ).
+0.0651::holdsAt( orientation( id3 )=165, 15760  ). holdsAt( appearance( id3 )=visible,  15760 ).
+0.213::holdsAt( orientation( id7 )=174, 15760  ). holdsAt( appearance( id7 )=visible,  15760 ).
+
+% Frame number: 395
+0.216::holdsAt( orientation( id1 )=143, 15800  ). holdsAt( appearance( id1 )=visible,  15800 ).
+0.413::holdsAt( orientation( id3 )=165, 15800  ). holdsAt( appearance( id3 )=visible,  15800 ).
+0.196::holdsAt( orientation( id7 )=174, 15800  ). holdsAt( appearance( id7 )=visible,  15800 ).
+
+% Frame number: 396
+0.51::holdsAt( orientation( id1 )=143, 15840  ). holdsAt( appearance( id1 )=visible,  15840 ).
+0.527::holdsAt( orientation( id3 )=165, 15840  ). holdsAt( appearance( id3 )=visible,  15840 ).
+0.145::holdsAt( orientation( id7 )=174, 15840  ). holdsAt( appearance( id7 )=visible,  15840 ).
+
+% Frame number: 397
+0.357::holdsAt( orientation( id1 )=143, 15880  ). holdsAt( appearance( id1 )=visible,  15880 ).
+0.364::holdsAt( orientation( id3 )=165, 15880  ). holdsAt( appearance( id3 )=visible,  15880 ).
+0.264::holdsAt( orientation( id7 )=174, 15880  ). holdsAt( appearance( id7 )=visible,  15880 ).
+
+% Frame number: 398
+0.00808::holdsAt( orientation( id1 )=143, 15920  ). holdsAt( appearance( id1 )=visible,  15920 ).
+0.813::holdsAt( orientation( id3 )=165, 15920  ). holdsAt( appearance( id3 )=visible,  15920 ).
+0.15::holdsAt( orientation( id7 )=174, 15920  ). holdsAt( appearance( id7 )=visible,  15920 ).
+
+% Frame number: 399
+0.105::holdsAt( orientation( id1 )=143, 15960  ). holdsAt( appearance( id1 )=visible,  15960 ).
+0.016::holdsAt( orientation( id3 )=165, 15960  ). holdsAt( appearance( id3 )=visible,  15960 ).
+0.136::holdsAt( orientation( id7 )=174, 15960  ). holdsAt( appearance( id7 )=visible,  15960 ).
+
+% Frame number: 400
+0.0839::holdsAt( orientation( id1 )=143, 16000  ). holdsAt( appearance( id1 )=visible,  16000 ).
+0.0976::holdsAt( orientation( id3 )=165, 16000  ). holdsAt( appearance( id3 )=visible,  16000 ).
+0.0942::holdsAt( orientation( id7 )=174, 16000  ). holdsAt( appearance( id7 )=visible,  16000 ).
+
+% Frame number: 401
+0.0674::holdsAt( orientation( id1 )=143, 16040  ). holdsAt( appearance( id1 )=visible,  16040 ).
+0.00351::holdsAt( orientation( id3 )=165, 16040  ). holdsAt( appearance( id3 )=visible,  16040 ).
+0.0971::holdsAt( orientation( id7 )=174, 16040  ). holdsAt( appearance( id7 )=visible,  16040 ).
+
+% Frame number: 402
+0.351::holdsAt( orientation( id1 )=143, 16080  ). holdsAt( appearance( id1 )=visible,  16080 ).
+0.391::holdsAt( orientation( id3 )=165, 16080  ). holdsAt( appearance( id3 )=visible,  16080 ).
+0.11::holdsAt( orientation( id7 )=174, 16080  ). holdsAt( appearance( id7 )=visible,  16080 ).
+
+% Frame number: 403
+0.265::holdsAt( orientation( id1 )=143, 16120  ). holdsAt( appearance( id1 )=visible,  16120 ).
+0.465::holdsAt( orientation( id3 )=165, 16120  ). holdsAt( appearance( id3 )=visible,  16120 ).
+0.173::holdsAt( orientation( id7 )=174, 16120  ). holdsAt( appearance( id7 )=visible,  16120 ).
+
+% Frame number: 404
+0.241::holdsAt( orientation( id3 )=165, 16160  ). holdsAt( appearance( id3 )=visible,  16160 ).
+0.617::holdsAt( orientation( id7 )=174, 16160  ). holdsAt( appearance( id7 )=visible,  16160 ).
+
+% Frame number: 405
+0.214::holdsAt( orientation( id3 )=165, 16200  ). holdsAt( appearance( id3 )=visible,  16200 ).
+0.683::holdsAt( orientation( id7 )=174, 16200  ). holdsAt( appearance( id7 )=visible,  16200 ).
+
+% Frame number: 406
+0.345::holdsAt( orientation( id3 )=165, 16240  ). holdsAt( appearance( id3 )=visible,  16240 ).
+0.425::holdsAt( orientation( id7 )=174, 16240  ). holdsAt( appearance( id7 )=visible,  16240 ).
+
+% Frame number: 407
+0.0597::holdsAt( orientation( id3 )=165, 16280  ). holdsAt( appearance( id3 )=visible,  16280 ).
+0.138::holdsAt( orientation( id7 )=174, 16280  ). holdsAt( appearance( id7 )=visible,  16280 ).
+
+% Frame number: 408
+0.376::holdsAt( orientation( id3 )=165, 16320  ). holdsAt( appearance( id3 )=visible,  16320 ).
+0.044::holdsAt( orientation( id7 )=174, 16320  ). holdsAt( appearance( id7 )=visible,  16320 ).
+
+% Frame number: 409
+0.331::holdsAt( orientation( id3 )=165, 16360  ). holdsAt( appearance( id3 )=visible,  16360 ).
+0.0531::holdsAt( orientation( id7 )=174, 16360  ). holdsAt( appearance( id7 )=visible,  16360 ).
+
+% Frame number: 410
+0.0385::holdsAt( orientation( id3 )=165, 16400  ). holdsAt( appearance( id3 )=visible,  16400 ).
+0.0315::holdsAt( orientation( id7 )=174, 16400  ). holdsAt( appearance( id7 )=visible,  16400 ).
+
+% Frame number: 411
+0.33::holdsAt( orientation( id3 )=165, 16440  ). holdsAt( appearance( id3 )=visible,  16440 ).
+0.215::holdsAt( orientation( id7 )=174, 16440  ). holdsAt( appearance( id7 )=visible,  16440 ).
+
+% Frame number: 412
+0.175::holdsAt( orientation( id3 )=165, 16480  ). holdsAt( appearance( id3 )=visible,  16480 ).
+0.119::holdsAt( orientation( id7 )=174, 16480  ). holdsAt( appearance( id7 )=visible,  16480 ).
+
+% Frame number: 413
+0.378::holdsAt( orientation( id3 )=165, 16520  ). holdsAt( appearance( id3 )=visible,  16520 ).
+0.112::holdsAt( orientation( id7 )=174, 16520  ). holdsAt( appearance( id7 )=visible,  16520 ).
+
+% Frame number: 414
+0.259::holdsAt( orientation( id3 )=165, 16560  ). holdsAt( appearance( id3 )=visible,  16560 ).
+0.0959::holdsAt( orientation( id7 )=174, 16560  ). holdsAt( appearance( id7 )=visible,  16560 ).
+
+% Frame number: 415
+0.299::holdsAt( orientation( id3 )=165, 16600  ). holdsAt( appearance( id3 )=visible,  16600 ).
+0.0737::holdsAt( orientation( id7 )=174, 16600  ). holdsAt( appearance( id7 )=visible,  16600 ).
+
+% Frame number: 416
+0.35::holdsAt( orientation( id3 )=165, 16640  ). holdsAt( appearance( id3 )=visible,  16640 ).
+0.642::holdsAt( orientation( id7 )=174, 16640  ). holdsAt( appearance( id7 )=visible,  16640 ).
+
+% Frame number: 417
+0.0158::holdsAt( orientation( id3 )=165, 16680  ). holdsAt( appearance( id3 )=visible,  16680 ).
+0.217::holdsAt( orientation( id7 )=171, 16680  ). holdsAt( appearance( id7 )=visible,  16680 ).
+
+% Frame number: 418
+0.273::holdsAt( orientation( id3 )=165, 16720  ). holdsAt( appearance( id3 )=visible,  16720 ).
+0.603::holdsAt( orientation( id7 )=168, 16720  ). holdsAt( appearance( id7 )=visible,  16720 ).
+
+% Frame number: 419
+0.0795::holdsAt( orientation( id3 )=165, 16760  ). holdsAt( appearance( id3 )=visible,  16760 ).
+0.0917::holdsAt( orientation( id7 )=169, 16760  ). holdsAt( appearance( id7 )=visible,  16760 ).
+
+% Frame number: 420
+0.179::holdsAt( orientation( id3 )=165, 16800  ). holdsAt( appearance( id3 )=visible,  16800 ).
+0.0348::holdsAt( orientation( id7 )=168, 16800  ). holdsAt( appearance( id7 )=visible,  16800 ).
+
+% Frame number: 421
+0.229::holdsAt( orientation( id3 )=165, 16840  ). holdsAt( appearance( id3 )=visible,  16840 ).
+0.188::holdsAt( orientation( id7 )=168, 16840  ). holdsAt( appearance( id7 )=visible,  16840 ).
+
+% Frame number: 422
+0.0468::holdsAt( orientation( id3 )=165, 16880  ). holdsAt( appearance( id3 )=visible,  16880 ).
+0.262::holdsAt( orientation( id7 )=163, 16880  ). holdsAt( appearance( id7 )=visible,  16880 ).
+
+% Frame number: 423
+0.0963::holdsAt( orientation( id3 )=165, 16920  ). holdsAt( appearance( id3 )=visible,  16920 ).
+0.0666::holdsAt( orientation( id7 )=163, 16920  ). holdsAt( appearance( id7 )=visible,  16920 ).
+
+% Frame number: 424
+0.153::holdsAt( orientation( id3 )=165, 16960  ). holdsAt( appearance( id3 )=visible,  16960 ).
+0.701::holdsAt( orientation( id7 )=164, 16960  ). holdsAt( appearance( id7 )=visible,  16960 ).
+
+% Frame number: 425
+0.00927::holdsAt( orientation( id3 )=165, 17000  ). holdsAt( appearance( id3 )=visible,  17000 ).
+0.152::holdsAt( orientation( id7 )=164, 17000  ). holdsAt( appearance( id7 )=visible,  17000 ).
+
+% Frame number: 426
+0.573::holdsAt( orientation( id3 )=165, 17040  ). holdsAt( appearance( id3 )=visible,  17040 ).
+0.232::holdsAt( orientation( id7 )=165, 17040  ). holdsAt( appearance( id7 )=visible,  17040 ).
+
+% Frame number: 427
+0.542::holdsAt( orientation( id3 )=165, 17080  ). holdsAt( appearance( id3 )=visible,  17080 ).
+0.164::holdsAt( orientation( id7 )=166, 17080  ). holdsAt( appearance( id7 )=visible,  17080 ).
+
+% Frame number: 428
+0.0819::holdsAt( orientation( id3 )=165, 17120  ). holdsAt( appearance( id3 )=visible,  17120 ).
+0.568::holdsAt( orientation( id7 )=168, 17120  ). holdsAt( appearance( id7 )=visible,  17120 ).
+
+% Frame number: 429
+0.228::holdsAt( orientation( id3 )=165, 17160  ). holdsAt( appearance( id3 )=visible,  17160 ).
+0.326::holdsAt( orientation( id7 )=166, 17160  ). holdsAt( appearance( id7 )=visible,  17160 ).
+
+% Frame number: 430
+0.188::holdsAt( orientation( id3 )=165, 17200  ). holdsAt( appearance( id3 )=visible,  17200 ).
+0.66::holdsAt( orientation( id7 )=164, 17200  ). holdsAt( appearance( id7 )=visible,  17200 ).
+
+% Frame number: 431
+0.0622::holdsAt( orientation( id3 )=165, 17240  ). holdsAt( appearance( id3 )=visible,  17240 ).
+0.243::holdsAt( orientation( id7 )=165, 17240  ). holdsAt( appearance( id7 )=visible,  17240 ).
+
+% Frame number: 432
+0.311::holdsAt( orientation( id3 )=165, 17280  ). holdsAt( appearance( id3 )=visible,  17280 ).
+0.206::holdsAt( orientation( id7 )=165, 17280  ). holdsAt( appearance( id7 )=visible,  17280 ).
+
+% Frame number: 433
+0.629::holdsAt( orientation( id3 )=165, 17320  ). holdsAt( appearance( id3 )=disappear,  17320 ).
+0.0587::holdsAt( orientation( id7 )=161, 17320  ). holdsAt( appearance( id7 )=visible,  17320 ).
+
+% Frame number: 434
+0.151::holdsAt( orientation( id7 )=164, 17360  ). holdsAt( appearance( id7 )=visible,  17360 ).
+
+% Frame number: 435
+0.117::holdsAt( orientation( id7 )=164, 17400  ). holdsAt( appearance( id7 )=visible,  17400 ).
+
+% Frame number: 436
+0.199::holdsAt( orientation( id7 )=164, 17440  ). holdsAt( appearance( id7 )=visible,  17440 ).
+
+% Frame number: 437
+0.552::holdsAt( orientation( id7 )=164, 17480  ). holdsAt( appearance( id7 )=visible,  17480 ).
+
+% Frame number: 438
+0.663::holdsAt( orientation( id7 )=164, 17520  ). holdsAt( appearance( id7 )=visible,  17520 ).
+
+% Frame number: 439
+0.143::holdsAt( orientation( id7 )=164, 17560  ). holdsAt( appearance( id7 )=visible,  17560 ).
+
+% Frame number: 440
+0.0511::holdsAt( orientation( id7 )=164, 17600  ). holdsAt( appearance( id7 )=visible,  17600 ).
+
+% Frame number: 441
+0.073::holdsAt( orientation( id7 )=164, 17640  ). holdsAt( appearance( id7 )=visible,  17640 ).
+
+% Frame number: 442
+0.243::holdsAt( orientation( id7 )=164, 17680  ). holdsAt( appearance( id7 )=visible,  17680 ).
+
+% Frame number: 443
+0.305::holdsAt( orientation( id7 )=164, 17720  ). holdsAt( appearance( id7 )=visible,  17720 ).
+
+% Frame number: 444
+0.248::holdsAt( orientation( id7 )=164, 17760  ). holdsAt( appearance( id7 )=visible,  17760 ).
+
+% Frame number: 445
+0.0414::holdsAt( orientation( id7 )=164, 17800  ). holdsAt( appearance( id7 )=visible,  17800 ).
+
+% Frame number: 446
+0.0619::holdsAt( orientation( id7 )=164, 17840  ). holdsAt( appearance( id7 )=visible,  17840 ).
+
+% Frame number: 447
+0.00457::holdsAt( orientation( id7 )=164, 17880  ). holdsAt( appearance( id7 )=visible,  17880 ).
+
+% Frame number: 448
+0.446::holdsAt( orientation( id7 )=164, 17920  ). holdsAt( appearance( id7 )=visible,  17920 ).
+
+% Frame number: 449
+0.114::holdsAt( orientation( id7 )=164, 17960  ). holdsAt( appearance( id7 )=visible,  17960 ).
+
+% Frame number: 450
+0.0926::holdsAt( orientation( id7 )=164, 18000  ). holdsAt( appearance( id7 )=visible,  18000 ).
+
+% Frame number: 451
+0.338::holdsAt( orientation( id7 )=164, 18040  ). holdsAt( appearance( id7 )=visible,  18040 ).
+
+% Frame number: 452
+0.0546::holdsAt( orientation( id7 )=164, 18080  ). holdsAt( appearance( id7 )=visible,  18080 ).
+
+% Frame number: 453
+0.177::holdsAt( orientation( id7 )=164, 18120  ). holdsAt( appearance( id7 )=visible,  18120 ).
+
+% Frame number: 454
+0.18::holdsAt( orientation( id7 )=164, 18160  ). holdsAt( appearance( id7 )=visible,  18160 ).
+
+% Frame number: 455
+0.462::holdsAt( orientation( id7 )=164, 18200  ). holdsAt( appearance( id7 )=visible,  18200 ).
+
+% Frame number: 456
+0.343::holdsAt( orientation( id7 )=164, 18240  ). holdsAt( appearance( id7 )=visible,  18240 ).
+
+% Frame number: 457
+0.0893::holdsAt( orientation( id7 )=168, 18280  ). holdsAt( appearance( id7 )=visible,  18280 ).
+
+% Frame number: 458
+0.391::holdsAt( orientation( id7 )=168, 18320  ). holdsAt( appearance( id7 )=visible,  18320 ).
+
+% Frame number: 459
+0.0237::holdsAt( orientation( id7 )=168, 18360  ). holdsAt( appearance( id7 )=visible,  18360 ).
+
+% Frame number: 460
+0.095::holdsAt( orientation( id7 )=168, 18400  ). holdsAt( appearance( id7 )=visible,  18400 ).
+
+% Frame number: 461
+0.122::holdsAt( orientation( id7 )=168, 18440  ). holdsAt( appearance( id7 )=visible,  18440 ).
+
+% Frame number: 462
+0.508::holdsAt( orientation( id7 )=168, 18480  ). holdsAt( appearance( id7 )=visible,  18480 ).
+
+% Frame number: 463
+0.175::holdsAt( orientation( id7 )=168, 18520  ). holdsAt( appearance( id7 )=visible,  18520 ).
+
+% Frame number: 464
+0.314::holdsAt( orientation( id7 )=168, 18560  ). holdsAt( appearance( id7 )=visible,  18560 ).
+
+% Frame number: 465
+0.0995::holdsAt( orientation( id7 )=168, 18600  ). holdsAt( appearance( id7 )=visible,  18600 ).
+
+% Frame number: 466
+0.438::holdsAt( orientation( id7 )=168, 18640  ). holdsAt( appearance( id7 )=visible,  18640 ).
+
+% Frame number: 467
+0.271::holdsAt( orientation( id7 )=168, 18680  ). holdsAt( appearance( id7 )=visible,  18680 ).
+
+% Frame number: 468
+0.142::holdsAt( orientation( id7 )=168, 18720  ). holdsAt( appearance( id7 )=visible,  18720 ).
+
+% Frame number: 469
+0.00982::holdsAt( orientation( id7 )=168, 18760  ). holdsAt( appearance( id7 )=visible,  18760 ).
+
+% Frame number: 470
+0.0687::holdsAt( orientation( id7 )=168, 18800  ). holdsAt( appearance( id7 )=visible,  18800 ).
+
+% Frame number: 471
+0.112::holdsAt( orientation( id7 )=168, 18840  ). holdsAt( appearance( id7 )=visible,  18840 ).
+
+% Frame number: 472
+0.142::holdsAt( orientation( id7 )=168, 18880  ). holdsAt( appearance( id7 )=visible,  18880 ).
+
+% Frame number: 473
+0.0839::holdsAt( orientation( id7 )=168, 18920  ). holdsAt( appearance( id7 )=visible,  18920 ).
+
+% Frame number: 474
+0.199::holdsAt( orientation( id7 )=168, 18960  ). holdsAt( appearance( id7 )=visible,  18960 ).
+
+% Frame number: 475
+0.175::holdsAt( orientation( id7 )=168, 19000  ). holdsAt( appearance( id7 )=visible,  19000 ).
+
+% Frame number: 476
+0.181::holdsAt( orientation( id7 )=168, 19040  ). holdsAt( appearance( id7 )=visible,  19040 ).
+
+% Frame number: 477
+0.262::holdsAt( orientation( id7 )=168, 19080  ). holdsAt( appearance( id7 )=visible,  19080 ).
+
+% Frame number: 478
+0.387::holdsAt( orientation( id7 )=168, 19120  ). holdsAt( appearance( id7 )=visible,  19120 ).
+
+% Frame number: 479
+0.0325::holdsAt( orientation( id7 )=168, 19160  ). holdsAt( appearance( id7 )=visible,  19160 ).
+
+% Frame number: 480
+0.487::holdsAt( orientation( id7 )=168, 19200  ). holdsAt( appearance( id7 )=visible,  19200 ).
+
+% Frame number: 481
+0.121::holdsAt( orientation( id7 )=168, 19240  ). holdsAt( appearance( id7 )=visible,  19240 ).
+
+% Frame number: 482
+0.0114::holdsAt( orientation( id7 )=168, 19280  ). holdsAt( appearance( id7 )=visible,  19280 ).
+
+% Frame number: 483
+0.14::holdsAt( orientation( id7 )=168, 19320  ). holdsAt( appearance( id7 )=visible,  19320 ).
+
+% Frame number: 484
+0.0215::holdsAt( orientation( id7 )=168, 19360  ). holdsAt( appearance( id7 )=visible,  19360 ).
+
+% Frame number: 485
+0.0373::holdsAt( orientation( id7 )=168, 19400  ). holdsAt( appearance( id7 )=visible,  19400 ).
+
+% Frame number: 486
+0.0124::holdsAt( orientation( id7 )=168, 19440  ). holdsAt( appearance( id7 )=visible,  19440 ).
+
+% Frame number: 487
+0.147::holdsAt( orientation( id7 )=168, 19480  ). holdsAt( appearance( id7 )=visible,  19480 ).
+
+% Frame number: 488
+0.263::holdsAt( orientation( id7 )=168, 19520  ). holdsAt( appearance( id7 )=visible,  19520 ).
+
+% Frame number: 489
+0.157::holdsAt( orientation( id7 )=168, 19560  ). holdsAt( appearance( id7 )=visible,  19560 ).
+
+% Frame number: 490
+0.27::holdsAt( orientation( id7 )=168, 19600  ). holdsAt( appearance( id7 )=visible,  19600 ).
+
+% Frame number: 491
+0.0413::holdsAt( orientation( id7 )=168, 19640  ). holdsAt( appearance( id7 )=visible,  19640 ).
+
+% Frame number: 492
+0.328::holdsAt( orientation( id7 )=168, 19680  ). holdsAt( appearance( id7 )=visible,  19680 ).
+
+% Frame number: 493
+0.144::holdsAt( orientation( id7 )=168, 19720  ). holdsAt( appearance( id7 )=visible,  19720 ).
+
+% Frame number: 494
+0.395::holdsAt( orientation( id7 )=168, 19760  ). holdsAt( appearance( id7 )=visible,  19760 ).
+
+% Frame number: 495
+0.2::holdsAt( orientation( id7 )=168, 19800  ). holdsAt( appearance( id7 )=visible,  19800 ).
+
+% Frame number: 496
+0.404::holdsAt( orientation( id7 )=168, 19840  ). holdsAt( appearance( id7 )=visible,  19840 ).
+
+% Frame number: 497
+0.0342::holdsAt( orientation( id7 )=168, 19880  ). holdsAt( appearance( id7 )=visible,  19880 ).
+
+% Frame number: 498
+0.489::holdsAt( orientation( id7 )=168, 19920  ). holdsAt( appearance( id7 )=visible,  19920 ).
+
+% Frame number: 499
+0.552::holdsAt( orientation( id7 )=168, 19960  ). holdsAt( appearance( id7 )=visible,  19960 ).
+
+% Frame number: 500
+0.105::holdsAt( orientation( id7 )=168, 20000  ). holdsAt( appearance( id7 )=visible,  20000 ).
+
+% Frame number: 501
+0.494::holdsAt( orientation( id7 )=168, 20040  ). holdsAt( appearance( id7 )=visible,  20040 ).
+
+% Frame number: 502
+0.0254::holdsAt( orientation( id7 )=168, 20080  ). holdsAt( appearance( id7 )=visible,  20080 ).
+
+% Frame number: 503
+0.184::holdsAt( orientation( id7 )=168, 20120  ). holdsAt( appearance( id7 )=visible,  20120 ).
+
+% Frame number: 504
+0.444::holdsAt( orientation( id7 )=168, 20160  ). holdsAt( appearance( id7 )=visible,  20160 ).
+
+% Frame number: 505
+0.101::holdsAt( orientation( id7 )=168, 20200  ). holdsAt( appearance( id7 )=visible,  20200 ).
+
+% Frame number: 506
+0.138::holdsAt( orientation( id7 )=168, 20240  ). holdsAt( appearance( id7 )=visible,  20240 ).
+
+% Frame number: 507
+0.548::holdsAt( orientation( id7 )=168, 20280  ). holdsAt( appearance( id7 )=visible,  20280 ).
+
+% Frame number: 508
+0.614::holdsAt( orientation( id7 )=168, 20320  ). holdsAt( appearance( id7 )=visible,  20320 ).
+
+% Frame number: 509
+0.0899::holdsAt( orientation( id7 )=168, 20360  ). holdsAt( appearance( id7 )=visible,  20360 ).
+
+% Frame number: 510
+0.115::holdsAt( orientation( id7 )=168, 20400  ). holdsAt( appearance( id7 )=visible,  20400 ).
+
+% Frame number: 511
+0.653::holdsAt( orientation( id7 )=168, 20440  ). holdsAt( appearance( id7 )=visible,  20440 ).
+
+% Frame number: 512
+0.0632::holdsAt( orientation( id7 )=168, 20480  ). holdsAt( appearance( id7 )=visible,  20480 ).
+
+% Frame number: 513
+0.0319::holdsAt( orientation( id7 )=168, 20520  ). holdsAt( appearance( id7 )=visible,  20520 ).
+
+% Frame number: 514
+0.00504::holdsAt( orientation( id7 )=168, 20560  ). holdsAt( appearance( id7 )=visible,  20560 ).
+
+% Frame number: 515
+0.128::holdsAt( orientation( id7 )=168, 20600  ). holdsAt( appearance( id7 )=visible,  20600 ).
+
+% Frame number: 516
+0.566::holdsAt( orientation( id7 )=168, 20640  ). holdsAt( appearance( id7 )=visible,  20640 ).
+
+% Frame number: 517
+0.129::holdsAt( orientation( id7 )=168, 20680  ). holdsAt( appearance( id7 )=visible,  20680 ).
+
+% Frame number: 518
+0.383::holdsAt( orientation( id7 )=168, 20720  ). holdsAt( appearance( id7 )=visible,  20720 ).
+
+% Frame number: 519
+0.105::holdsAt( orientation( id7 )=168, 20760  ). holdsAt( appearance( id7 )=visible,  20760 ).
+
+% Frame number: 520
+0.0389::holdsAt( orientation( id7 )=168, 20800  ). holdsAt( appearance( id7 )=visible,  20800 ).
+
+% Frame number: 521
+0.0048::holdsAt( orientation( id7 )=168, 20840  ). holdsAt( appearance( id7 )=visible,  20840 ).
+
+% Frame number: 522
+0.277::holdsAt( orientation( id7 )=168, 20880  ). holdsAt( appearance( id7 )=visible,  20880 ).
+
+% Frame number: 523
+0.199::holdsAt( orientation( id7 )=168, 20920  ). holdsAt( appearance( id7 )=visible,  20920 ).
+
+% Frame number: 524
+0.128::holdsAt( orientation( id7 )=168, 20960  ). holdsAt( appearance( id7 )=visible,  20960 ).
+
+% Frame number: 525
+0.0658::holdsAt( orientation( id7 )=168, 21000  ). holdsAt( appearance( id7 )=visible,  21000 ).
+
+% Frame number: 526
+0.293::holdsAt( orientation( id7 )=168, 21040  ). holdsAt( appearance( id7 )=visible,  21040 ).
+
+% Frame number: 527
+0.185::holdsAt( orientation( id7 )=168, 21080  ). holdsAt( appearance( id7 )=visible,  21080 ).
+
+% Frame number: 528
+0.0963::holdsAt( orientation( id7 )=168, 21120  ). holdsAt( appearance( id7 )=visible,  21120 ).
+
+% Frame number: 529
+0.541::holdsAt( orientation( id7 )=168, 21160  ). holdsAt( appearance( id7 )=visible,  21160 ).
+
+% Frame number: 530
+0.0427::holdsAt( orientation( id7 )=168, 21200  ). holdsAt( appearance( id7 )=visible,  21200 ).
+
+% Frame number: 531
+0.142::holdsAt( orientation( id7 )=168, 21240  ). holdsAt( appearance( id7 )=visible,  21240 ).
+
+% Frame number: 532
+0.0719::holdsAt( orientation( id7 )=168, 21280  ). holdsAt( appearance( id7 )=visible,  21280 ).
+
+% Frame number: 533
+0.0554::holdsAt( orientation( id7 )=168, 21320  ). holdsAt( appearance( id7 )=visible,  21320 ).
+
+% Frame number: 534
+0.103::holdsAt( orientation( id7 )=168, 21360  ). holdsAt( appearance( id7 )=visible,  21360 ).
+
+% Frame number: 535
+0.0571::holdsAt( orientation( id7 )=168, 21400  ). holdsAt( appearance( id7 )=visible,  21400 ).
+
+% Frame number: 536
+0.149::holdsAt( orientation( id7 )=168, 21440  ). holdsAt( appearance( id7 )=visible,  21440 ).
+
+% Frame number: 537
+0.187::holdsAt( orientation( id7 )=168, 21480  ). holdsAt( appearance( id7 )=visible,  21480 ).
+
+% Frame number: 538
+0.398::holdsAt( orientation( id7 )=168, 21520  ). holdsAt( appearance( id7 )=visible,  21520 ).
+
+% Frame number: 539
+0.0659::holdsAt( orientation( id7 )=168, 21560  ). holdsAt( appearance( id7 )=visible,  21560 ).
+
+% Frame number: 540
+0.159::holdsAt( orientation( id7 )=168, 21600  ). holdsAt( appearance( id7 )=visible,  21600 ).
+
+% Frame number: 541
+0.774::holdsAt( orientation( id7 )=168, 21640  ). holdsAt( appearance( id7 )=visible,  21640 ).
+
+% Frame number: 542
+0.151::holdsAt( orientation( id7 )=168, 21680  ). holdsAt( appearance( id7 )=visible,  21680 ).
+
+% Frame number: 543
+0.0389::holdsAt( orientation( id7 )=168, 21720  ). holdsAt( appearance( id7 )=visible,  21720 ).
+
+% Frame number: 544
+0.0387::holdsAt( orientation( id7 )=168, 21760  ). holdsAt( appearance( id7 )=visible,  21760 ).
+
+% Frame number: 545
+0.0984::holdsAt( orientation( id7 )=168, 21800  ). holdsAt( appearance( id7 )=visible,  21800 ).
+
+% Frame number: 546
+0.188::holdsAt( orientation( id7 )=168, 21840  ). holdsAt( appearance( id7 )=visible,  21840 ).
+
+% Frame number: 547
+0.0931::holdsAt( orientation( id7 )=168, 21880  ). holdsAt( appearance( id7 )=visible,  21880 ).
+
+% Frame number: 548
+0.487::holdsAt( orientation( id7 )=168, 21920  ). holdsAt( appearance( id7 )=visible,  21920 ).
+
+% Frame number: 549
+0.72::holdsAt( orientation( id7 )=168, 21960  ). holdsAt( appearance( id7 )=visible,  21960 ).
+
+% Frame number: 550
+0.139::holdsAt( orientation( id7 )=168, 22000  ). holdsAt( appearance( id7 )=visible,  22000 ).
+
+% Frame number: 551
+0.0169::holdsAt( orientation( id7 )=168, 22040  ). holdsAt( appearance( id7 )=visible,  22040 ).
+
+% Frame number: 552
+0.0142::holdsAt( orientation( id7 )=168, 22080  ). holdsAt( appearance( id7 )=visible,  22080 ).
+
+% Frame number: 553
+0.473::holdsAt( orientation( id7 )=168, 22120  ). holdsAt( appearance( id7 )=visible,  22120 ).
+
+% Frame number: 554
+0.00887::holdsAt( orientation( id7 )=168, 22160  ). holdsAt( appearance( id7 )=visible,  22160 ).
+
+% Frame number: 555
+0.049::holdsAt( orientation( id7 )=168, 22200  ). holdsAt( appearance( id7 )=visible,  22200 ).
+
+% Frame number: 556
+0.00513::holdsAt( orientation( id7 )=168, 22240  ). holdsAt( appearance( id7 )=visible,  22240 ).
+
+% Frame number: 557
+0.161::holdsAt( orientation( id7 )=168, 22280  ). holdsAt( appearance( id7 )=visible,  22280 ).
+
+% Frame number: 558
+0.776::holdsAt( orientation( id7 )=168, 22320  ). holdsAt( appearance( id7 )=visible,  22320 ).
+
+% Frame number: 559
+0.179::holdsAt( orientation( id7 )=168, 22360  ). holdsAt( appearance( id7 )=visible,  22360 ).
+
+% Frame number: 560
+0.191::holdsAt( orientation( id7 )=168, 22400  ). holdsAt( appearance( id7 )=visible,  22400 ).
+
+% Frame number: 561
+0.193::holdsAt( orientation( id7 )=168, 22440  ). holdsAt( appearance( id7 )=visible,  22440 ).
+
+% Frame number: 562
+0.0705::holdsAt( orientation( id7 )=168, 22480  ). holdsAt( appearance( id7 )=visible,  22480 ).
+
+% Frame number: 563
+0.0286::holdsAt( orientation( id7 )=168, 22520  ). holdsAt( appearance( id7 )=visible,  22520 ).
+
+% Frame number: 564
+0.00738::holdsAt( orientation( id7 )=168, 22560  ). holdsAt( appearance( id7 )=visible,  22560 ).
+
+% Frame number: 565
+0.236::holdsAt( orientation( id7 )=168, 22600  ). holdsAt( appearance( id7 )=visible,  22600 ).
+
+% Frame number: 566
+0.389::holdsAt( orientation( id7 )=168, 22640  ). holdsAt( appearance( id7 )=visible,  22640 ).
+
+% Frame number: 567
+0.131::holdsAt( orientation( id7 )=168, 22680  ). holdsAt( appearance( id7 )=visible,  22680 ).
+
+% Frame number: 568
+0.144::holdsAt( orientation( id7 )=168, 22720  ). holdsAt( appearance( id7 )=visible,  22720 ).
+
+% Frame number: 569
+0.22::holdsAt( orientation( id7 )=168, 22760  ). holdsAt( appearance( id7 )=visible,  22760 ).
+
+% Frame number: 570
+0.415::holdsAt( orientation( id7 )=168, 22800  ). holdsAt( appearance( id7 )=visible,  22800 ).
+
+% Frame number: 571
+0.141::holdsAt( orientation( id7 )=168, 22840  ). holdsAt( appearance( id7 )=visible,  22840 ).
+
+% Frame number: 572
+0.509::holdsAt( orientation( id7 )=168, 22880  ). holdsAt( appearance( id7 )=visible,  22880 ).
+
+% Frame number: 573
+0.0365::holdsAt( orientation( id7 )=168, 22920  ). holdsAt( appearance( id7 )=visible,  22920 ).
+
+% Frame number: 574
+0.108::holdsAt( orientation( id7 )=168, 22960  ). holdsAt( appearance( id7 )=visible,  22960 ).
+
+% Frame number: 575
+0.257::holdsAt( orientation( id7 )=168, 23000  ). holdsAt( appearance( id7 )=visible,  23000 ).
+
+% Frame number: 576
+0.257::holdsAt( orientation( id7 )=176, 23040  ). holdsAt( appearance( id7 )=visible,  23040 ).
+
+% Frame number: 577
+0.432::holdsAt( orientation( id7 )=176, 23080  ). holdsAt( appearance( id7 )=visible,  23080 ).
+
+% Frame number: 578
+0.166::holdsAt( orientation( id7 )=176, 23120  ). holdsAt( appearance( id7 )=visible,  23120 ).
+
+% Frame number: 579
+0.236::holdsAt( orientation( id7 )=176, 23160  ). holdsAt( appearance( id7 )=visible,  23160 ).
+
+% Frame number: 580
+0.0499::holdsAt( orientation( id7 )=176, 23200  ). holdsAt( appearance( id7 )=visible,  23200 ).
+
+% Frame number: 581
+0.317::holdsAt( orientation( id7 )=176, 23240  ). holdsAt( appearance( id7 )=visible,  23240 ).
+
+% Frame number: 582
+0.00874::holdsAt( orientation( id7 )=176, 23280  ). holdsAt( appearance( id7 )=visible,  23280 ).
+
+% Frame number: 583
+0.179::holdsAt( orientation( id7 )=176, 23320  ). holdsAt( appearance( id7 )=visible,  23320 ).
+
+% Frame number: 584
+0.0806::holdsAt( orientation( id7 )=176, 23360  ). holdsAt( appearance( id7 )=visible,  23360 ).
+
+% Frame number: 585
+0.115::holdsAt( orientation( id7 )=176, 23400  ). holdsAt( appearance( id7 )=visible,  23400 ).
+
+% Frame number: 586
+0.193::holdsAt( orientation( id7 )=176, 23440  ). holdsAt( appearance( id7 )=visible,  23440 ).
+
+% Frame number: 587
+0.22::holdsAt( orientation( id7 )=176, 23480  ). holdsAt( appearance( id7 )=visible,  23480 ).
+
+% Frame number: 588
+0.0699::holdsAt( orientation( id7 )=176, 23520  ). holdsAt( appearance( id7 )=visible,  23520 ).
+
+% Frame number: 589
+0.12::holdsAt( orientation( id7 )=176, 23560  ). holdsAt( appearance( id7 )=visible,  23560 ).
+
+% Frame number: 590
+0.391::holdsAt( orientation( id7 )=176, 23600  ). holdsAt( appearance( id7 )=visible,  23600 ).
+
+% Frame number: 591
+0.00854::holdsAt( orientation( id7 )=176, 23640  ). holdsAt( appearance( id7 )=visible,  23640 ).
+
+% Frame number: 592
+0.232::holdsAt( orientation( id7 )=176, 23680  ). holdsAt( appearance( id7 )=visible,  23680 ).
+
+% Frame number: 593
+0.253::holdsAt( orientation( id7 )=176, 23720  ). holdsAt( appearance( id7 )=visible,  23720 ).
+
+% Frame number: 594
+0.113::holdsAt( orientation( id7 )=176, 23760  ). holdsAt( appearance( id7 )=visible,  23760 ).
+
+% Frame number: 595
+0.351::holdsAt( orientation( id7 )=176, 23800  ). holdsAt( appearance( id7 )=visible,  23800 ).
+
+% Frame number: 596
+0.066::holdsAt( orientation( id7 )=176, 23840  ). holdsAt( appearance( id7 )=visible,  23840 ).
+
+% Frame number: 597
+0.0691::holdsAt( orientation( id7 )=176, 23880  ). holdsAt( appearance( id7 )=visible,  23880 ).
+
+% Frame number: 598
+0.0765::holdsAt( orientation( id7 )=176, 23920  ). holdsAt( appearance( id7 )=visible,  23920 ).
+
+% Frame number: 599
+0.113::holdsAt( orientation( id7 )=176, 23960  ). holdsAt( appearance( id7 )=visible,  23960 ).
+
+% Frame number: 600
+0.725::holdsAt( orientation( id7 )=176, 24000  ). holdsAt( appearance( id7 )=visible,  24000 ).
+
+% Frame number: 601
+0.246::holdsAt( orientation( id7 )=176, 24040  ). holdsAt( appearance( id7 )=visible,  24040 ).
+
+% Frame number: 602
+0.386::holdsAt( orientation( id7 )=176, 24080  ). holdsAt( appearance( id7 )=visible,  24080 ).
+
+% Frame number: 603
+0.119::holdsAt( orientation( id7 )=176, 24120  ). holdsAt( appearance( id7 )=visible,  24120 ).
+
+% Frame number: 604
+0.0671::holdsAt( orientation( id7 )=176, 24160  ). holdsAt( appearance( id7 )=visible,  24160 ).
+
+% Frame number: 605
+0.575::holdsAt( orientation( id7 )=176, 24200  ). holdsAt( appearance( id7 )=visible,  24200 ).
+
+% Frame number: 606
+0.0523::holdsAt( orientation( id7 )=176, 24240  ). holdsAt( appearance( id7 )=visible,  24240 ).
+
+% Frame number: 607
+0.47::holdsAt( orientation( id7 )=176, 24280  ). holdsAt( appearance( id7 )=visible,  24280 ).
+
+% Frame number: 608
+0.301::holdsAt( orientation( id7 )=176, 24320  ). holdsAt( appearance( id7 )=visible,  24320 ).
+
+% Frame number: 609
+0.371::holdsAt( orientation( id7 )=176, 24360  ). holdsAt( appearance( id7 )=visible,  24360 ).
+
+% Frame number: 610
+0.266::holdsAt( orientation( id7 )=176, 24400  ). holdsAt( appearance( id7 )=visible,  24400 ).
+
+% Frame number: 611
+0.318::holdsAt( orientation( id7 )=176, 24440  ). holdsAt( appearance( id7 )=visible,  24440 ).
+0.0228::holdsAt( orientation( id8 )=146, 24440  ). holdsAt( appearance( id8 )=appear,  24440 ).
+
+% Frame number: 612
+0.197::holdsAt( orientation( id7 )=176, 24480  ). holdsAt( appearance( id7 )=visible,  24480 ).
+0.381::holdsAt( orientation( id8 )=146, 24480  ). holdsAt( appearance( id8 )=visible,  24480 ).
+
+% Frame number: 613
+0.154::holdsAt( orientation( id7 )=176, 24520  ). holdsAt( appearance( id7 )=visible,  24520 ).
+0.426::holdsAt( orientation( id8 )=146, 24520  ). holdsAt( appearance( id8 )=visible,  24520 ).
+
+% Frame number: 614
+0.251::holdsAt( orientation( id7 )=176, 24560  ). holdsAt( appearance( id7 )=visible,  24560 ).
+0.422::holdsAt( orientation( id8 )=146, 24560  ). holdsAt( appearance( id8 )=visible,  24560 ).
+
+% Frame number: 615
+0.0364::holdsAt( orientation( id7 )=176, 24600  ). holdsAt( appearance( id7 )=visible,  24600 ).
+0.0488::holdsAt( orientation( id8 )=146, 24600  ). holdsAt( appearance( id8 )=visible,  24600 ).
+
+% Frame number: 616
+0.483::holdsAt( orientation( id7 )=176, 24640  ). holdsAt( appearance( id7 )=visible,  24640 ).
+0.0575::holdsAt( orientation( id8 )=146, 24640  ). holdsAt( appearance( id8 )=visible,  24640 ).
+
+% Frame number: 617
+0.0176::holdsAt( orientation( id7 )=176, 24680  ). holdsAt( appearance( id7 )=visible,  24680 ).
+0.198::holdsAt( orientation( id8 )=146, 24680  ). holdsAt( appearance( id8 )=visible,  24680 ).
+
+% Frame number: 618
+0.167::holdsAt( orientation( id7 )=176, 24720  ). holdsAt( appearance( id7 )=visible,  24720 ).
+0.235::holdsAt( orientation( id8 )=146, 24720  ). holdsAt( appearance( id8 )=visible,  24720 ).
+
+% Frame number: 619
+0.492::holdsAt( orientation( id7 )=176, 24760  ). holdsAt( appearance( id7 )=visible,  24760 ).
+0.312::holdsAt( orientation( id8 )=146, 24760  ). holdsAt( appearance( id8 )=visible,  24760 ).
+
+% Frame number: 620
+0.0515::holdsAt( orientation( id7 )=176, 24800  ). holdsAt( appearance( id7 )=visible,  24800 ).
+0.167::holdsAt( orientation( id8 )=146, 24800  ). holdsAt( appearance( id8 )=visible,  24800 ).
+
+% Frame number: 621
+0.228::holdsAt( orientation( id7 )=176, 24840  ). holdsAt( appearance( id7 )=visible,  24840 ).
+0.424::holdsAt( orientation( id8 )=146, 24840  ). holdsAt( appearance( id8 )=visible,  24840 ).
+
+% Frame number: 622
+0.0856::holdsAt( orientation( id7 )=176, 24880  ). holdsAt( appearance( id7 )=disappear,  24880 ).
+0.0157::holdsAt( orientation( id8 )=146, 24880  ). holdsAt( appearance( id8 )=disappear,  24880 ).
+
