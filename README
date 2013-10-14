@@ -1,0 +1,147 @@
+---------------------------------
+Contents
+((f) for file, (d) for directory)
+---------------------------------
+
+prob-EC-code(d)
+  |
+  |
+  -----README (f)
+       LICENSE (f)
+       CAVIAR-Full-Evaluation (d)
+       |
+		 |
+		 ------LTAR-EC (d)
+       |     |
+       |     |
+	    |		  ----cached-version (d)
+		 |		 |		|
+		 |		 |		|
+		 |		 |		 ---- er_crisp_orig_cached.pl (f)
+		 |		 |		|		crisp_utils_cached.pl (f)
+		 |		 |		|		event_defs_orig_cached.pl (f)
+		 |		 |		|		ec_cached.pl (f)
+       |     |     ----
+		 |		 | 	non-cached-version (d)
+		 |		 |		|
+		 |		 |		|
+		 |		 |		 ----- er_crisp_orig.pl (f)
+		 |		 |		|		 crisp_utils.pl (f)
+		 |		 |		|      event_defs_orig.pl (f)
+		 |		 |		|		 ec.pl (f)
+       |     |     -----
+		 |		 Prob-EC (d)
+       |     |
+		 |		 |
+		 |		  ----cached-version (d)
+		 |		 |		|
+		 |		 |		|
+		 |		 |		 ---- er_prob_orig_cached.pl (f)
+		 |		 |		|		prob_utils_cached.pl (f)
+		 |		 |		|		prob_event_defs_orig_cached.pl (f)
+		 |		 |		|		prob_ec_cached.pl (f)
+       |     |      ----
+		 |		 |		non-cached-version (d)
+		 |		 |		|
+		 |		 |		|
+		 |		 |		 ----- er_prob_orig.pl (f)
+		 |		 |		|		 prob_utils.pl (f)
+		 |		 |		|      prob_event_defs_orig.pl (f)
+		 |		 |		|		 prob_ec.pl (f)
+       |     |     -----
+		 |		-------
+       randomQuerying (d)
+		 |
+		 |
+		 ------ LTAR-EC (d)
+		 |		  |
+		 |		  |
+		 |		  -------- event_defs_orig.pl (f)
+		 |					  ec.pl (f)
+		 |		  --------
+		 |		  Prob-EC (d)
+		 |		  |
+		 |		  |
+		 |		  -------- prob_event_defs_orig.pl (f)
+		 |					  prob_ec.pl (f)
+		 |		  --------
+		 |	  ------
+       dataset (d)
+		  |
+		  |
+		  | ------ clean-CAVIAR (d)
+		  |         |
+		  |	      |	
+		  |	  		--- 30 CAVIAR videos (30 x d)
+	 	  | ------ smooth-noise (d)
+		  |	  		|
+		  |	  		|
+		  |	  	   --- 30 CAVIAR videos with probabilities (30 x d)
+		  | ------ strong-noise (d)
+		  |	  		|
+		  |	  		|
+		  |	  		--- 30 CAVIAR videos with probabilities (30 x d)
+		  |	  -------
+   		--------
+	-------
+------
+
+
+-----
+Usage
+-----
+There are two main functions of the code:
+
+1) Directory "randomQuerying" provides the user with the ability to query any video of the CAVIAR dataset for any query of interest.
+The following example procedure can be used:
+
+	 - Copy the source files from subdirectories LTAR-EC or Prob-EC to the directory corresponding to the video of interest (all CAVIAR videos can be
+		found in the "dataset" directory).
+	 - Go to the subdirectory of interest and run YAP Prolog.
+	 - Load the event definitions file (e.g. ?- consult('prob_event_defs_orig.pl')). ProbLog and the EC engine
+		are both consulted automatically from this file.
+	 - Load the "AppearanceIndv" and "MovementIndv" files of the video directory (.pl for LTAR-EC queries and .pbl for Prob-EC queries).
+		For example, for Prob-EC queries on video 02-Walk2, type: ?- consult(['wk2gtAppearenceIndv.pbl', 'wk2gtMovementIndv.pbl']) in the YAP
+		prompt.
+	 - Run a "holdsAt" query of interest, e.g. ?- problog_exact(holdsAt(fighting(id2, id1) = true, 1400), Prob, Status) for Prob-EC or
+		holdsAt(leaving_object(id5, id6) = true, 120) for LTAR-EC.
+	 - Exit the YAP prompt at any time with ?- halt or ^C (SIGINT).
+
+2) Directory CAVIAR-Full-Evaluation contains code required to perform a full evaluation of LTAR-EC and Prob-EC over any CAVIAR video. That is,
+it provides the user with the ability to ask all possible holdsAt queries from any video. This will produce a .result text file
+in the current directory. A caching technique has been implemented (CAVIAR-Full-Evaluation/*-EC/cached-version) to speed up this process and is strongly
+recommended over the non-cached versions, which are mainly provided for consistency with the "randomQuerying" directory. The following example procedure 
+may be used:
+	 - As with (1), copy the source files of either Crisp-EC or Prob-EC to the directory of interest and run YAP in that directory.
+	 - Load the "er" file, e.g. ?-consult('er_prob_orig_cached.pl'). The rest of the code and ProbLog should be then loaded automatically.
+	 - Use any rule of the er/1 predicate to run a full evaluation of the relevant video, e.g. ?-er('23-Meet_Crowd') will load the required
+		"AppearanceIndv" and "MovementIndv" files of video 23 and proceed with the evaluation.
+ 	 - For a full evaluation of the entire CAVIAR dataset, run the query ?- fullCAVIAR. It is strongly recommended that this query is run in a separate 
+		shell "screen", because it is rather time-consuming.
+	 - Exit the YAP prompt at any time with ?- halt or ^C (SIGINT).
+
+-----
+Notes
+-----
+
+1) A gamma distribution with mean value 4.0 was used to produce the probabilities for the noisy versions of CAVIAR.
+Noisy versions with probabilities corresponding to different gamma mean values are available upon request.
+2) Total size of the full code (with datasets included) is 198.2 MB.
+
+---------------------
+System Compatibility
+---------------------
+
+The code has been tested on YAP Prolog 6.2.x on Debian and Ubuntu GNU / Linux (kernel 3.0.0-16-generic and 2.6.35-28-server) x86_64 systems.
+
+-------
+License
+-------
+
+Please refer to the "LICENSE" file.
+
+----------------
+Questions / Bugs
+----------------
+
+Please send an e-mail at jfilip (at) iit (dot) demokritos (dot) gr for any questions or bug reports.
